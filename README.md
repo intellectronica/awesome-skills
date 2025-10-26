@@ -1093,7 +1093,7 @@ Access and utilize the Peer Review methodologies for scientific research.
 
 Model-invoked Playwright automation for browser testing and validation. Claude autonomously writes and executes custom automation for testing web applications.
 
-- **Author**: [John Lackey](https://github.com/lackeyjb) ([`@lackeyjb`](https://github.com/lackeyjb))
+- **Author**: [Bryan Lackey](https://github.com/lackeyjb) ([`@lackeyjb`](https://github.com/lackeyjb))
 - **License**: [MIT](https://raw.githubusercontent.com/lackeyjb/playwright-skill/main/LICENSE)
 - **Skill**: https://github.com/lackeyjb/playwright-skill
 - **Tags**: `playwright`, `automation`, `testing`, `browser`, `web`, `e2e`
