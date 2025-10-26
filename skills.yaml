@@ -571,3 +571,17 @@ skills:
       - documentation
       - creation
       - quality
+
+  # Eleanor Berger's skills
+  - id: funny-translation
+    title: Funny Translation
+    description: A skill for getting your agent to create funny mock translations.
+    author: Eleanor Berger
+    author_url: https://intellectronica.net/
+    author_github: intellectronica
+    license: Public Domain
+    license_url: null
+    skill_url: https://gist.github.com/intellectronica/15a9a867f53c04e51dfefcd7ce78c806
+    skill_download_url: https://gist.github.com/intellectronica/15a9a867f53c04e51dfefcd7ce78c806/raw/703e81da14164e819f385f29cdb2eaf53be73369/funny-translation.zip
+    tags:
+      - comedy

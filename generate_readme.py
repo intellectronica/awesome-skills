@@ -37,7 +37,8 @@ def render_card(s):
     author_url = s.get("author_url", "").strip()
     author_gh = s.get("author_github", "").strip()
     license_name = s.get("license", "").strip()
-    license_url = s.get("license_url", "").strip()
+    license_url = s.get("license_url") or ""
+    license_url = license_url.strip() if license_url else ""
     skill_url = s.get("skill_url", "").strip()
     dl = s.get("skill_download_url", "").strip()
     tags = s.get("tags", []) or []
@@ -52,7 +53,11 @@ def render_card(s):
     lines.append("")
     # Link GitHub handle to author's GitHub profile with backticks
     lines.append(f"- **Author**: [{author}]({author_url}) ([`@{author_gh}`](https://github.com/{author_gh}))")
-    lines.append(f"- **License**: [{license_name}]({license_url})")
+    # Only show license link if URL is available
+    if license_url:
+        lines.append(f"- **License**: [{license_name}]({license_url})")
+    else:
+        lines.append(f"- **License**: {license_name}")
     lines.append(f"- **Skill**: {skill_url}")
     # Only show download URL if it's different from skill URL
     if dl and dl != skill_url:

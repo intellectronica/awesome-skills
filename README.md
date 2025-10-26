@@ -123,6 +123,18 @@ Use when implementation is complete, all tests pass, and you need to decide how 
 
 ---
 
+### [Funny Translation](https://gist.github.com/intellectronica/15a9a867f53c04e51dfefcd7ce78c806)
+
+A skill for getting your agent to create funny mock translations.
+
+- **Author**: [Eleanor Berger](https://intellectronica.net/) ([`@intellectronica`](https://github.com/intellectronica))
+- **License**: Public Domain
+- **Skill**: https://gist.github.com/intellectronica/15a9a867f53c04e51dfefcd7ce78c806
+- **Download**: https://gist.github.com/intellectronica/15a9a867f53c04e51dfefcd7ce78c806/raw/703e81da14164e819f385f29cdb2eaf53be73369/funny-translation.zip
+- **Tags**: `comedy`
+
+---
+
 ### [Internal Communications](https://github.com/anthropics/skills/tree/main/internal-comms)
 
 A set of resources to help write all kinds of internal communications, using the formats that companies like to use. Use this skill whenever asked to write internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).
