@@ -585,3 +585,2319 @@ skills:
     skill_download_url: https://gist.github.com/intellectronica/15a9a867f53c04e51dfefcd7ce78c806/raw/703e81da14164e819f385f29cdb2eaf53be73369/funny-translation.zip
     tags:
       - comedy
+
+  - id: csv-data-summarizer
+    title: CSV Data Summarizer
+    description: Automatically analyzes uploaded CSV files — generating summary statistics, detecting missing data, and creating quick visualizations using Python and pandas.
+    author: coffeefuelbump
+    author_url: https://github.com/coffeefuelbump
+    author_github: coffeefuelbump
+    license: Unknown
+    license_url: null
+    skill_url: https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill
+    skill_download_url: https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill
+    tags:
+      - data
+      - analysis
+      - csv
+      - pandas
+      - visualization
+
+  - id: tapestry
+    title: Tapestry
+    description: Master skill that orchestrates content extraction from YouTube, articles, and PDFs, then automatically creates Ship-Learn-Next action plans. One command workflow from learning to shipping.
+    author: Michal Parkola
+    author_url: https://github.com/michalparkola
+    author_github: michalparkola
+    license: MIT
+    license_url: https://raw.githubusercontent.com/michalparkola/tapestry-skills-for-claude-code/main/LICENSE
+    skill_url: https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry
+    skill_download_url: https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry
+    tags:
+      - productivity
+      - learning
+      - content
+      - automation
+      - workflow
+
+  - id: youtube-transcript
+    title: YouTube Transcript Downloader
+    description: Download and clean YouTube video transcripts with automatic deduplication and readable formatting. Includes fallback to Whisper transcription if no subtitles available.
+    author: Michal Parkola
+    author_url: https://github.com/michalparkola
+    author_github: michalparkola
+    license: MIT
+    license_url: https://raw.githubusercontent.com/michalparkola/tapestry-skills-for-claude-code/main/LICENSE
+    skill_url: https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript
+    skill_download_url: https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript
+    tags:
+      - youtube
+      - transcript
+      - video
+      - content
+      - extraction
+
+  - id: article-extractor
+    title: Article Extractor
+    description: Extract clean, readable content from web articles and blog posts, removing ads, navigation, and clutter using Mozilla Readability or trafilatura.
+    author: Michal Parkola
+    author_url: https://github.com/michalparkola
+    author_github: michalparkola
+    license: MIT
+    license_url: https://raw.githubusercontent.com/michalparkola/tapestry-skills-for-claude-code/main/LICENSE
+    skill_url: https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor
+    skill_download_url: https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor
+    tags:
+      - web
+      - extraction
+      - content
+      - reading
+      - articles
+
+  - id: ship-learn-next
+    title: Ship-Learn-Next Action Planner
+    description: Transform passive learning content (transcripts, articles, tutorials) into actionable implementation plans using the Ship-Learn-Next framework. Creates 5-rep action plans with timelines.
+    author: Michal Parkola
+    author_url: https://github.com/michalparkola
+    author_github: michalparkola
+    license: MIT
+    license_url: https://raw.githubusercontent.com/michalparkola/tapestry-skills-for-claude-code/main/LICENSE
+    skill_url: https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next
+    skill_download_url: https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next
+    tags:
+      - learning
+      - planning
+      - productivity
+      - action
+      - workflow
+
+  - id: epub-converter
+    title: EPUB Converter
+    description: Convert markdown documents, chat summaries, or research reports into professional EPUB ebook files that can be sent to Kindle or other e-readers.
+    author: Scott Merchantek
+    author_url: https://github.com/smerchek
+    author_github: smerchek
+    license: MIT
+    license_url: https://raw.githubusercontent.com/smerchek/claude-epub-skill/main/LICENSE
+    skill_url: https://github.com/smerchek/claude-epub-skill
+    skill_download_url: https://github.com/smerchek/claude-epub-skill
+    tags:
+      - epub
+      - ebook
+      - kindle
+      - markdown
+      - conversion
+
+  - id: ffuf-web-fuzzing
+    title: FFUF Web Fuzzing
+    description: Integrate Claude with FFUF (Fast web fuzzer) to run fuzzing tasks and analyze results for security vulnerabilities and web application testing.
+    author: jthack
+    author_url: https://github.com/jthack
+    author_github: jthack
+    license: Unknown
+    license_url: null
+    skill_url: https://github.com/jthack/ffuf_claude_skill
+    skill_download_url: https://github.com/jthack/ffuf_claude_skill
+    tags:
+      - security
+      - fuzzing
+      - testing
+      - web
+      - pentesting
+
+  - id: ios-simulator
+    title: iOS Simulator
+    description: Enable Claude to interact with iOS Simulator for testing and debugging iOS applications. Prefers navigation via accessibility over screenshots for performance, but can use both.
+    author: Conor Luddy
+    author_url: https://github.com/conorluddy
+    author_github: conorluddy
+    license: MIT
+    license_url: https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/LICENSE
+    skill_url: https://github.com/conorluddy/ios-simulator-skill
+    skill_download_url: https://github.com/conorluddy/ios-simulator-skill
+    tags:
+      - ios
+      - simulator
+      - testing
+      - mobile
+      - xcode
+      - automation
+
+  - id: playwright-automation
+    title: Playwright Browser Automation
+    description: Model-invoked Playwright automation for browser testing and validation. Claude autonomously writes and executes custom automation for testing web applications.
+    author: John Lackey
+    author_url: https://github.com/lackeyjb
+    author_github: lackeyjb
+    license: MIT
+    license_url: https://raw.githubusercontent.com/lackeyjb/playwright-skill/main/LICENSE
+    skill_url: https://github.com/lackeyjb/playwright-skill
+    skill_download_url: https://github.com/lackeyjb/playwright-skill
+    tags:
+      - playwright
+      - automation
+      - testing
+      - browser
+      - web
+      - e2e
+
+  - id: d3js-visualization
+    title: D3.js Visualization
+    description: Teaches Claude to produce D3 charts and interactive data visualizations using the D3.js library for rich, web-based data representations.
+    author: Chris von Csefalvay
+    author_url: https://github.com/chrisvoncsefalvay
+    author_github: chrisvoncsefalvay
+    license: Unknown
+    license_url: null
+    skill_url: https://github.com/chrisvoncsefalvay/claude-d3js-skill
+    skill_download_url: https://github.com/chrisvoncsefalvay/claude-d3js-skill
+    tags:
+      - d3js
+      - visualization
+      - data
+      - charts
+      - interactive
+      - web
+
+  - id: pypict
+    title: PyPICT Test Case Generator
+    description: Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for requirements or code, generating optimized test suites with pairwise coverage.
+    author: omkamal
+    author_url: https://github.com/omkamal
+    author_github: omkamal
+    license: Unknown
+    license_url: null
+    skill_url: https://github.com/omkamal/pypict-claude-skill
+    skill_download_url: https://github.com/omkamal/pypict-claude-skill
+    tags:
+      - testing
+      - test-cases
+      - pict
+      - pairwise
+      - combinatorial
+
+  - id: move-code-quality
+    title: Move Code Quality
+    description: Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices.
+    author: Nick Pappas
+    author_url: https://github.com/1NickPappas
+    author_github: 1NickPappas
+    license: MIT
+    license_url: https://raw.githubusercontent.com/1NickPappas/move-code-quality-skill/main/LICENSE
+    skill_url: https://github.com/1NickPappas/move-code-quality-skill
+    skill_download_url: https://github.com/1NickPappas/move-code-quality-skill
+    tags:
+      - move
+      - blockchain
+      - code-quality
+      - linting
+      - best-practices
+
+  - id: family-history-research
+    title: Family History Research
+    description: Provides assistance with planning family history and genealogy research projects, helping organize and track family tree information.
+    author: emaynard
+    author_url: https://github.com/emaynard
+    author_github: emaynard
+    license: MIT
+    license_url: https://raw.githubusercontent.com/emaynard/claude-family-history-research-skill/main/LICENSE
+    skill_url: https://github.com/emaynard/claude-family-history-research-skill
+    skill_download_url: https://github.com/emaynard/claude-family-history-research-skill
+    tags:
+      - genealogy
+      - family-history
+      - research
+      - planning
+
+
+  - id: notebooklm-integration
+    title: NotebookLM Integration
+    description: Enable Claude Code to communicate directly with Google NotebookLM notebooks. Query uploaded documents and get source-grounded, citation-backed answers from Gemini exclusively from your knowledge base.
+    author: PleasePrompto
+    author_url: https://github.com/PleasePrompto
+    author_github: PleasePrompto
+    license: MIT
+    license_url: https://raw.githubusercontent.com/PleasePrompto/notebooklm-skill/main/LICENSE
+    skill_url: https://github.com/PleasePrompto/notebooklm-skill
+    skill_download_url: https://github.com/PleasePrompto/notebooklm-skill
+    tags:
+      - notebooklm
+      - integration
+      - research
+      - knowledge-base
+      - gemini
+
+  - id: git-pushing
+    title: Git Pushing
+    description: Automate git operations and repository interactions for streamlined version control workflows.
+    author: mhattingpete
+    author_url: https://github.com/mhattingpete
+    author_github: mhattingpete
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/mhattingpete/claude-skills-marketplace/main/LICENSE
+    skill_url: https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing
+    skill_download_url: https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing
+    tags:
+      - git
+      - automation
+      - version-control
+      - workflow
+
+  - id: review-implementing
+    title: Review Implementing
+    description: Evaluate code implementation plans and align with specifications to ensure requirements are met.
+    author: mhattingpete
+    author_url: https://github.com/mhattingpete
+    author_github: mhattingpete
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/mhattingpete/claude-skills-marketplace/main/LICENSE
+    skill_url: https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing
+    skill_download_url: https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing
+    tags:
+      - code-review
+      - planning
+      - quality
+      - validation
+
+  - id: test-fixing
+    title: Test Fixing
+    description: Detect failing tests and propose patches or fixes to get test suites passing again.
+    author: mhattingpete
+    author_url: https://github.com/mhattingpete
+    author_github: mhattingpete
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/mhattingpete/claude-skills-marketplace/main/LICENSE
+    skill_url: https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing
+    skill_download_url: https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing
+    tags:
+      - testing
+      - debugging
+      - automation
+      - fixes
+
+  - id: preserving-productive-tensions
+    title: Preserving Productive Tensions
+    description: Manage architectural decisions by preserving competing viewpoints to balance innovation and stability in software design.
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE
+    skill_url: https://github.com/obra/superpowers-skills/tree/main/skills/architecture/preserving-productive-tensions
+    skill_download_url: https://github.com/obra/superpowers-skills/tree/main/skills/architecture/preserving-productive-tensions
+    tags:
+      - architecture
+      - design
+      - decisions
+      - patterns
+
+  - id: remembering-conversations
+    title: Remembering Conversations
+    description: Recall facts, insights, and context from past Claude Code sessions to maintain continuity across interactions.
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE
+    skill_url: https://github.com/obra/superpowers-skills/tree/main/skills/collaboration/remembering-conversations
+    skill_download_url: https://github.com/obra/superpowers-skills/tree/main/skills/collaboration/remembering-conversations
+    tags:
+      - memory
+      - context
+      - collaboration
+      - continuity
+
+  - id: collision-zone-thinking
+    title: Collision Zone Thinking
+    description: Combine unrelated concepts to find new creative or problem-solving connections through interdisciplinary thinking.
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE
+    skill_url: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/collision-zone-thinking
+    skill_download_url: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/collision-zone-thinking
+    tags:
+      - creativity
+      - problem-solving
+      - innovation
+      - thinking
+
+  - id: inversion-exercise
+    title: Inversion Exercise
+    description: Flip assumptions to uncover hidden insights and constraints by thinking about problems backwards.
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE
+    skill_url: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/inversion-exercise
+    skill_download_url: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/inversion-exercise
+    tags:
+      - problem-solving
+      - thinking
+      - strategy
+      - analysis
+
+  - id: meta-pattern-recognition
+    title: Meta Pattern Recognition
+    description: Identify patterns across domains to uncover universal principles and transferable insights.
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE
+    skill_url: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/meta-pattern-recognition
+    skill_download_url: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/meta-pattern-recognition
+    tags:
+      - patterns
+      - analysis
+      - thinking
+      - insights
+
+  - id: scale-game
+    title: Scale Game
+    description: Stress-test ideas at extreme scales to expose hidden weaknesses or truths that only appear at different magnitudes.
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE
+    skill_url: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/scale-game
+    skill_download_url: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/scale-game
+    tags:
+      - scaling
+      - stress-testing
+      - problem-solving
+      - thinking
+
+  - id: simplification-cascades
+    title: Simplification Cascades
+    description: Reduce complexity by discovering insights that simplify multiple elements at once, creating cascading improvements.
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE
+    skill_url: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/simplification-cascades
+    skill_download_url: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/simplification-cascades
+    tags:
+      - simplification
+      - refactoring
+      - design
+      - patterns
+
+  - id: when-stuck
+    title: When Stuck
+    description: Systematic approaches to break through mental blocks and overcome obstacles when progress stalls.
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE
+    skill_url: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/when-stuck
+    skill_download_url: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/when-stuck
+    tags:
+      - problem-solving
+      - debugging
+      - thinking
+      - strategy
+
+  - id: tracing-knowledge-lineages
+    title: Tracing Knowledge Lineages
+    description: Track how ideas evolve across iterations and influences to understand the development and provenance of concepts.
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE
+    skill_url: https://github.com/obra/superpowers-skills/tree/main/skills/research/tracing-knowledge-lineages
+    skill_download_url: https://github.com/obra/superpowers-skills/tree/main/skills/research/tracing-knowledge-lineages
+    tags:
+      - research
+      - knowledge
+      - history
+      - analysis
+
+  - id: gardening-skills-wiki
+    title: Gardening Skills Wiki
+    description: Maintain the skills wiki, ensuring naming consistency and metadata quality across skill documentation.
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE
+    skill_url: https://github.com/obra/superpowers-skills/tree/main/skills/meta/gardening-skills-wiki
+    skill_download_url: https://github.com/obra/superpowers-skills/tree/main/skills/meta/gardening-skills-wiki
+    tags:
+      - meta
+      - documentation
+      - maintenance
+      - quality
+
+  - id: pulling-updates-from-skills-repository
+    title: Pulling Updates from Skills Repository
+    description: Sync and pull the latest skill updates from repositories to keep your skill collection current.
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE
+    skill_url: https://github.com/obra/superpowers-skills/tree/main/skills/meta/pulling-updates-from-skills-repository
+    skill_download_url: https://github.com/obra/superpowers-skills/tree/main/skills/meta/pulling-updates-from-skills-repository
+    tags:
+      - meta
+      - sync
+      - updates
+      - maintenance
+
+  - id: content-research-writer
+    title: Content Research Writer
+    description: Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section.
+    author: ComposioHQ
+    author_url: https://composio.dev
+    author_github: ComposioHQ
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE
+    skill_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer
+    skill_download_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer
+    tags:
+      - writing
+      - research
+      - content
+      - citations
+      - feedback
+
+  - id: video-downloader
+    title: Video Downloader
+    description: Downloads videos from YouTube and other platforms for offline viewing, editing, or archival with support for various formats and quality options.
+    author: ComposioHQ
+    author_url: https://composio.dev
+    author_github: ComposioHQ
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE
+    skill_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader
+    skill_download_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader
+    tags:
+      - video
+      - download
+      - youtube
+      - media
+      - archival
+
+  - id: image-enhancer
+    title: Image Enhancer
+    description: Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity for professional presentations and documentation.
+    author: ComposioHQ
+    author_url: https://composio.dev
+    author_github: ComposioHQ
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE
+    skill_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer
+    skill_download_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer
+    tags:
+      - image
+      - enhancement
+      - quality
+      - screenshots
+      - media
+
+  - id: meeting-insights-analyzer
+    title: Meeting Insights Analyzer
+    description: Transforms meeting transcripts into actionable insights about communication patterns, including conflict avoidance, speaking ratios, filler words, and leadership style.
+    author: ComposioHQ
+    author_url: https://composio.dev
+    author_github: ComposioHQ
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE
+    skill_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer
+    skill_download_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer
+    tags:
+      - meetings
+      - analysis
+      - communication
+      - insights
+      - collaboration
+
+  - id: file-organizer
+    title: File Organizer
+    description: Intelligently organizes files and folders across your computer by understanding context, finding duplicates, and suggesting better organizational structures.
+    author: ComposioHQ
+    author_url: https://composio.dev
+    author_github: ComposioHQ
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE
+    skill_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer
+    skill_download_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer
+    tags:
+      - files
+      - organization
+      - automation
+      - productivity
+      - cleanup
+
+  - id: invoice-organizer
+    title: Invoice Organizer
+    description: Automatically organizes invoices and receipts for tax preparation by reading files, extracting information, and renaming consistently.
+    author: ComposioHQ
+    author_url: https://composio.dev
+    author_github: ComposioHQ
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE
+    skill_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer
+    skill_download_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer
+    tags:
+      - invoices
+      - finance
+      - organization
+      - tax
+      - receipts
+
+  - id: raffle-winner-picker
+    title: Raffle Winner Picker
+    description: Randomly selects winners from lists, spreadsheets, or Google Sheets for giveaways and contests with cryptographically secure randomness.
+    author: ComposioHQ
+    author_url: https://composio.dev
+    author_github: ComposioHQ
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE
+    skill_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/raffle-winner-picker
+    skill_download_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/raffle-winner-picker
+    tags:
+      - random
+      - raffle
+      - contest
+      - utility
+      - selection
+
+  - id: changelog-generator
+    title: Changelog Generator
+    description: Automatically creates user-facing changelogs from git commits by analyzing history and transforming technical commits into customer-friendly release notes.
+    author: ComposioHQ
+    author_url: https://composio.dev
+    author_github: ComposioHQ
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE
+    skill_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/changelog-generator
+    skill_download_url: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/changelog-generator
+    tags:
+      - changelog
+      - git
+      - release-notes
+      - documentation
+      - automation
+
+  - id: scientific-databases-alphafold-database
+    title: Alphafold Database
+    description: Access and utilize the Alphafold Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/alphafold-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/alphafold-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-biorxiv-database
+    title: Biorxiv Database
+    description: Access and utilize the Biorxiv Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/biorxiv-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/biorxiv-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-chembl-database
+    title: Chembl Database
+    description: Access and utilize the Chembl Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/chembl-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/chembl-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-clinicaltrials-database
+    title: Clinicaltrials Database
+    description: Access and utilize the Clinicaltrials Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/clinicaltrials-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/clinicaltrials-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-clinpgx-database
+    title: Clinpgx Database
+    description: Access and utilize the Clinpgx Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/clinpgx-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/clinpgx-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-clinvar-database
+    title: Clinvar Database
+    description: Access and utilize the Clinvar Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/clinvar-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/clinvar-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-cosmic-database
+    title: Cosmic Database
+    description: Access and utilize the Cosmic Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/cosmic-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/cosmic-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-drugbank-database
+    title: Drugbank Database
+    description: Access and utilize the Drugbank Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/drugbank-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/drugbank-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-ena-database
+    title: Ena Database
+    description: Access and utilize the Ena Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/ena-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/ena-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-ensembl-database
+    title: Ensembl Database
+    description: Access and utilize the Ensembl Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/ensembl-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/ensembl-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-fda-database
+    title: Fda Database
+    description: Access and utilize the Fda Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/fda-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/fda-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-gene-database
+    title: Gene Database
+    description: Access and utilize the Gene Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/gene-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/gene-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-geo-database
+    title: Geo Database
+    description: Access and utilize the Geo Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/geo-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/geo-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-gwas-database
+    title: Gwas Database
+    description: Access and utilize the Gwas Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/gwas-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/gwas-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-hmdb-database
+    title: Hmdb Database
+    description: Access and utilize the Hmdb Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/hmdb-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/hmdb-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-kegg-database
+    title: Kegg Database
+    description: Access and utilize the Kegg Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/kegg-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/kegg-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-metabolomics-workbench-database
+    title: Metabolomics Workbench Database
+    description: Access and utilize the Metabolomics Workbench Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/metabolomics-workbench-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/metabolomics-workbench-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-opentargets-database
+    title: Opentargets Database
+    description: Access and utilize the Opentargets Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/opentargets-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/opentargets-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-pdb-database
+    title: Pdb Database
+    description: Access and utilize the Pdb Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/pdb-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/pdb-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-pubchem-database
+    title: Pubchem Database
+    description: Access and utilize the Pubchem Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/pubchem-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/pubchem-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-pubmed-database
+    title: Pubmed Database
+    description: Access and utilize the Pubmed Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/pubmed-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/pubmed-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-reactome-database-reactome-database
+    title: Reactome Database
+    description: Access and utilize the Reactome Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/reactome-database/reactome-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/reactome-database/reactome-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-string-database
+    title: String Database
+    description: Access and utilize the String Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/string-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/string-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-uniprot-database
+    title: Uniprot Database
+    description: Access and utilize the Uniprot Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/uniprot-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/uniprot-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-uspto-database
+    title: Uspto Database
+    description: Access and utilize the Uspto Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/uspto-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/uspto-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-databases-zinc-database
+    title: Zinc Database
+    description: Access and utilize the Zinc Database database for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/zinc-database
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/zinc-database
+    tags:
+      - scientific
+      - database
+      - data
+      - research
+
+  - id: scientific-helpers-get-available-resources
+    title: Get Available Resources
+    description: Access and utilize the Get Available Resources helper utilities for scientific work.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-helpers/get-available-resources
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-helpers/get-available-resources
+    tags:
+      - scientific
+      - utility
+      - helper
+      - tools
+
+  - id: scientific-helpers-scientific-context-initialization
+    title: Scientific Context Initialization
+    description: Access and utilize the Scientific Context Initialization helper utilities for scientific work.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-helpers/scientific-context-initialization
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-helpers/scientific-context-initialization
+    tags:
+      - scientific
+      - utility
+      - helper
+      - tools
+
+  - id: scientific-integrations-benchling-integration
+    title: Benchling Integration
+    description: Access and utilize the Benchling Integration integration for laboratory workflows.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/benchling-integration
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/benchling-integration
+    tags:
+      - scientific
+      - integration
+      - platform
+      - workflow
+
+  - id: scientific-integrations-dnanexus-integration
+    title: Dnanexus Integration
+    description: Access and utilize the Dnanexus Integration integration for laboratory workflows.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/dnanexus-integration
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/dnanexus-integration
+    tags:
+      - scientific
+      - integration
+      - platform
+      - workflow
+
+  - id: scientific-integrations-labarchive-integration
+    title: Labarchive Integration
+    description: Access and utilize the Labarchive Integration integration for laboratory workflows.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/labarchive-integration
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/labarchive-integration
+    tags:
+      - scientific
+      - integration
+      - platform
+      - workflow
+
+  - id: scientific-integrations-latchbio-integration
+    title: Latchbio Integration
+    description: Access and utilize the Latchbio Integration integration for laboratory workflows.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/latchbio-integration
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/latchbio-integration
+    tags:
+      - scientific
+      - integration
+      - platform
+      - workflow
+
+  - id: scientific-integrations-omero-integration
+    title: Omero Integration
+    description: Access and utilize the Omero Integration integration for laboratory workflows.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/omero-integration
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/omero-integration
+    tags:
+      - scientific
+      - integration
+      - platform
+      - workflow
+
+  - id: scientific-integrations-opentrons-integration
+    title: Opentrons Integration
+    description: Access and utilize the Opentrons Integration integration for laboratory workflows.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/opentrons-integration
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/opentrons-integration
+    tags:
+      - scientific
+      - integration
+      - platform
+      - workflow
+
+  - id: scientific-integrations-protocolsio-integration
+    title: Protocolsio Integration
+    description: Access and utilize the Protocolsio Integration integration for laboratory workflows.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/protocolsio-integration
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/protocolsio-integration
+    tags:
+      - scientific
+      - integration
+      - platform
+      - workflow
+
+  - id: scientific-packages-aeon
+    title: Aeon
+    description: Access and utilize the Aeon Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/aeon
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/aeon
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-anndata
+    title: Anndata
+    description: Access and utilize the Anndata Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/anndata
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/anndata
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-arboreto
+    title: Arboreto
+    description: Access and utilize the Arboreto Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/arboreto
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/arboreto
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-astropy
+    title: Astropy
+    description: Access and utilize the Astropy Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/astropy
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/astropy
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-biomni
+    title: Biomni
+    description: Access and utilize the Biomni Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/biomni
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/biomni
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-biopython
+    title: Biopython
+    description: Access and utilize the Biopython Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/biopython
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/biopython
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-bioservices
+    title: Bioservices
+    description: Access and utilize the Bioservices Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/bioservices
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/bioservices
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-cellxgene-census
+    title: Cellxgene Census
+    description: Access and utilize the Cellxgene Census Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/cellxgene-census
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/cellxgene-census
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-cobrapy
+    title: Cobrapy
+    description: Access and utilize the Cobrapy Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/cobrapy
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/cobrapy
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-dask
+    title: Dask
+    description: Access and utilize the Dask Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/dask
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/dask
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-datacommons-client
+    title: Datacommons Client
+    description: Access and utilize the Datacommons Client Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/datacommons-client
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/datacommons-client
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-datamol
+    title: Datamol
+    description: Access and utilize the Datamol Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/datamol
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/datamol
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-deepchem
+    title: Deepchem
+    description: Access and utilize the Deepchem Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/deepchem
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/deepchem
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-deeptools
+    title: Deeptools
+    description: Access and utilize the Deeptools Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/deeptools
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/deeptools
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-diffdock
+    title: Diffdock
+    description: Access and utilize the Diffdock Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/diffdock
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/diffdock
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-esm
+    title: Esm
+    description: Access and utilize the Esm Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/esm
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/esm
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-etetoolkit
+    title: Etetoolkit
+    description: Access and utilize the Etetoolkit Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/etetoolkit
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/etetoolkit
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-flowio
+    title: Flowio
+    description: Access and utilize the Flowio Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/flowio
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/flowio
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-gget
+    title: Gget
+    description: Access and utilize the Gget Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/gget
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/gget
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-histolab
+    title: Histolab
+    description: Access and utilize the Histolab Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/histolab
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/histolab
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-matchms
+    title: Matchms
+    description: Access and utilize the Matchms Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/matchms
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/matchms
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-matplotlib
+    title: Matplotlib
+    description: Access and utilize the Matplotlib Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/matplotlib
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/matplotlib
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-medchem
+    title: Medchem
+    description: Access and utilize the Medchem Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/medchem
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/medchem
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-molfeat
+    title: Molfeat
+    description: Access and utilize the Molfeat Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/molfeat
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/molfeat
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-neurokit2
+    title: Neurokit2
+    description: Access and utilize the Neurokit2 Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/neurokit2
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/neurokit2
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-paper-2-web
+    title: Paper 2 Web
+    description: Access and utilize the Paper 2 Web Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/paper-2-web
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/paper-2-web
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-pathml
+    title: Pathml
+    description: Access and utilize the Pathml Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pathml
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pathml
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-polars
+    title: Polars
+    description: Access and utilize the Polars Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/polars
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/polars
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-pydeseq2
+    title: Pydeseq2
+    description: Access and utilize the Pydeseq2 Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pydeseq2
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pydeseq2
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-pydicom
+    title: Pydicom
+    description: Access and utilize the Pydicom Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pydicom
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pydicom
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-pyhealth
+    title: Pyhealth
+    description: Access and utilize the Pyhealth Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pyhealth
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pyhealth
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-pylabrobot
+    title: Pylabrobot
+    description: Access and utilize the Pylabrobot Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pylabrobot
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pylabrobot
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-pymatgen
+    title: Pymatgen
+    description: Access and utilize the Pymatgen Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pymatgen
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pymatgen
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-pymc
+    title: Pymc
+    description: Access and utilize the Pymc Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pymc
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pymc
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-pymoo
+    title: Pymoo
+    description: Access and utilize the Pymoo Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pymoo
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pymoo
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-pyopenms
+    title: Pyopenms
+    description: Access and utilize the Pyopenms Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pyopenms
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pyopenms
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-pysam
+    title: Pysam
+    description: Access and utilize the Pysam Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pysam
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pysam
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-pytdc
+    title: Pytdc
+    description: Access and utilize the Pytdc Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pytdc
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pytdc
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-pytorch-lightning
+    title: Pytorch Lightning
+    description: Access and utilize the Pytorch Lightning Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pytorch-lightning
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pytorch-lightning
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-rdkit
+    title: Rdkit
+    description: Access and utilize the Rdkit Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/rdkit
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/rdkit
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-reportlab
+    title: Reportlab
+    description: Access and utilize the Reportlab Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/reportlab
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/reportlab
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-scanpy
+    title: Scanpy
+    description: Access and utilize the Scanpy Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scanpy
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scanpy
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-scikit-bio
+    title: Scikit Bio
+    description: Access and utilize the Scikit Bio Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scikit-bio
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scikit-bio
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-scikit-learn
+    title: Scikit Learn
+    description: Access and utilize the Scikit Learn Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scikit-learn
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scikit-learn
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-scikit-survival
+    title: Scikit Survival
+    description: Access and utilize the Scikit Survival Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scikit-survival
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scikit-survival
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-scvi-tools
+    title: Scvi Tools
+    description: Access and utilize the Scvi Tools Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scvi-tools
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scvi-tools
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-seaborn
+    title: Seaborn
+    description: Access and utilize the Seaborn Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/seaborn
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/seaborn
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-shap
+    title: Shap
+    description: Access and utilize the Shap Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/shap
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/shap
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-simpy
+    title: Simpy
+    description: Access and utilize the Simpy Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/simpy
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/simpy
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-statsmodels
+    title: Statsmodels
+    description: Access and utilize the Statsmodels Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/statsmodels
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/statsmodels
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-tooluniverse
+    title: Tooluniverse
+    description: Access and utilize the Tooluniverse Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/tooluniverse
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/tooluniverse
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-torch_geometric
+    title: Torch_Geometric
+    description: Access and utilize the Torch_Geometric Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/torch_geometric
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/torch_geometric
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-torchdrug
+    title: Torchdrug
+    description: Access and utilize the Torchdrug Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/torchdrug
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/torchdrug
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-transformers
+    title: Transformers
+    description: Access and utilize the Transformers Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/transformers
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/transformers
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-umap-learn
+    title: Umap Learn
+    description: Access and utilize the Umap Learn Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/umap-learn
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/umap-learn
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-packages-zarr-python
+    title: Zarr Python
+    description: Access and utilize the Zarr Python Python package for scientific computing.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/zarr-python
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/zarr-python
+    tags:
+      - scientific
+      - python
+      - library
+      - analysis
+
+  - id: scientific-thinking-document-skills-docx
+    title: Docx
+    description: Access and utilize the Docx methodologies for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/document-skills/docx
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/document-skills/docx
+    tags:
+      - scientific
+      - methodology
+      - workflow
+      - analysis
+
+  - id: scientific-thinking-document-skills-pdf
+    title: Pdf
+    description: Access and utilize the Pdf methodologies for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/document-skills/pdf
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/document-skills/pdf
+    tags:
+      - scientific
+      - methodology
+      - workflow
+      - analysis
+
+  - id: scientific-thinking-document-skills-pptx
+    title: Pptx
+    description: Access and utilize the Pptx methodologies for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/document-skills/pptx
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/document-skills/pptx
+    tags:
+      - scientific
+      - methodology
+      - workflow
+      - analysis
+
+  - id: scientific-thinking-document-skills-xlsx
+    title: Xlsx
+    description: Access and utilize the Xlsx methodologies for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/document-skills/xlsx
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/document-skills/xlsx
+    tags:
+      - scientific
+      - methodology
+      - workflow
+      - analysis
+
+  - id: scientific-thinking-exploratory-data-analysis
+    title: Exploratory Data Analysis
+    description: Access and utilize the Exploratory Data Analysis methodologies for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/exploratory-data-analysis
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/exploratory-data-analysis
+    tags:
+      - scientific
+      - methodology
+      - workflow
+      - analysis
+
+  - id: scientific-thinking-hypothesis-generation
+    title: Hypothesis Generation
+    description: Access and utilize the Hypothesis Generation methodologies for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/hypothesis-generation
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/hypothesis-generation
+    tags:
+      - scientific
+      - methodology
+      - workflow
+      - analysis
+
+  - id: scientific-thinking-literature-review
+    title: Literature Review
+    description: Access and utilize the Literature Review methodologies for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/literature-review
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/literature-review
+    tags:
+      - scientific
+      - methodology
+      - workflow
+      - analysis
+
+  - id: scientific-thinking-peer-review
+    title: Peer Review
+    description: Access and utilize the Peer Review methodologies for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/peer-review
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/peer-review
+    tags:
+      - scientific
+      - methodology
+      - workflow
+      - analysis
+
+  - id: scientific-thinking-scientific-brainstorming
+    title: Scientific Brainstorming
+    description: Access and utilize the Scientific Brainstorming methodologies for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/scientific-brainstorming
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/scientific-brainstorming
+    tags:
+      - scientific
+      - methodology
+      - workflow
+      - analysis
+
+  - id: scientific-thinking-scientific-critical-thinking
+    title: Scientific Critical Thinking
+    description: Access and utilize the Scientific Critical Thinking methodologies for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/scientific-critical-thinking
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/scientific-critical-thinking
+    tags:
+      - scientific
+      - methodology
+      - workflow
+      - analysis
+
+  - id: scientific-thinking-scientific-visualization
+    title: Scientific Visualization
+    description: Access and utilize the Scientific Visualization methodologies for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/scientific-visualization
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/scientific-visualization
+    tags:
+      - scientific
+      - methodology
+      - workflow
+      - analysis
+
+  - id: scientific-thinking-scientific-writing
+    title: Scientific Writing
+    description: Access and utilize the Scientific Writing methodologies for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/scientific-writing
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/scientific-writing
+    tags:
+      - scientific
+      - methodology
+      - workflow
+      - analysis
+
+  - id: scientific-thinking-statistical-analysis
+    title: Statistical Analysis
+    description: Access and utilize the Statistical Analysis methodologies for scientific research.
+    author: K-Dense AI
+    author_url: https://k-dense.ai
+    author_github: K-Dense-AI
+    license: MIT
+    license_url: https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE
+    skill_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/statistical-analysis
+    skill_download_url: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/statistical-analysis
+    tags:
+      - scientific
+      - methodology
+      - workflow
+      - analysis
+
+  - id: aws-cdk-development
+    title: AWS CDK Development
+    description: AWS CDK development skill with integrated MCP servers for infrastructure as code. Includes CDK best practices, pre-deployment validation scripts, and comprehensive CDK patterns reference.
+    author: zxkane
+    author_url: https://github.com/zxkane
+    author_github: zxkane
+    license: MIT
+    license_url: https://raw.githubusercontent.com/zxkane/aws-skills/main/LICENSE
+    skill_url: https://github.com/zxkane/aws-skills/tree/main/skills/aws-cdk-development
+    skill_download_url: https://github.com/zxkane/aws-skills/tree/main/skills/aws-cdk-development
+    tags:
+      - aws
+      - cdk
+      - infrastructure
+      - iac
+      - cloud
+
+  - id: aws-cost-operations
+    title: AWS Cost & Operations
+    description: Cost optimization, monitoring, and operational excellence with integrated MCP servers. Includes cost estimation, monitoring patterns, security assessment, and operational best practices.
+    author: zxkane
+    author_url: https://github.com/zxkane
+    author_github: zxkane
+    license: MIT
+    license_url: https://raw.githubusercontent.com/zxkane/aws-skills/main/LICENSE
+    skill_url: https://github.com/zxkane/aws-skills/tree/main/skills/aws-cost-operations
+    skill_download_url: https://github.com/zxkane/aws-skills/tree/main/skills/aws-cost-operations
+    tags:
+      - aws
+      - cost
+      - operations
+      - monitoring
+      - finops
+
+  - id: aws-serverless-eda
+    title: AWS Serverless & Event-Driven Architecture
+    description: Serverless and event-driven architecture patterns based on Well-Architected Framework. Includes serverless design principles, event-driven patterns, Step Functions orchestration, and saga patterns.
+    author: zxkane
+    author_url: https://github.com/zxkane
+    author_github: zxkane
+    license: MIT
+    license_url: https://raw.githubusercontent.com/zxkane/aws-skills/main/LICENSE
+    skill_url: https://github.com/zxkane/aws-skills/tree/main/skills/aws-serverless-eda
+    skill_download_url: https://github.com/zxkane/aws-skills/tree/main/skills/aws-serverless-eda
+    tags:
+      - aws
+      - serverless
+      - event-driven
+      - lambda
+      - architecture
