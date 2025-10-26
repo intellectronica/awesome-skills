@@ -1,0 +1,252 @@
+skills:
+  - id: algorithmic-art
+    title: Algorithmic Art
+    description: Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/algorithmic-art/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/algorithmic-art
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=algorithmic-art
+    tags:
+      - generative
+      - art
+      - graphics
+      - p5js
+      - canvas
+
+  - id: artifacts-builder
+    title: Artifacts Builder
+    description: Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/artifacts-builder/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/artifacts-builder
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=artifacts-builder
+    tags:
+      - react
+      - tailwind
+      - shadcn
+      - frontend
+      - artifacts
+
+  - id: brand-guidelines
+    title: Brand Guidelines
+    description: Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/brand-guidelines/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/brand-guidelines
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=brand-guidelines
+    tags:
+      - branding
+      - design
+      - guidelines
+      - typography
+      - colors
+
+  - id: canvas-design
+    title: Canvas Design
+    description: Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/canvas-design/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/canvas-design
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=canvas-design
+    tags:
+      - design
+      - canvas
+      - art
+      - visual
+      - graphics
+
+  - id: docx
+    title: DOCX
+    description: Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for creating new documents, modifying or editing content, working with tracked changes, adding comments, or any other document tasks.
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Proprietary
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/document-skills/docx/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/document-skills/docx
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=document-skills/docx
+    tags:
+      - documents
+      - word
+      - office
+      - docx
+      - editing
+
+  - id: internal-comms
+    title: Internal Communications
+    description: A set of resources to help write all kinds of internal communications, using the formats that companies like to use. Use this skill whenever asked to write internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/internal-comms/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/internal-comms
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=internal-comms
+    tags:
+      - communication
+      - documentation
+      - business
+      - writing
+      - internal
+
+  - id: mcp-builder
+    title: MCP Builder
+    description: Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/mcp-builder/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/mcp-builder
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=mcp-builder
+    tags:
+      - mcp
+      - tools
+      - server
+      - developer
+      - integration
+
+  - id: pdf
+    title: PDF
+    description: Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Proprietary
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/document-skills/pdf/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/document-skills/pdf
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=document-skills/pdf
+    tags:
+      - pdf
+      - documents
+      - forms
+      - extraction
+
+  - id: pptx
+    title: PPTX
+    description: Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for creating new presentations, modifying or editing content, working with layouts, adding comments or speaker notes, or any other presentation tasks.
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Proprietary
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/document-skills/pptx/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/document-skills/pptx
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=document-skills/pptx
+    tags:
+      - presentation
+      - powerpoint
+      - slides
+      - pptx
+
+  - id: skill-creator
+    title: Skill Creator
+    description: Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/skill-creator/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/skill-creator
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=skill-creator
+    tags:
+      - scaffold
+      - generator
+      - template
+      - meta
+      - development
+
+  - id: slack-gif-creator
+    title: Slack GIF Creator
+    description: Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and composable animation primitives. This skill applies when users request animated GIFs or emoji animations for Slack from descriptions like "make me a GIF for Slack of X doing Y".
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/slack-gif-creator/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/slack-gif-creator
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=slack-gif-creator
+    tags:
+      - slack
+      - gif
+      - animation
+      - media
+      - emoji
+
+  - id: template-skill
+    title: Template Skill
+    description: Replace with description of the skill and when Claude should use it.
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/template-skill/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/template-skill
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=template-skill
+    tags:
+      - template
+      - starter
+      - example
+      - boilerplate
+
+  - id: theme-factory
+    title: Theme Factory
+    description: Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/theme-factory/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/theme-factory
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=theme-factory
+    tags:
+      - theme
+      - design
+      - styling
+      - colors
+      - fonts
+
+  - id: webapp-testing
+    title: Webapp Testing
+    description: Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Apache-2.0
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/webapp-testing/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/webapp-testing
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=webapp-testing
+    tags:
+      - testing
+      - web
+      - automation
+      - playwright
+      - qa
+
+  - id: xlsx
+    title: XLSX
+    description: Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for creating new spreadsheets with formulas and formatting, reading or analyzing data, modifying existing spreadsheets while preserving formulas, data analysis and visualization in spreadsheets, or recalculating formulas.
+    author: Anthropic
+    author_url: https://www.anthropic.com
+    author_github: anthropics
+    license: Proprietary
+    license_url: https://raw.githubusercontent.com/anthropics/skills/main/document-skills/xlsx/LICENSE.txt
+    skill_url: https://github.com/anthropics/skills/tree/main/document-skills/xlsx
+    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=document-skills/xlsx
+    tags:
+      - spreadsheet
+      - excel
+      - xlsx
+      - data
+      - analysis
