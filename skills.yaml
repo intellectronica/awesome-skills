@@ -8,7 +8,7 @@ skills:
     license: Apache-2.0
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/algorithmic-art/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/algorithmic-art
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=algorithmic-art
+    skill_download_url: https://github.com/anthropics/skills/tree/main/algorithmic-art
     tags:
       - generative
       - art
@@ -25,7 +25,7 @@ skills:
     license: Apache-2.0
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/artifacts-builder/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/artifacts-builder
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=artifacts-builder
+    skill_download_url: https://github.com/anthropics/skills/tree/main/artifacts-builder
     tags:
       - react
       - tailwind
@@ -42,7 +42,7 @@ skills:
     license: Apache-2.0
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/brand-guidelines/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/brand-guidelines
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=brand-guidelines
+    skill_download_url: https://github.com/anthropics/skills/tree/main/brand-guidelines
     tags:
       - branding
       - design
@@ -59,7 +59,7 @@ skills:
     license: Apache-2.0
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/canvas-design/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/canvas-design
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=canvas-design
+    skill_download_url: https://github.com/anthropics/skills/tree/main/canvas-design
     tags:
       - design
       - canvas
@@ -76,7 +76,7 @@ skills:
     license: Proprietary
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/document-skills/docx/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/document-skills/docx
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=document-skills/docx
+    skill_download_url: https://github.com/anthropics/skills/tree/main/document-skills/docx
     tags:
       - documents
       - word
@@ -93,7 +93,7 @@ skills:
     license: Apache-2.0
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/internal-comms/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/internal-comms
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=internal-comms
+    skill_download_url: https://github.com/anthropics/skills/tree/main/internal-comms
     tags:
       - communication
       - documentation
@@ -110,7 +110,7 @@ skills:
     license: Apache-2.0
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/mcp-builder/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/mcp-builder
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=mcp-builder
+    skill_download_url: https://github.com/anthropics/skills/tree/main/mcp-builder
     tags:
       - mcp
       - tools
@@ -127,7 +127,7 @@ skills:
     license: Proprietary
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/document-skills/pdf/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/document-skills/pdf
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=document-skills/pdf
+    skill_download_url: https://github.com/anthropics/skills/tree/main/document-skills/pdf
     tags:
       - pdf
       - documents
@@ -143,7 +143,7 @@ skills:
     license: Proprietary
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/document-skills/pptx/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/document-skills/pptx
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=document-skills/pptx
+    skill_download_url: https://github.com/anthropics/skills/tree/main/document-skills/pptx
     tags:
       - presentation
       - powerpoint
@@ -159,7 +159,7 @@ skills:
     license: Apache-2.0
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/skill-creator/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/skill-creator
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=skill-creator
+    skill_download_url: https://github.com/anthropics/skills/tree/main/skill-creator
     tags:
       - scaffold
       - generator
@@ -176,7 +176,7 @@ skills:
     license: Apache-2.0
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/slack-gif-creator/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/slack-gif-creator
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=slack-gif-creator
+    skill_download_url: https://github.com/anthropics/skills/tree/main/slack-gif-creator
     tags:
       - slack
       - gif
@@ -193,7 +193,7 @@ skills:
     license: Apache-2.0
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/template-skill/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/template-skill
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=template-skill
+    skill_download_url: https://github.com/anthropics/skills/tree/main/template-skill
     tags:
       - template
       - starter
@@ -209,7 +209,7 @@ skills:
     license: Apache-2.0
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/theme-factory/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/theme-factory
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=theme-factory
+    skill_download_url: https://github.com/anthropics/skills/tree/main/theme-factory
     tags:
       - theme
       - design
@@ -226,7 +226,7 @@ skills:
     license: Apache-2.0
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/webapp-testing/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/webapp-testing
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=webapp-testing
+    skill_download_url: https://github.com/anthropics/skills/tree/main/webapp-testing
     tags:
       - testing
       - web
@@ -243,7 +243,7 @@ skills:
     license: Proprietary
     license_url: https://raw.githubusercontent.com/anthropics/skills/main/document-skills/xlsx/LICENSE.txt
     skill_url: https://github.com/anthropics/skills/tree/main/document-skills/xlsx
-    skill_download_url: https://github.com/anthropics/skills/archive/refs/heads/main.tar.gz#subdirectory=document-skills/xlsx
+    skill_download_url: https://github.com/anthropics/skills/tree/main/document-skills/xlsx
     tags:
       - spreadsheet
       - excel
