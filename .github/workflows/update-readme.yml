@@ -1,0 +1,37 @@
+name: Update README from skills.yaml
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "skills.yaml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v4
+
+      - name: Generate README
+        run: uv run generate_readme.py
+
+      - name: Commit changes (if any)
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "AI"
+          git config user.email "eleanor+ai@intellectronica.net"
+          git add README.md
+          git commit -m "Update README with skills from skills.yaml [skip ci]"
+          git push
