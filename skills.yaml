@@ -250,3 +250,324 @@ skills:
       - xlsx
       - data
       - analysis
+
+  # obra/superpowers skills
+  - id: brainstorming
+    title: Brainstorming
+    description: Use when creating or developing anything, before writing code or implementation plans - refines rough ideas into fully-formed designs through structured Socratic questioning, alternative exploration, and incremental validation
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/brainstorming
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/brainstorming
+    tags:
+      - design
+      - planning
+      - ideation
+      - collaboration
+
+  - id: condition-based-waiting
+    title: Condition-Based Waiting
+    description: Use when tests have race conditions, timing dependencies, or inconsistent pass/fail behavior - replaces arbitrary timeouts with condition polling to wait for actual state changes, eliminating flaky tests from timing guesses
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/condition-based-waiting
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/condition-based-waiting
+    tags:
+      - testing
+      - async
+      - reliability
+      - patterns
+
+  - id: defense-in-depth
+    title: Defense in Depth
+    description: Use when invalid data causes failures deep in execution, requiring validation at multiple system layers - validates at every layer data passes through to make bugs structurally impossible
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/defense-in-depth
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/defense-in-depth
+    tags:
+      - validation
+      - debugging
+      - architecture
+      - patterns
+
+  - id: dispatching-parallel-agents
+    title: Dispatching Parallel Agents
+    description: Use when facing 3+ independent failures that can be investigated without shared state or dependencies - dispatches multiple Claude agents to investigate and fix independent problems concurrently
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/dispatching-parallel-agents
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/dispatching-parallel-agents
+    tags:
+      - workflow
+      - parallel
+      - agents
+      - debugging
+
+  - id: executing-plans
+    title: Executing Plans
+    description: Use when partner provides a complete implementation plan to execute in controlled batches with review checkpoints - loads plan, reviews critically, executes tasks in batches, reports for review between batches
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/executing-plans
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/executing-plans
+    tags:
+      - planning
+      - workflow
+      - execution
+      - collaboration
+
+  - id: finishing-a-development-branch
+    title: Finishing a Development Branch
+    description: Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch
+    tags:
+      - git
+      - workflow
+      - collaboration
+      - completion
+
+  - id: receiving-code-review
+    title: Receiving Code Review
+    description: Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/receiving-code-review
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/receiving-code-review
+    tags:
+      - code-review
+      - collaboration
+      - feedback
+      - quality
+
+  - id: requesting-code-review
+    title: Requesting Code Review
+    description: Use when completing tasks, implementing major features, or before merging to verify work meets requirements - dispatches superpowers:code-reviewer subagent to review implementation against plan or requirements before proceeding
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/requesting-code-review
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/requesting-code-review
+    tags:
+      - code-review
+      - collaboration
+      - quality
+      - validation
+
+  - id: root-cause-tracing
+    title: Root Cause Tracing
+    description: Use when errors occur deep in execution and you need to trace back to find the original trigger - systematically traces bugs backward through call stack, adding instrumentation when needed, to identify source of invalid data or incorrect behavior
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing
+    tags:
+      - debugging
+      - tracing
+      - investigation
+      - analysis
+
+  - id: sharing-skills
+    title: Sharing Skills
+    description: Use when you've developed a broadly useful skill and want to contribute it upstream via pull request - guides process of branching, committing, pushing, and creating PR to contribute skills back to upstream repository
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/sharing-skills
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/sharing-skills
+    tags:
+      - meta
+      - contribution
+      - git
+      - collaboration
+
+  - id: subagent-driven-development
+    title: Subagent-Driven Development
+    description: Use when executing implementation plans with independent tasks in the current session - dispatches fresh subagent for each task with code review between tasks, enabling fast iteration with quality gates
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/subagent-driven-development
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/subagent-driven-development
+    tags:
+      - workflow
+      - agents
+      - development
+      - quality
+
+  - id: systematic-debugging
+    title: Systematic Debugging
+    description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes - four-phase framework (root cause investigation, pattern analysis, hypothesis testing, implementation) that ensures understanding before attempting solutions
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/systematic-debugging
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/systematic-debugging
+    tags:
+      - debugging
+      - methodology
+      - investigation
+      - analysis
+
+  - id: test-driven-development
+    title: Test-Driven Development
+    description: Use when implementing any feature or bugfix, before writing implementation code - write the test first, watch it fail, write minimal code to pass; ensures tests actually verify behavior by requiring failure first
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/test-driven-development
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/test-driven-development
+    tags:
+      - testing
+      - tdd
+      - methodology
+      - quality
+
+  - id: testing-anti-patterns
+    title: Testing Anti-Patterns
+    description: Use when writing or changing tests, adding mocks, or tempted to add test-only methods to production code - prevents testing mock behavior, production pollution with test-only methods, and mocking without understanding dependencies
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/testing-anti-patterns
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/testing-anti-patterns
+    tags:
+      - testing
+      - patterns
+      - quality
+      - best-practices
+
+  - id: testing-skills-with-subagents
+    title: Testing Skills with Subagents
+    description: Use when creating or editing skills, before deployment, to verify they work under pressure and resist rationalization - applies RED-GREEN-REFACTOR cycle to process documentation by running baseline without skill, writing to address failures, iterating to close loopholes
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/testing-skills-with-subagents
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/testing-skills-with-subagents
+    tags:
+      - meta
+      - testing
+      - validation
+      - quality
+
+  - id: using-git-worktrees
+    title: Using Git Worktrees
+    description: Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees
+    tags:
+      - git
+      - workflow
+      - isolation
+      - development
+
+  - id: using-superpowers
+    title: Using Superpowers
+    description: Use when starting any conversation - establishes mandatory workflows for finding and using skills, including using Skill tool before announcing usage, following brainstorming before coding, and creating TodoWrite todos for checklists
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/using-superpowers
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/using-superpowers
+    tags:
+      - meta
+      - workflow
+      - introduction
+      - getting-started
+
+  - id: verification-before-completion
+    title: Verification Before Completion
+    description: Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/verification-before-completion
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/verification-before-completion
+    tags:
+      - validation
+      - quality
+      - verification
+      - completion
+
+  - id: writing-plans
+    title: Writing Plans
+    description: Use when design is complete and you need detailed implementation tasks for engineers with zero codebase context - creates comprehensive implementation plans with exact file paths, complete code examples, and verification steps assuming engineer has minimal domain knowledge
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/writing-plans
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/writing-plans
+    tags:
+      - planning
+      - documentation
+      - collaboration
+      - workflow
+
+  - id: writing-skills
+    title: Writing Skills
+    description: Use when creating new skills, editing existing skills, or verifying skills work before deployment - applies TDD to process documentation by testing with subagents before writing, iterating until bulletproof against rationalization
+    author: Jesse Vincent
+    author_url: https://github.com/obra
+    author_github: obra
+    license: MIT
+    license_url: https://raw.githubusercontent.com/obra/superpowers/main/LICENSE
+    skill_url: https://github.com/obra/superpowers/tree/main/skills/writing-skills
+    skill_download_url: https://github.com/obra/superpowers/tree/main/skills/writing-skills
+    tags:
+      - meta
+      - documentation
+      - creation
+      - quality
