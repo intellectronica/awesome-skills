@@ -50,8 +50,8 @@ def render_card(s):
         lines.append("")
         lines.append(desc)
     lines.append("")
-    # Link GitHub handle to author's GitHub profile
-    lines.append(f"- **Author**: [{author}]({author_url}) ([@{author_gh}](https://github.com/{author_gh}))")
+    # Link GitHub handle to author's GitHub profile with backticks
+    lines.append(f"- **Author**: [{author}]({author_url}) ([`@{author_gh}`](https://github.com/{author_gh}))")
     lines.append(f"- **License**: [{license_name}]({license_url})")
     lines.append(f"- **Skill**: {skill_url}")
     # Only show download URL if it's different from skill URL
@@ -59,6 +59,9 @@ def render_card(s):
         lines.append(f"- **Download**: {dl}")
     if tags_str:
         lines.append(f"- **Tags**: {tags_str}")
+    lines.append("")
+    # Add horizontal separator
+    lines.append("---")
     lines.append("")
     return "\n".join(lines)
 
