@@ -41,14 +41,17 @@ def render_card(s):
     skill_url = s.get("skill_url", "").strip()
     dl = s.get("skill_download_url", "").strip()
     tags = s.get("tags", []) or []
-    tags_str = ", ".join(tags)
+    # Wrap each tag in backticks
+    tags_str = ", ".join(f"`{tag}`" for tag in tags)
     lines = []
-    lines.append(f"## {title}")
+    # Use ### heading and link to skill URL
+    lines.append(f"### [{title}]({skill_url})")
     if desc:
         lines.append("")
         lines.append(desc)
     lines.append("")
-    lines.append(f"- **Author**: [{author}]({author_url}) (@{author_gh})")
+    # Link GitHub handle to author's GitHub profile
+    lines.append(f"- **Author**: [{author}]({author_url}) ([@{author_gh}](https://github.com/{author_gh}))")
     lines.append(f"- **License**: [{license_name}]({license_url})")
     lines.append(f"- **Skill**: {skill_url}")
     # Only show download URL if it's different from skill URL
