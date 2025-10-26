@@ -51,7 +51,9 @@ def render_card(s):
     lines.append(f"- **Author**: [{author}]({author_url}) (@{author_gh})")
     lines.append(f"- **License**: [{license_name}]({license_url})")
     lines.append(f"- **Skill**: {skill_url}")
-    lines.append(f"- **Download**: {dl}")
+    # Only show download URL if it's different from skill URL
+    if dl and dl != skill_url:
+        lines.append(f"- **Download**: {dl}")
     if tags_str:
         lines.append(f"- **Tags**: {tags_str}")
     lines.append("")

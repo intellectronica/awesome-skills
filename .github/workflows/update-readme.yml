@@ -30,8 +30,8 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          git config user.name "AI"
-          git config user.email "eleanor+ai@intellectronica.net"
+          git config user.name "Awesome Skills"
+          git config user.email "eleanor+awesome-skills@intellectronica.net"
           git add README.md
           git commit -m "Update README with skills from skills.yaml [skip ci]"
           git push
