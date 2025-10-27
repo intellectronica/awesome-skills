@@ -142,7 +142,7 @@
           aria-controls="tags-content"
         >
           <div class="flex items-center gap-2">
-            <i data-lucide="chevron-right" class="w-4 h-4 transition-transform" id="tags-chevron"></i>
+            <i data-lucide="chevron-right" class="w-4 h-4 transition-transform duration-200" id="tags-chevron"></i>
             <span>Tags</span>
           </div>
           <div id="tags-inline-badges" class="flex flex-wrap gap-1.5">
@@ -435,7 +435,7 @@
       
       if (searchQuery) activeCount++;
       if (selectedAuthor !== 'all') activeCount++;
-      activeCount += selectedTags.size;
+      if (selectedTags.size > 0) activeCount++;
       
       const badge = document.getElementById('active-filters-badge');
       const clearBtn = document.getElementById('clear-filters-btn');
@@ -521,12 +521,12 @@
           // Collapse
           tagsToggle.setAttribute('aria-expanded', 'false');
           tagsContent.classList.add('hidden');
-          tagsChevron.style.transform = 'rotate(0deg)';
+          tagsChevron.classList.remove('rotate-90');
         } else {
           // Expand
           tagsToggle.setAttribute('aria-expanded', 'true');
           tagsContent.classList.remove('hidden');
-          tagsChevron.style.transform = 'rotate(90deg)';
+          tagsChevron.classList.add('rotate-90');
         }
         
         updateInlineTagBadges();
