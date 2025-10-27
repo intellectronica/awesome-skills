@@ -243,12 +243,18 @@
     // Filter skills based on current state
     function filterSkills() {
       return skillsData.filter(skill => {
-        // Search filter
+        // Search filter - search across all fields
         if (searchQuery) {
           const query = searchQuery.toLowerCase();
           const titleMatch = (skill.title || '').toLowerCase().includes(query);
           const descMatch = (skill.description || '').toLowerCase().includes(query);
-          if (!titleMatch && !descMatch) return false;
+          const authorMatch = (skill.author || '').toLowerCase().includes(query);
+          const githubMatch = (skill.github || '').toLowerCase().includes(query);
+          const tagsMatch = (skill.tags || []).some(tag => tag.toLowerCase().includes(query));
+          
+          if (!titleMatch && !descMatch && !authorMatch && !githubMatch && !tagsMatch) {
+            return false;
+          }
         }
         
         // Author filter
