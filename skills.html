@@ -148,9 +148,9 @@
     <!-- Info Cards Row -->
     <div id="info-cards-row" class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6 transition-all duration-100">
       <!-- Instructions Card -->
-      <div id="instructions-card" class="bg-surface dark:bg-surface-dark rounded-lg shadow-lg p-6 transition-all duration-100 cursor-pointer overflow-hidden">
+      <div id="instructions-card" class="bg-surface dark:bg-surface-dark rounded-lg shadow-lg p-6 transition-all duration-100 overflow-hidden">
         <div class="flex items-center justify-between">
-          <h2 id="instructions-title" class="text-xl font-semibold text-text-primary dark:text-text-primary-dark">Instructions</h2>
+          <h2 id="instructions-title" class="text-xl font-semibold text-text-primary dark:text-text-primary-dark cursor-pointer">Instructions</h2>
           <button id="instructions-close" class="p-1 hover:bg-app-bg dark:hover:bg-border-dark rounded focus:outline-none focus:ring-2 focus:ring-accent transition-opacity duration-100" aria-label="Close instructions">
             <i data-lucide="x" class="w-5 h-5 text-text-secondary dark:text-text-secondary-dark"></i>
           </button>
@@ -164,9 +164,9 @@
       </div>
 
       <!-- Lucky Links Card -->
-      <div id="lucky-links-card" class="bg-surface dark:bg-surface-dark rounded-lg shadow-lg p-6 transition-all duration-100 cursor-pointer overflow-hidden">
+      <div id="lucky-links-card" class="bg-surface dark:bg-surface-dark rounded-lg shadow-lg p-6 transition-all duration-100 overflow-hidden">
         <div class="flex items-center justify-between">
-          <h2 id="lucky-links-title" class="text-xl font-semibold text-text-primary dark:text-text-primary-dark">Links</h2>
+          <h2 id="lucky-links-title" class="text-xl font-semibold text-text-primary dark:text-text-primary-dark cursor-pointer">Links</h2>
           <button id="lucky-links-close" class="p-1 hover:bg-app-bg dark:hover:bg-border-dark rounded focus:outline-none focus:ring-2 focus:ring-accent transition-opacity duration-100" aria-label="Close links">
             <i data-lucide="x" class="w-5 h-5 text-text-secondary dark:text-text-secondary-dark"></i>
           </button>
@@ -745,7 +745,7 @@
         }, 100);
       }
       
-      // Click handlers for both close buttons
+      // Click handlers for close buttons
       instructionsClose.addEventListener('click', (e) => {
         e.stopPropagation();
         if (!isCollapsed) collapseCards();
@@ -756,11 +756,12 @@
         if (!isCollapsed) collapseCards();
       });
       
-      // Click handlers for both cards
-      instructionsCard.addEventListener('click', (e) => {
-        // Don't trigger if clicking on a link
-        if (e.target.tagName === 'A' || e.target.closest('a')) return;
-        
+      // Click handlers for card titles
+      const instructionsTitle = document.getElementById('instructions-title');
+      const luckyLinksTitle = document.getElementById('lucky-links-title');
+      
+      instructionsTitle.addEventListener('click', (e) => {
+        e.stopPropagation();
         if (isCollapsed) {
           expandCards();
         } else {
@@ -768,14 +769,25 @@
         }
       });
       
-      luckyLinksCard.addEventListener('click', (e) => {
-        // Don't trigger if clicking on a link
-        if (e.target.tagName === 'A' || e.target.closest('a')) return;
-        
+      luckyLinksTitle.addEventListener('click', (e) => {
+        e.stopPropagation();
         if (isCollapsed) {
           expandCards();
         } else {
           collapseCards();
+        }
+      });
+      
+      // When collapsed, clicking anywhere on the card expands it
+      instructionsCard.addEventListener('click', (e) => {
+        if (isCollapsed) {
+          expandCards();
+        }
+      });
+      
+      luckyLinksCard.addEventListener('click', (e) => {
+        if (isCollapsed) {
+          expandCards();
         }
       });
     }
