@@ -208,3 +208,7 @@ __marimo__/
 
 # Specstory
 .specstory/
+
+# Playwright MCP
+.playwright-mcp/
+
