@@ -95,13 +95,18 @@
             <span id="active-filters-count" class="mr-1">0</span> active
           </span>
         </div>
-        <button
-          id="clear-filters-btn"
-          class="hidden px-3 py-1.5 text-sm font-medium text-stone-700 dark:text-stone-300 bg-white dark:bg-stone-700 border border-stone-300 dark:border-stone-600 rounded-md hover:bg-stone-50 dark:hover:bg-stone-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-stone-400 inline-flex items-center gap-1 transition-colors"
-        >
-          <i data-lucide="x" class="w-4 h-4"></i>
-          Clear all
-        </button>
+        <div class="flex items-center gap-3">
+          <div class="text-sm text-stone-600 dark:text-stone-400">
+            Showing <span id="results-count" class="font-semibold">0</span> of <span id="total-count-2" class="font-semibold">0</span> skills
+          </div>
+          <button
+            id="clear-filters-btn"
+            class="hidden px-3 py-1.5 text-sm font-medium text-stone-700 dark:text-stone-300 bg-white dark:bg-stone-700 border border-stone-300 dark:border-stone-600 rounded-md hover:bg-stone-50 dark:hover:bg-stone-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-stone-400 inline-flex items-center gap-1 transition-colors"
+          >
+            <i data-lucide="x" class="w-4 h-4"></i>
+            Clear all
+          </button>
+        </div>
       </div>
       <!-- Search Input and Author Select -->
       <div class="mb-4 flex gap-4">
@@ -154,11 +159,6 @@
           </div>
         </div>
       </div>
-    </div>
-
-    <!-- Results Count -->
-    <div class="mb-4 text-stone-600 dark:text-stone-400">
-      Showing <span id="results-count" class="font-semibold">0</span> of <span id="total-count-2" class="font-semibold">0</span> skills
     </div>
 
     <!-- Skills Grid -->
