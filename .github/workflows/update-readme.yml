@@ -30,20 +30,14 @@ jobs:
       - name: Generate skills.json
         run: uv run generate_skills_json.py
 
-      - name: Upload skills.json artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: skills-json
-          path: skills.json
-
       - name: Commit changes (if any)
         run: |
-          if git diff --quiet README.md; then
+          if git diff --quiet README.md skills.json; then
             echo "No changes to commit"
             exit 0
           fi
           git config user.name "Awesome Skills"
           git config user.email "eleanor+awesome-skills@intellectronica.net"
-          git add README.md
-          git commit -m "Update README with skills from skills.yaml [skip ci]"
+          git add README.md skills.json
+          git commit -m "Update README and skills.json from skills.yaml [skip ci]"
           git push
