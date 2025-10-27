@@ -6,6 +6,7 @@ on:
     paths:
       - "skills.yaml"
       - "generate_readme.py"
+      - "generate_skills_json.py"
   workflow_dispatch:
 
 permissions:
@@ -25,6 +26,15 @@ jobs:
 
       - name: Generate README
         run: uv run generate_readme.py
+
+      - name: Generate skills.json
+        run: uv run generate_skills_json.py
+
+      - name: Upload skills.json artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: skills-json
+          path: skills.json
 
       - name: Commit changes (if any)
         run: |
