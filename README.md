@@ -18,6 +18,10 @@ The linked skills each have their own license.
 
 ---
 
+[![Awesome Skills](screenshot.png)](https://skills.intellectronica.net/)
+
+---
+
 ## Skills
 
 <!-- SKILLS_START -->
