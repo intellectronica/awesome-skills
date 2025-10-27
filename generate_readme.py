@@ -30,6 +30,14 @@ def load_skills():
         sys.exit(1)
     return skills
 
+def _nonempty(val):
+    """Check if a value is non-empty (not None, not empty string after stripping)."""
+    if val is None:
+        return False
+    if isinstance(val, str):
+        return val.strip() != ""
+    return True
+
 def render_card(s):
     title = s.get("title", "").strip()
     desc = s.get("description", "").strip()
@@ -52,12 +60,17 @@ def render_card(s):
         lines.append(desc)
     lines.append("")
     # Link GitHub handle to author's GitHub profile with backticks
-    lines.append(f"- **Author**: [{author}]({author_url}) ([`@{author_gh}`](https://github.com/{author_gh}))")
-    # Only show license link if URL is available
-    if license_url:
-        lines.append(f"- **License**: [{license_name}]({license_url})")
+    # Only include GitHub handle if it's present
+    if _nonempty(author_gh):
+        lines.append(f"- **Author**: [{author}]({author_url}) ([`@{author_gh}`](https://github.com/{author_gh}))")
     else:
-        lines.append(f"- **License**: {license_name}")
+        lines.append(f"- **Author**: [{author}]({author_url})")
+    # Only show license if license name is present
+    if _nonempty(license_name):
+        if license_url:
+            lines.append(f"- **License**: [{license_name}]({license_url})")
+        else:
+            lines.append(f"- **License**: {license_name}")
     lines.append(f"- **Skill**: {skill_url}")
     # Only show download URL if it's different from skill URL
     if dl and dl != skill_url:
