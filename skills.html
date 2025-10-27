@@ -22,6 +22,11 @@
     };
   </script>
   <style>
+    /* Serif font for body text */
+    .serif-text {
+      font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+    }
+    
     /* Line clamp for descriptions */
     .line-clamp-3 {
       display: -webkit-box;
@@ -318,7 +323,7 @@
       
       // Description
       const desc = document.createElement('p');
-      desc.className = 'text-sm text-stone-600 dark:text-stone-400 line-clamp-3';
+      desc.className = 'text-sm text-stone-600 dark:text-stone-400 line-clamp-3 serif-text';
       desc.textContent = skill.description || 'No description available.';
       header.appendChild(desc);
       
@@ -346,7 +351,7 @@
       
       // Author
       const authorDiv = document.createElement('div');
-      authorDiv.className = 'text-sm text-stone-600 dark:text-stone-400';
+      authorDiv.className = 'text-sm text-stone-600 dark:text-stone-400 serif-text';
       const authorLabel = document.createElement('span');
       authorLabel.className = 'font-medium';
       authorLabel.textContent = 'By: ';
@@ -374,7 +379,7 @@
       // License
       if (skill.license) {
         const licenseDiv = document.createElement('div');
-        licenseDiv.className = 'text-sm text-stone-600 dark:text-stone-400';
+        licenseDiv.className = 'text-sm text-stone-600 dark:text-stone-400 serif-text';
         const licenseLabel = document.createElement('span');
         licenseLabel.className = 'font-medium';
         licenseLabel.textContent = 'License: ';
