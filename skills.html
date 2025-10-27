@@ -249,7 +249,7 @@
           const titleMatch = (skill.title || '').toLowerCase().includes(query);
           const descMatch = (skill.description || '').toLowerCase().includes(query);
           const authorMatch = (skill.author || '').toLowerCase().includes(query);
-          const githubMatch = (skill.github || '').toLowerCase().includes(query);
+          const githubMatch = (skill.author_github || '').toLowerCase().includes(query);
           const tagsMatch = (skill.tags || []).some(tag => tag.toLowerCase().includes(query));
           
           if (!titleMatch && !descMatch && !authorMatch && !githubMatch && !tagsMatch) {
