@@ -32,12 +32,12 @@ jobs:
 
       - name: Commit changes (if any)
         run: |
-          git add README.md skills.json
+          git add README.md skills.json skills.html
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
           git config user.name "Awesome Skills"
           git config user.email "eleanor+awesome-skills@intellectronica.net"
-          git commit -m "Update README and skills.json from skills.yaml [skip ci]"
+          git commit -m "Update README, skills.json, and skills.html from skills.yaml [skip ci]"
           git push
