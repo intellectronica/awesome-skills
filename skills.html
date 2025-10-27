@@ -146,11 +146,16 @@
     </header>
 
     <!-- Info Cards Row -->
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+    <div id="info-cards-row" class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6 transition-all duration-100">
       <!-- Instructions Card -->
-      <div class="bg-surface dark:bg-surface-dark rounded-lg shadow-lg p-6 transition-colors">
-        <h2 class="text-xl font-semibold text-text-primary dark:text-text-primary-dark mb-4">Instructions</h2>
-        <div class="text-text-secondary dark:text-text-secondary-dark space-y-3 text-sm leading-relaxed">
+      <div id="instructions-card" class="bg-surface dark:bg-surface-dark rounded-lg shadow-lg p-6 transition-all duration-100 cursor-pointer overflow-hidden">
+        <div class="flex items-center justify-between">
+          <h2 id="instructions-title" class="text-xl font-semibold text-text-primary dark:text-text-primary-dark">Instructions</h2>
+          <button id="instructions-close" class="p-1 hover:bg-app-bg dark:hover:bg-border-dark rounded focus:outline-none focus:ring-2 focus:ring-accent transition-opacity duration-100" aria-label="Close instructions">
+            <i data-lucide="x" class="w-5 h-5 text-text-secondary dark:text-text-secondary-dark"></i>
+          </button>
+        </div>
+        <div id="instructions-content" class="text-text-secondary dark:text-text-secondary-dark space-y-3 text-sm leading-relaxed mt-4 transition-all duration-100">
           <p>Skills extend the capabilities of AI agents with packaged routines, workflows, and knowledge.</p>
           <p>You can run these skills in <a href="https://www.anthropic.com/news/skills" target="_blank" rel="noopener noreferrer" class="text-accent hover:underline">Claude</a> or with any AI agent using the <a href="https://github.com/intellectronica/skillz" target="_blank" rel="noopener noreferrer" class="text-accent hover:underline">Skillz MCP server</a>.</p>
           <p>The skills listed here have been published by many commercial and community developers. To use a skill, retrieve it and upload it to Claude as a <code class="px-1.5 py-0.5 bg-app-bg dark:bg-border-dark rounded text-xs font-mono">.zip</code> file, or place it in the <code class="px-1.5 py-0.5 bg-app-bg dark:bg-border-dark rounded text-xs font-mono">skills</code> directory of Claude Code or <code class="px-1.5 py-0.5 bg-app-bg dark:bg-border-dark rounded text-xs font-mono">~/.skillz</code> (for using with other agents).</p>
@@ -159,9 +164,14 @@
       </div>
 
       <!-- Lucky Links Card -->
-      <div class="bg-surface dark:bg-surface-dark rounded-lg shadow-lg p-6 transition-colors">
-        <h2 class="text-xl font-semibold text-text-primary dark:text-text-primary-dark mb-4">Lucky Links</h2>
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
+      <div id="lucky-links-card" class="bg-surface dark:bg-surface-dark rounded-lg shadow-lg p-6 transition-all duration-100 cursor-pointer overflow-hidden">
+        <div class="flex items-center justify-between">
+          <h2 id="lucky-links-title" class="text-xl font-semibold text-text-primary dark:text-text-primary-dark">Lucky Links</h2>
+          <button id="lucky-links-close" class="p-1 hover:bg-app-bg dark:hover:bg-border-dark rounded focus:outline-none focus:ring-2 focus:ring-accent transition-opacity duration-100" aria-label="Close lucky links">
+            <i data-lucide="x" class="w-5 h-5 text-text-secondary dark:text-text-secondary-dark"></i>
+          </button>
+        </div>
+        <div id="lucky-links-content" class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm mt-4 transition-all duration-100">
           <!-- Column 1 -->
           <div class="space-y-4">
             <div>
@@ -660,6 +670,112 @@
         } else {
           html.classList.add('dark');
           localStorage.setItem('theme', 'dark');
+        }
+      });
+      
+      // Info cards collapse/expand functionality
+      const instructionsCard = document.getElementById('instructions-card');
+      const instructionsContent = document.getElementById('instructions-content');
+      const instructionsClose = document.getElementById('instructions-close');
+      
+      const luckyLinksCard = document.getElementById('lucky-links-card');
+      const luckyLinksContent = document.getElementById('lucky-links-content');
+      const luckyLinksClose = document.getElementById('lucky-links-close');
+      
+      let isCollapsed = false;
+      
+      function collapseCards() {
+        // Get the current heights
+        const instructionsHeight = instructionsContent.scrollHeight;
+        const luckyLinksHeight = luckyLinksContent.scrollHeight;
+        
+        // Set explicit heights and overflow hidden
+        instructionsContent.style.maxHeight = instructionsHeight + 'px';
+        luckyLinksContent.style.maxHeight = luckyLinksHeight + 'px';
+        instructionsContent.style.marginTop = '1rem';
+        luckyLinksContent.style.marginTop = '1rem';
+        instructionsContent.style.overflow = 'hidden';
+        luckyLinksContent.style.overflow = 'hidden';
+        
+        // Force reflow
+        instructionsContent.offsetHeight;
+        
+        // Collapse to 0 and hide
+        instructionsContent.style.maxHeight = '0';
+        luckyLinksContent.style.maxHeight = '0';
+        instructionsContent.style.marginTop = '0';
+        luckyLinksContent.style.marginTop = '0';
+        instructionsContent.style.opacity = '0';
+        luckyLinksContent.style.opacity = '0';
+        instructionsClose.style.opacity = '0';
+        luckyLinksClose.style.opacity = '0';
+        
+        isCollapsed = true;
+        
+        setTimeout(() => {
+          instructionsClose.style.display = 'none';
+          luckyLinksClose.style.display = 'none';
+          instructionsContent.style.visibility = 'hidden';
+          luckyLinksContent.style.visibility = 'hidden';
+        }, 100);
+      }
+      
+      function expandCards() {
+        instructionsClose.style.display = 'block';
+        luckyLinksClose.style.display = 'block';
+        instructionsContent.style.visibility = 'visible';
+        luckyLinksContent.style.visibility = 'visible';
+        
+        instructionsContent.style.maxHeight = instructionsContent.scrollHeight + 'px';
+        luckyLinksContent.style.maxHeight = luckyLinksContent.scrollHeight + 'px';
+        instructionsContent.style.marginTop = '1rem';
+        luckyLinksContent.style.marginTop = '1rem';
+        instructionsContent.style.opacity = '1';
+        luckyLinksContent.style.opacity = '1';
+        instructionsClose.style.opacity = '1';
+        luckyLinksClose.style.opacity = '1';
+        
+        isCollapsed = false;
+        
+        setTimeout(() => {
+          instructionsContent.style.maxHeight = '';
+          luckyLinksContent.style.maxHeight = '';
+          instructionsContent.style.overflow = '';
+          luckyLinksContent.style.overflow = '';
+        }, 100);
+      }
+      
+      // Click handlers for both close buttons
+      instructionsClose.addEventListener('click', (e) => {
+        e.stopPropagation();
+        if (!isCollapsed) collapseCards();
+      });
+      
+      luckyLinksClose.addEventListener('click', (e) => {
+        e.stopPropagation();
+        if (!isCollapsed) collapseCards();
+      });
+      
+      // Click handlers for both cards
+      instructionsCard.addEventListener('click', (e) => {
+        // Don't trigger if clicking on a link
+        if (e.target.tagName === 'A' || e.target.closest('a')) return;
+        
+        if (isCollapsed) {
+          expandCards();
+        } else {
+          collapseCards();
+        }
+      });
+      
+      luckyLinksCard.addEventListener('click', (e) => {
+        // Don't trigger if clicking on a link
+        if (e.target.tagName === 'A' || e.target.closest('a')) return;
+        
+        if (isCollapsed) {
+          expandCards();
+        } else {
+          collapseCards();
         }
       });
     }
