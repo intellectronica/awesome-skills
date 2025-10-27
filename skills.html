@@ -4,7 +4,23 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Awesome Skills Browser</title>
+  <script>
+    // Dark mode initialization - must run before page renders
+    (function() {
+      const theme = localStorage.getItem('theme') || 
+                   (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      if (theme === 'dark') {
+        document.documentElement.classList.add('dark');
+      }
+    })();
+  </script>
   <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    // Configure Tailwind to enable dark mode
+    tailwind.config = {
+      darkMode: 'class'
+    };
+  </script>
   <style>
     /* Line clamp for descriptions */
     .line-clamp-3 {
@@ -36,33 +52,53 @@
       border: 1px solid #cbd5e1;
     }
     
+    .dark .tag-chip[aria-pressed="false"] {
+      background-color: #1e293b;
+      color: #cbd5e1;
+      border: 1px solid #475569;
+    }
+    
     .tag-chip[aria-pressed="false"]:hover {
       background-color: #f1f5f9;
     }
+    
+    .dark .tag-chip[aria-pressed="false"]:hover {
+      background-color: #334155;
+    }
   </style>
 </head>
-<body class="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100">
+<body class="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 dark:from-slate-900 dark:to-slate-800 transition-colors">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
     <!-- Header -->
-    <header class="mb-8">
-      <h1 class="text-4xl font-bold text-slate-900 mb-2">Claude Skills Browser</h1>
-      <p class="text-slate-600">Explore <span id="total-count" class="font-semibold">0</span> available skills</p>
+    <header class="mb-8 flex items-start justify-between">
+      <div>
+        <h1 class="text-4xl font-bold text-slate-900 dark:text-slate-100 mb-2">Claude Skills Browser</h1>
+        <p class="text-slate-600 dark:text-slate-400">Explore <span id="total-count" class="font-semibold">0</span> available skills</p>
+      </div>
+      <button
+        id="theme-toggle"
+        class="p-2 rounded-lg bg-white dark:bg-slate-800 border border-slate-300 dark:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-colors"
+        aria-label="Toggle theme"
+      >
+        <i data-lucide="sun" class="w-5 h-5 text-slate-700 dark:text-slate-300 hidden dark:block"></i>
+        <i data-lucide="moon" class="w-5 h-5 text-slate-700 dark:text-slate-300 block dark:hidden"></i>
+      </button>
     </header>
 
     <!-- Filters Card -->
-    <div class="bg-white rounded-lg shadow-lg p-6 mb-6">
+    <div class="bg-white dark:bg-slate-800 rounded-lg shadow-lg p-6 mb-6 transition-colors">
       <!-- Filter Header -->
       <div class="flex items-center justify-between mb-4">
         <div class="flex items-center gap-2">
-          <i data-lucide="filter" class="w-5 h-5"></i>
-          <h2 class="text-xl font-semibold">Filters</h2>
-          <span id="active-filters-badge" class="hidden inline-flex items-center px-2.5 py-0.5 rounded-full text-sm font-medium bg-slate-100 text-slate-800">
+          <i data-lucide="filter" class="w-5 h-5 text-slate-700 dark:text-slate-300"></i>
+          <h2 class="text-xl font-semibold text-slate-900 dark:text-slate-100">Filters</h2>
+          <span id="active-filters-badge" class="hidden inline-flex items-center px-2.5 py-0.5 rounded-full text-sm font-medium bg-slate-100 dark:bg-slate-700 text-slate-800 dark:text-slate-200">
             <span id="active-filters-count">0</span> active
           </span>
         </div>
         <button
           id="clear-filters-btn"
-          class="hidden px-3 py-1.5 text-sm font-medium text-slate-700 bg-white border border-slate-300 rounded-md hover:bg-slate-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 inline-flex items-center gap-1"
+          class="hidden px-3 py-1.5 text-sm font-medium text-slate-700 dark:text-slate-300 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-md hover:bg-slate-50 dark:hover:bg-slate-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 inline-flex items-center gap-1 transition-colors"
         >
           <i data-lucide="x" class="w-4 h-4"></i>
           Clear all
@@ -71,24 +107,24 @@
       <!-- Search Input -->
       <div class="mb-4">
         <div class="relative">
-          <i data-lucide="search" class="absolute left-3 top-3 h-4 w-4 text-slate-400"></i>
+          <i data-lucide="search" class="absolute left-3 top-3 h-4 w-4 text-slate-400 dark:text-slate-500"></i>
           <input
             type="text"
             id="search-input"
             placeholder="Search skills..."
-            class="block w-full pl-9 pr-3 py-2 border border-slate-300 rounded-md leading-5 bg-white placeholder-slate-500 focus:outline-none focus:placeholder-slate-400 focus:ring-1 focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
+            class="block w-full pl-9 pr-3 py-2 border border-slate-300 dark:border-slate-600 rounded-md leading-5 bg-white dark:bg-slate-700 text-slate-900 dark:text-slate-100 placeholder-slate-500 dark:placeholder-slate-400 focus:outline-none focus:placeholder-slate-400 dark:focus:placeholder-slate-500 focus:ring-1 focus:ring-blue-500 focus:border-blue-500 sm:text-sm transition-colors"
           />
         </div>
       </div>
 
       <!-- Author Select -->
       <div class="mb-4">
-        <label for="author-select" class="block text-sm font-medium mb-2">
+        <label for="author-select" class="block text-sm font-medium mb-2 text-slate-700 dark:text-slate-300">
           Author
         </label>
         <select
           id="author-select"
-          class="block w-full px-3 py-2 border border-slate-300 rounded-md leading-5 bg-white focus:outline-none focus:ring-1 focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
+          class="block w-full px-3 py-2 border border-slate-300 dark:border-slate-600 rounded-md leading-5 bg-white dark:bg-slate-700 text-slate-900 dark:text-slate-100 focus:outline-none focus:ring-1 focus:ring-blue-500 focus:border-blue-500 sm:text-sm transition-colors"
         >
           <option value="all">All Authors</option>
         </select>
@@ -96,7 +132,7 @@
 
       <!-- Tags -->
       <div class="mb-4">
-        <label class="block text-sm font-medium mb-2">
+        <label class="block text-sm font-medium mb-2 text-slate-700 dark:text-slate-300">
           Tags
         </label>
         <div id="tags-container" class="flex flex-wrap gap-2">
@@ -106,7 +142,7 @@
     </div>
 
     <!-- Results Count -->
-    <div class="mb-4 text-slate-600">
+    <div class="mb-4 text-slate-600 dark:text-slate-400">
       Showing <span id="results-count" class="font-semibold">0</span> of <span id="total-count-2" class="font-semibold">0</span> skills
     </div>
 
@@ -117,10 +153,10 @@
 
     <!-- Zero Results State -->
     <div id="zero-results" class="hidden text-center py-12">
-      <p class="text-slate-500 text-lg mb-4">No skills match your filters</p>
+      <p class="text-slate-500 dark:text-slate-400 text-lg mb-4">No skills match your filters</p>
       <button
         id="clear-filters-zero-btn"
-        class="px-4 py-2 text-sm font-medium text-slate-700 bg-white border border-slate-300 rounded-md hover:bg-slate-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+        class="px-4 py-2 text-sm font-medium text-slate-700 dark:text-slate-300 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-md hover:bg-slate-50 dark:hover:bg-slate-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors"
       >
         Clear filters
       </button>
@@ -247,7 +283,7 @@
     // Create skill card element
     function createSkillCard(skill) {
       const card = document.createElement('div');
-      card.className = 'skill-card bg-white rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-200 flex flex-col';
+      card.className = 'skill-card bg-white dark:bg-slate-800 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-200 flex flex-col';
       
       // Card Header
       const header = document.createElement('div');
@@ -255,13 +291,13 @@
       
       // Title
       const title = document.createElement('h3');
-      title.className = 'text-lg font-semibold text-slate-900 mb-2';
+      title.className = 'text-lg font-semibold text-slate-900 dark:text-slate-100 mb-2';
       title.textContent = skill.title || 'Untitled';
       header.appendChild(title);
       
       // Description
       const desc = document.createElement('p');
-      desc.className = 'text-sm text-slate-600 line-clamp-3';
+      desc.className = 'text-sm text-slate-600 dark:text-slate-400 line-clamp-3';
       desc.textContent = skill.description || 'No description available.';
       header.appendChild(desc);
       
@@ -280,7 +316,7 @@
         tagsDiv.className = 'flex flex-wrap gap-1';
         skill.tags.forEach(tag => {
           const tagSpan = document.createElement('span');
-          tagSpan.className = 'inline-flex items-center px-2 py-0.5 text-xs font-medium bg-slate-100 text-slate-800 rounded';
+          tagSpan.className = 'inline-flex items-center px-2 py-0.5 text-xs font-medium bg-slate-100 dark:bg-slate-700 text-slate-800 dark:text-slate-200 rounded';
           tagSpan.textContent = tag;
           tagsDiv.appendChild(tagSpan);
         });
@@ -289,7 +325,7 @@
       
       // Author
       const authorDiv = document.createElement('div');
-      authorDiv.className = 'text-sm text-slate-600';
+      authorDiv.className = 'text-sm text-slate-600 dark:text-slate-400';
       const authorLabel = document.createElement('span');
       authorLabel.className = 'font-medium';
       authorLabel.textContent = 'By: ';
@@ -300,7 +336,7 @@
         authorLink.href = skill.author_url;
         authorLink.target = '_blank';
         authorLink.rel = 'noopener noreferrer';
-        authorLink.className = 'text-blue-600 hover:underline inline-flex items-center gap-1';
+        authorLink.className = 'text-blue-600 dark:text-blue-400 hover:underline inline-flex items-center gap-1';
         authorLink.textContent = skill.author || 'Unknown';
         const icon = document.createElement('i');
         icon.setAttribute('data-lucide', 'external-link');
@@ -317,7 +353,7 @@
       // License
       if (skill.license) {
         const licenseDiv = document.createElement('div');
-        licenseDiv.className = 'text-sm text-slate-600';
+        licenseDiv.className = 'text-sm text-slate-600 dark:text-slate-400';
         const licenseLabel = document.createElement('span');
         licenseLabel.className = 'font-medium';
         licenseLabel.textContent = 'License: ';
@@ -330,12 +366,12 @@
       
       // Buttons
       const buttonsDiv = document.createElement('div');
-      buttonsDiv.className = 'flex gap-2 pt-3 border-t border-slate-200';
+      buttonsDiv.className = 'flex gap-2 pt-3 border-t border-slate-200 dark:border-slate-700';
       
       if (skill.skill_url) {
         const viewBtn = document.createElement('button');
         viewBtn.onclick = () => window.open(skill.skill_url, '_blank');
-        viewBtn.className = 'flex-1 inline-flex items-center justify-center px-3 py-2 text-sm font-medium text-slate-700 bg-white border border-slate-300 rounded-md hover:bg-slate-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500';
+        viewBtn.className = 'flex-1 inline-flex items-center justify-center px-3 py-2 text-sm font-medium text-slate-700 dark:text-slate-300 bg-white dark:bg-slate-700 border border-slate-300 dark:border-slate-600 rounded-md hover:bg-slate-50 dark:hover:bg-slate-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors';
         const viewIcon = document.createElement('i');
         viewIcon.setAttribute('data-lucide', 'external-link');
         viewIcon.className = 'w-3 h-3 mr-1';
@@ -436,6 +472,20 @@
       // Clear filters buttons
       document.getElementById('clear-filters-btn').addEventListener('click', clearAllFilters);
       document.getElementById('clear-filters-zero-btn').addEventListener('click', clearAllFilters);
+      
+      // Theme toggle
+      document.getElementById('theme-toggle').addEventListener('click', () => {
+        const html = document.documentElement;
+        const isDark = html.classList.contains('dark');
+        
+        if (isDark) {
+          html.classList.remove('dark');
+          localStorage.setItem('theme', 'light');
+        } else {
+          html.classList.add('dark');
+          localStorage.setItem('theme', 'dark');
+        }
+      });
     }
     
     // Set total counts
