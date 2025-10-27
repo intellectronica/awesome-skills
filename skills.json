@@ -814,7 +814,7 @@
       "id": "playwright-automation",
       "title": "Playwright Browser Automation",
       "description": "Model-invoked Playwright automation for browser testing and validation. Claude autonomously writes and executes custom automation for testing web applications.",
-      "author": "John Lackey",
+      "author": "Bryan Lackey",
       "author_url": "https://github.com/lackeyjb",
       "author_github": "lackeyjb",
       "license": "MIT",
