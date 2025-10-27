@@ -6,6 +6,7 @@ on:
     paths:
       - "skills.yaml"
       - "generate_readme.py"
+      - "generate_skills_json.py"
   workflow_dispatch:
 
 permissions:
@@ -26,14 +27,17 @@ jobs:
       - name: Generate README
         run: uv run generate_readme.py
 
+      - name: Generate skills.json
+        run: uv run generate_skills_json.py
+
       - name: Commit changes (if any)
         run: |
-          if git diff --quiet README.md; then
+          if git diff --quiet README.md skills.json; then
             echo "No changes to commit"
             exit 0
           fi
           git config user.name "Awesome Skills"
           git config user.email "eleanor+awesome-skills@intellectronica.net"
-          git add README.md
-          git commit -m "Update README with skills from skills.yaml [skip ci]"
+          git add README.md skills.json
+          git commit -m "Update README and skills.json from skills.yaml [skip ci]"
           git push
