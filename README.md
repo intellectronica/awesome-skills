@@ -994,8 +994,7 @@ Enable Claude Code to communicate directly with Google NotebookLM notebooks. Que
 
 Turns discussions into durable knowledge in Notion. Captures insights and decisions from chat, formats them clearly, and files them to the right wiki or database with smart linking.
 
-- **Author**: [Notion Devs](https://notiondevs.notion.site/notion-skills-for-claude) ([`@`](https://github.com/))
-- **License**: 
+- **Author**: [Notion Devs](https://notiondevs.notion.site/notion-skills-for-claude)
 - **Skill**: https://notiondevs.notion.site/notion-skills-for-claude
 - **Tags**: `notion`, `knowledge-management`, `documentation`, `wiki`, `database`
 
@@ -1005,8 +1004,7 @@ Turns discussions into durable knowledge in Notion. Captures insights and decisi
 
 Prepares meeting materials by gathering context from Notion, enriching with Claude research, and creating both an internal pre-read and external agenda saved to Notion. Helps you arrive prepared with a comprehensive background and structured meeting docs.
 
-- **Author**: [Notion Devs](https://notiondevs.notion.site/notion-skills-for-claude) ([`@`](https://github.com/))
-- **License**: 
+- **Author**: [Notion Devs](https://notiondevs.notion.site/notion-skills-for-claude)
 - **Skill**: https://notiondevs.notion.site/notion-skills-for-claude
 - **Tags**: `notion`, `meetings`, `preparation`, `documentation`, `research`
 
@@ -1016,8 +1014,7 @@ Prepares meeting materials by gathering context from Notion, enriching with Clau
 
 Searches across your Notion workspace, synthesizes findings from multiple pages, and creates comprehensive research documentation saved as new Notion pages. Turns scattered information into structured reports with proper citations and actionable insights.
 
-- **Author**: [Notion Devs](https://notiondevs.notion.site/notion-skills-for-claude) ([`@`](https://github.com/))
-- **License**: 
+- **Author**: [Notion Devs](https://notiondevs.notion.site/notion-skills-for-claude)
 - **Skill**: https://notiondevs.notion.site/notion-skills-for-claude
 - **Tags**: `notion`, `research`, `documentation`, `synthesis`, `reports`
 
@@ -1027,8 +1024,7 @@ Searches across your Notion workspace, synthesizes findings from multiple pages,
 
 Turns product or tech specs into concrete Notion tasks that Claude Code can implement. Breaks down spec pages into detailed implementation plans with clear tasks, acceptance criteria, and progress tracking to guide development from requirements to completion.
 
-- **Author**: [Notion Devs](https://notiondevs.notion.site/notion-skills-for-claude) ([`@`](https://github.com/))
-- **License**: 
+- **Author**: [Notion Devs](https://notiondevs.notion.site/notion-skills-for-claude)
 - **Skill**: https://notiondevs.notion.site/notion-skills-for-claude
 - **Tags**: `notion`, `implementation`, `planning`, `tasks`, `development`, `specifications`
 
