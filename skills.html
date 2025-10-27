@@ -14,19 +14,15 @@
       overflow: hidden;
     }
     
-    /* Card hover effect */
+    /* Card hover effect handled by Tailwind's hover:shadow-xl */
     .skill-card {
-      transition: transform 0.2s, box-shadow 0.2s;
-    }
-    
-    .skill-card:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      transition: box-shadow 0.2s;
     }
     
     /* Tag chip styling */
     .tag-chip {
       transition: all 0.2s;
+      cursor: pointer;
     }
     
     .tag-chip[aria-pressed="true"] {
@@ -34,47 +30,65 @@
       color: white;
     }
     
+    .tag-chip[aria-pressed="false"] {
+      background-color: white;
+      color: #334155;
+      border: 1px solid #cbd5e1;
+    }
+    
     .tag-chip[aria-pressed="false"]:hover {
-      background-color: #e5e7eb;
+      background-color: #f1f5f9;
     }
   </style>
 </head>
-<body class="bg-gray-50 min-h-screen">
+<body class="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
     <!-- Header -->
     <header class="mb-8">
-      <h1 class="text-4xl font-bold text-gray-900 mb-2">Awesome Skills</h1>
-      <p class="text-gray-600">Browse and filter <span id="total-count" class="font-semibold">0</span> skills</p>
+      <h1 class="text-4xl font-bold text-slate-900 mb-2">Claude Skills Browser</h1>
+      <p class="text-slate-600">Explore <span id="total-count" class="font-semibold">0</span> available skills</p>
     </header>
 
     <!-- Filters Card -->
-    <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+    <div class="bg-white rounded-lg shadow-lg p-6 mb-6">
+      <!-- Filter Header -->
+      <div class="flex items-center justify-between mb-4">
+        <div class="flex items-center gap-2">
+          <i data-lucide="filter" class="w-5 h-5"></i>
+          <h2 class="text-xl font-semibold">Filters</h2>
+          <span id="active-filters-badge" class="hidden inline-flex items-center px-2.5 py-0.5 rounded-full text-sm font-medium bg-slate-100 text-slate-800">
+            <span id="active-filters-count">0</span> active
+          </span>
+        </div>
+        <button
+          id="clear-filters-btn"
+          class="hidden px-3 py-1.5 text-sm font-medium text-slate-700 bg-white border border-slate-300 rounded-md hover:bg-slate-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 inline-flex items-center gap-1"
+        >
+          <i data-lucide="x" class="w-4 h-4"></i>
+          Clear all
+        </button>
+      </div>
       <!-- Search Input -->
       <div class="mb-4">
-        <label for="search-input" class="block text-sm font-medium text-gray-700 mb-2">
-          Search
-        </label>
         <div class="relative">
-          <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-            <i data-lucide="search" class="w-5 h-5 text-gray-400"></i>
-          </div>
+          <i data-lucide="search" class="absolute left-3 top-3 h-4 w-4 text-slate-400"></i>
           <input
             type="text"
             id="search-input"
-            placeholder="Search skills by title or description..."
-            class="block w-full pl-10 pr-3 py-2 border border-gray-300 rounded-md leading-5 bg-white placeholder-gray-500 focus:outline-none focus:placeholder-gray-400 focus:ring-1 focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
+            placeholder="Search skills..."
+            class="block w-full pl-9 pr-3 py-2 border border-slate-300 rounded-md leading-5 bg-white placeholder-slate-500 focus:outline-none focus:placeholder-slate-400 focus:ring-1 focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
           />
         </div>
       </div>
 
       <!-- Author Select -->
       <div class="mb-4">
-        <label for="author-select" class="block text-sm font-medium text-gray-700 mb-2">
+        <label for="author-select" class="block text-sm font-medium mb-2">
           Author
         </label>
         <select
           id="author-select"
-          class="block w-full px-3 py-2 border border-gray-300 rounded-md leading-5 bg-white focus:outline-none focus:ring-1 focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
+          class="block w-full px-3 py-2 border border-slate-300 rounded-md leading-5 bg-white focus:outline-none focus:ring-1 focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
         >
           <option value="all">All Authors</option>
         </select>
@@ -82,35 +96,18 @@
 
       <!-- Tags -->
       <div class="mb-4">
-        <label class="block text-sm font-medium text-gray-700 mb-2">
+        <label class="block text-sm font-medium mb-2">
           Tags
         </label>
         <div id="tags-container" class="flex flex-wrap gap-2">
           <!-- Tag chips will be rendered here -->
         </div>
       </div>
-
-      <!-- Active Filters Badge and Clear Button -->
-      <div class="flex items-center justify-between pt-4 border-t border-gray-200">
-        <div>
-          <span id="active-filters-badge" class="hidden inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-blue-100 text-blue-800">
-            <span id="active-filters-count">0</span> active filters
-          </span>
-        </div>
-        <button
-          id="clear-filters-btn"
-          class="hidden px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-md hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
-        >
-          Clear all
-        </button>
-      </div>
     </div>
 
     <!-- Results Count -->
-    <div class="mb-4">
-      <p class="text-gray-600">
-        Showing <span id="results-count" class="font-semibold">0</span> skills
-      </p>
+    <div class="mb-4 text-slate-600">
+      Showing <span id="results-count" class="font-semibold">0</span> of <span id="total-count-2" class="font-semibold">0</span> skills
     </div>
 
     <!-- Skills Grid -->
@@ -120,14 +117,10 @@
 
     <!-- Zero Results State -->
     <div id="zero-results" class="hidden text-center py-12">
-      <div class="inline-flex items-center justify-center w-16 h-16 rounded-full bg-gray-100 mb-4">
-        <i data-lucide="search-x" class="w-8 h-8 text-gray-400"></i>
-      </div>
-      <h3 class="text-lg font-medium text-gray-900 mb-2">No skills found</h3>
-      <p class="text-gray-600 mb-4">Try adjusting your filters to see more results</p>
+      <p class="text-slate-500 text-lg mb-4">No skills match your filters</p>
       <button
         id="clear-filters-zero-btn"
-        class="px-4 py-2 text-sm font-medium text-white bg-blue-600 rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+        class="px-4 py-2 text-sm font-medium text-slate-700 bg-white border border-slate-300 rounded-md hover:bg-slate-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
       >
         Clear filters
       </button>
@@ -187,7 +180,7 @@
       allTags.forEach(tag => {
         const button = document.createElement('button');
         button.type = 'button';
-        button.className = 'tag-chip px-3 py-1 text-sm rounded-full border border-gray-300 bg-white text-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500';
+        button.className = 'tag-chip px-2.5 py-1 text-sm rounded focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500';
         button.setAttribute('aria-pressed', 'false');
         button.textContent = tag;
         button.dataset.tag = tag;
@@ -245,6 +238,7 @@
       
       // Update counts
       document.getElementById('results-count').textContent = filtered.length;
+      document.getElementById('total-count-2').textContent = skillsData.length;
       
       // Reinitialize Lucide icons
       lucide.createIcons();
@@ -253,74 +247,113 @@
     // Create skill card element
     function createSkillCard(skill) {
       const card = document.createElement('div');
-      card.className = 'skill-card bg-white rounded-lg shadow-md p-6 flex flex-col';
+      card.className = 'skill-card bg-white rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-200 flex flex-col';
+      
+      // Card Header
+      const header = document.createElement('div');
+      header.className = 'p-6 pb-4';
       
       // Title
       const title = document.createElement('h3');
-      title.className = 'text-xl font-semibold text-gray-900 mb-2';
+      title.className = 'text-lg font-semibold text-slate-900 mb-2';
       title.textContent = skill.title || 'Untitled';
-      card.appendChild(title);
+      header.appendChild(title);
       
       // Description
       const desc = document.createElement('p');
-      desc.className = 'text-gray-600 mb-4 line-clamp-3 flex-grow';
+      desc.className = 'text-sm text-slate-600 line-clamp-3';
       desc.textContent = skill.description || 'No description available.';
-      card.appendChild(desc);
+      header.appendChild(desc);
+      
+      card.appendChild(header);
+      
+      // Card Content
+      const content = document.createElement('div');
+      content.className = 'p-6 pt-0 flex-grow flex flex-col justify-between';
+      
+      const topSection = document.createElement('div');
+      topSection.className = 'space-y-3 mb-4';
       
       // Tags
       if (skill.tags && skill.tags.length > 0) {
         const tagsDiv = document.createElement('div');
-        tagsDiv.className = 'flex flex-wrap gap-2 mb-4';
+        tagsDiv.className = 'flex flex-wrap gap-1';
         skill.tags.forEach(tag => {
           const tagSpan = document.createElement('span');
-          tagSpan.className = 'inline-flex items-center px-2 py-1 text-xs font-medium bg-gray-100 text-gray-800 rounded';
+          tagSpan.className = 'inline-flex items-center px-2 py-0.5 text-xs font-medium bg-slate-100 text-slate-800 rounded';
           tagSpan.textContent = tag;
           tagsDiv.appendChild(tagSpan);
         });
-        card.appendChild(tagsDiv);
+        topSection.appendChild(tagsDiv);
       }
       
       // Author
       const authorDiv = document.createElement('div');
-      authorDiv.className = 'text-sm text-gray-500 mb-4';
+      authorDiv.className = 'text-sm text-slate-600';
+      const authorLabel = document.createElement('span');
+      authorLabel.className = 'font-medium';
+      authorLabel.textContent = 'By: ';
+      authorDiv.appendChild(authorLabel);
+      
       if (skill.author_url) {
         const authorLink = document.createElement('a');
         authorLink.href = skill.author_url;
         authorLink.target = '_blank';
         authorLink.rel = 'noopener noreferrer';
-        authorLink.className = 'hover:text-blue-600';
-        authorLink.textContent = `By ${skill.author || 'Unknown'}`;
+        authorLink.className = 'text-blue-600 hover:underline inline-flex items-center gap-1';
+        authorLink.textContent = skill.author || 'Unknown';
+        const icon = document.createElement('i');
+        icon.setAttribute('data-lucide', 'external-link');
+        icon.className = 'w-3 h-3';
+        authorLink.appendChild(icon);
         authorDiv.appendChild(authorLink);
-      } else if (skill.author) {
-        authorDiv.textContent = `By ${skill.author}`;
+      } else {
+        const authorText = document.createElement('span');
+        authorText.textContent = skill.author || 'Unknown';
+        authorDiv.appendChild(authorText);
       }
-      card.appendChild(authorDiv);
+      topSection.appendChild(authorDiv);
+      
+      // License
+      if (skill.license) {
+        const licenseDiv = document.createElement('div');
+        licenseDiv.className = 'text-sm text-slate-600';
+        const licenseLabel = document.createElement('span');
+        licenseLabel.className = 'font-medium';
+        licenseLabel.textContent = 'License: ';
+        licenseDiv.appendChild(licenseLabel);
+        licenseDiv.appendChild(document.createTextNode(skill.license));
+        topSection.appendChild(licenseDiv);
+      }
+      
+      content.appendChild(topSection);
       
       // Buttons
       const buttonsDiv = document.createElement('div');
-      buttonsDiv.className = 'flex gap-2';
+      buttonsDiv.className = 'flex gap-2 pt-3 border-t border-slate-200';
       
-      if (skill.url) {
-        const viewBtn = document.createElement('a');
-        viewBtn.href = skill.url;
-        viewBtn.target = '_blank';
-        viewBtn.rel = 'noopener noreferrer';
-        viewBtn.className = 'inline-flex items-center px-4 py-2 text-sm font-medium text-white bg-blue-600 rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500';
-        viewBtn.innerHTML = '<i data-lucide="external-link" class="w-4 h-4 mr-2"></i>View';
+      if (skill.skill_url) {
+        const viewBtn = document.createElement('button');
+        viewBtn.onclick = () => window.open(skill.skill_url, '_blank');
+        viewBtn.className = 'flex-1 inline-flex items-center justify-center px-3 py-2 text-sm font-medium text-slate-700 bg-white border border-slate-300 rounded-md hover:bg-slate-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500';
+        const viewIcon = document.createElement('i');
+        viewIcon.setAttribute('data-lucide', 'external-link');
+        viewIcon.className = 'w-3 h-3 mr-1';
+        viewBtn.appendChild(viewIcon);
+        viewBtn.appendChild(document.createTextNode('View'));
         buttonsDiv.appendChild(viewBtn);
       }
       
-      if (skill.download_url) {
-        const downloadBtn = document.createElement('a');
-        downloadBtn.href = skill.download_url;
-        downloadBtn.target = '_blank';
-        downloadBtn.rel = 'noopener noreferrer';
-        downloadBtn.className = 'inline-flex items-center px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-md hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500';
-        downloadBtn.innerHTML = '<i data-lucide="download" class="w-4 h-4 mr-2"></i>Download';
+      if (skill.skill_download_url) {
+        const downloadBtn = document.createElement('button');
+        downloadBtn.onclick = () => window.open(skill.skill_download_url, '_blank');
+        downloadBtn.className = 'flex-1 inline-flex items-center justify-center px-3 py-2 text-sm font-medium text-white bg-blue-600 rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500';
+        downloadBtn.textContent = 'Download';
         buttonsDiv.appendChild(downloadBtn);
       }
       
-      card.appendChild(buttonsDiv);
+      content.appendChild(buttonsDiv);
+      card.appendChild(content);
       
       return card;
     }
@@ -405,8 +438,9 @@
       document.getElementById('clear-filters-zero-btn').addEventListener('click', clearAllFilters);
     }
     
-    // Set total count
+    // Set total counts
     document.getElementById('total-count').textContent = skillsData.length;
+    document.getElementById('total-count-2').textContent = skillsData.length;
     
     // Initialize app
     init();
