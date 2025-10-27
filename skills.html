@@ -104,30 +104,33 @@
           Clear all
         </button>
       </div>
-      <!-- Search Input -->
-      <div class="mb-4">
-        <div class="relative">
-          <i data-lucide="search" class="absolute left-3 top-3 h-4 w-4 text-stone-400 dark:text-stone-500"></i>
-          <input
-            type="text"
-            id="search-input"
-            placeholder="Search skills..."
-            class="block w-full pl-9 pr-3 py-2 border border-stone-300 dark:border-stone-600 rounded-md leading-5 bg-white dark:bg-stone-700 text-stone-900 dark:text-stone-100 placeholder-stone-500 dark:placeholder-stone-400 focus:outline-none focus:placeholder-stone-400 dark:focus:placeholder-stone-500 focus:ring-1 focus:ring-stone-400 focus:border-stone-400 sm:text-sm transition-colors"
-          />
+      <!-- Search Input and Author Select -->
+      <div class="mb-4 flex gap-4">
+        <!-- Search Input (2/3 width) -->
+        <div class="flex-1">
+          <div class="relative">
+            <i data-lucide="search" class="absolute left-3 top-3 h-4 w-4 text-stone-400 dark:text-stone-500"></i>
+            <input
+              type="text"
+              id="search-input"
+              placeholder="Search skills..."
+              class="block w-full pl-9 pr-3 py-2 border border-stone-300 dark:border-stone-600 rounded-md leading-5 bg-white dark:bg-stone-700 text-stone-900 dark:text-stone-100 placeholder-stone-500 dark:placeholder-stone-400 focus:outline-none focus:placeholder-stone-400 dark:focus:placeholder-stone-500 focus:ring-1 focus:ring-stone-400 focus:border-stone-400 sm:text-sm transition-colors"
+            />
+          </div>
         </div>
-      </div>
 
-      <!-- Author Select -->
-      <div class="mb-4">
-        <label for="author-select" class="block text-sm font-medium mb-2 text-stone-700 dark:text-stone-300">
-          Author
-        </label>
-        <select
-          id="author-select"
-          class="block w-full px-3 py-2 border border-stone-300 dark:border-stone-600 rounded-md leading-5 bg-white dark:bg-stone-700 text-stone-900 dark:text-stone-100 focus:outline-none focus:ring-1 focus:ring-stone-400 focus:border-stone-400 sm:text-sm transition-colors"
-        >
-          <option value="all">All Authors</option>
-        </select>
+        <!-- Author Select (1/3 width) -->
+        <div class="w-1/3">
+          <label for="author-select" class="sr-only">
+            Author
+          </label>
+          <select
+            id="author-select"
+            class="block w-full px-3 py-2 border border-stone-300 dark:border-stone-600 rounded-md leading-5 bg-white dark:bg-stone-700 text-stone-900 dark:text-stone-100 focus:outline-none focus:ring-1 focus:ring-stone-400 focus:border-stone-400 sm:text-sm transition-colors"
+          >
+            <option value="all">All Authors</option>
+          </select>
+        </div>
       </div>
 
       <!-- Tags -->
