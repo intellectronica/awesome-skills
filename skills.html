@@ -135,11 +135,24 @@
 
       <!-- Tags -->
       <div class="mb-4">
-        <label class="block text-sm font-medium mb-2 text-stone-700 dark:text-stone-300">
-          Tags
-        </label>
-        <div id="tags-container" class="flex flex-wrap gap-2">
-          <!-- Tag chips will be rendered here -->
+        <button
+          id="tags-toggle"
+          class="w-full flex items-center justify-between text-left text-sm font-medium mb-2 text-stone-700 dark:text-stone-300 focus:outline-none focus:ring-2 focus:ring-stone-400 rounded px-2 py-1 -mx-2 -my-1 hover:bg-stone-50 dark:hover:bg-stone-700/50 transition-colors"
+          aria-expanded="false"
+          aria-controls="tags-content"
+        >
+          <div class="flex items-center gap-2">
+            <i data-lucide="chevron-right" class="w-4 h-4 transition-transform" id="tags-chevron"></i>
+            <span>Tags</span>
+          </div>
+          <div id="tags-inline-badges" class="flex flex-wrap gap-1.5">
+            <!-- Selected tags shown inline when collapsed -->
+          </div>
+        </button>
+        <div id="tags-content" class="hidden">
+          <div id="tags-container" class="flex flex-wrap gap-2 mt-2">
+            <!-- Tag chips will be rendered here -->
+          </div>
         </div>
       </div>
     </div>
@@ -397,6 +410,25 @@
       return card;
     }
     
+    // Update inline tag badges when collapsed
+    function updateInlineTagBadges() {
+      const inlineBadgesContainer = document.getElementById('tags-inline-badges');
+      const isExpanded = document.getElementById('tags-toggle').getAttribute('aria-expanded') === 'true';
+      
+      // Only show inline badges when collapsed and tags are selected
+      if (!isExpanded && selectedTags.size > 0) {
+        inlineBadgesContainer.innerHTML = '';
+        selectedTags.forEach(tag => {
+          const badge = document.createElement('span');
+          badge.className = 'inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-stone-100 dark:bg-stone-700 text-stone-800 dark:text-stone-200';
+          badge.textContent = tag;
+          inlineBadgesContainer.appendChild(badge);
+        });
+      } else {
+        inlineBadgesContainer.innerHTML = '';
+      }
+    }
+    
     // Update filter UI (badge, clear button)
     function updateFilters() {
       let activeCount = 0;
@@ -418,6 +450,7 @@
         clearBtn.classList.add('hidden');
       }
       
+      updateInlineTagBadges();
       renderSkills();
     }
     
@@ -475,6 +508,29 @@
       // Clear filters buttons
       document.getElementById('clear-filters-btn').addEventListener('click', clearAllFilters);
       document.getElementById('clear-filters-zero-btn').addEventListener('click', clearAllFilters);
+      
+      // Tags toggle
+      const tagsToggle = document.getElementById('tags-toggle');
+      const tagsContent = document.getElementById('tags-content');
+      const tagsChevron = document.getElementById('tags-chevron');
+      
+      tagsToggle.addEventListener('click', () => {
+        const isExpanded = tagsToggle.getAttribute('aria-expanded') === 'true';
+        
+        if (isExpanded) {
+          // Collapse
+          tagsToggle.setAttribute('aria-expanded', 'false');
+          tagsContent.classList.add('hidden');
+          tagsChevron.style.transform = 'rotate(0deg)';
+        } else {
+          // Expand
+          tagsToggle.setAttribute('aria-expanded', 'true');
+          tagsContent.classList.remove('hidden');
+          tagsChevron.style.transform = 'rotate(90deg)';
+        }
+        
+        updateInlineTagBadges();
+      });
       
       // Theme toggle
       document.getElementById('theme-toggle').addEventListener('click', () => {
