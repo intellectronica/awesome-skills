@@ -873,6 +873,18 @@ Access and utilize the Literature Review methodologies for scientific research.
 
 ---
 
+### [Markdown Linter and Fixer Skill](https://github.com/s2005/markdown-linter-fixer-skill)
+
+Systematically fix linting issues in markdown files using markdownlint-cli2. This skill provides structured workflows to diagnose, fix, and verify markdown formatting issues.
+
+- **Author**: [s2005](https://github.com/s2005) ([`@s2005`](https://github.com/s2005))
+- **License**: MIT
+- **Skill**: https://github.com/s2005/markdown-linter-fixer-skill
+- **Download**: https://github.com/s2005/markdown-linter-fixer-skill/releases/download/v1.5.4/markdown-linter-fixer-skill.zip
+- **Tags**: `markdown`, `linter`, `markdownlint`, `formatting`, `md029`, `documentation`, `md`
+
+---
+
 ### [Matchms](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/matchms)
 
 Access and utilize the Matchms Python package for scientific computing.

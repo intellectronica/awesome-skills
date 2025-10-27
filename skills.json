@@ -3322,6 +3322,26 @@
         "development",
         "specifications"
       ]
+    },
+    {
+      "id": "markdown-linter-fixer-skill",
+      "title": "Markdown Linter and Fixer Skill",
+      "description": "Systematically fix linting issues in markdown files using markdownlint-cli2. This skill provides structured workflows to diagnose, fix, and verify markdown formatting issues.",
+      "author": "s2005",
+      "author_url": "https://github.com/s2005",
+      "author_github": "s2005",
+      "license": "MIT",
+      "skill_url": "https://github.com/s2005/markdown-linter-fixer-skill",
+      "skill_download_url": "https://github.com/s2005/markdown-linter-fixer-skill/releases/download/v1.5.4/markdown-linter-fixer-skill.zip",
+      "tags": [
+        "markdown",
+        "linter",
+        "markdownlint",
+        "formatting",
+        "md029",
+        "documentation",
+        "md"
+      ]
     }
   ]
 }
