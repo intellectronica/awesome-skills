@@ -72,8 +72,7 @@
     <!-- Header -->
     <header class="bg-white dark:bg-stone-800 rounded-lg shadow-lg p-6 mb-6 transition-colors flex items-start justify-between">
       <div>
-        <h1 class="text-4xl font-bold text-stone-900 dark:text-stone-100 mb-2">Awesome Skills</h1>
-        <p class="text-stone-600 dark:text-stone-400">Explore <span id="total-count" class="font-semibold">0</span> available skills</p>
+        <h1 class="text-4xl font-bold text-stone-900 dark:text-stone-100">Awesome Skills</h1>
       </div>
       <button
         id="theme-toggle"
@@ -553,8 +552,7 @@
       });
     }
     
-    // Set total counts
-    document.getElementById('total-count').textContent = skillsData.length;
+    // Set total count
     document.getElementById('total-count-2').textContent = skillsData.length;
     
     // Initialize app
