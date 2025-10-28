@@ -409,7 +409,14 @@
         grid.classList.remove('hidden');
         zeroResults.classList.add('hidden');
         
-        filtered.forEach(skill => {
+        // Sort skills alphabetically by title (case-insensitive)
+        const sorted = filtered.sort((a, b) => {
+          const titleA = (a.title || '').toLowerCase();
+          const titleB = (b.title || '').toLowerCase();
+          return titleA.localeCompare(titleB);
+        });
+        
+        sorted.forEach(skill => {
           const card = createSkillCard(skill);
           grid.appendChild(card);
         });
