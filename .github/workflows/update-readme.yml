@@ -39,5 +39,5 @@ jobs:
           fi
           git config user.name "Awesome Skills"
           git config user.email "eleanor+awesome-skills@intellectronica.net"
-          git commit -m "Update README, skills.json, and skills.html from skills.yaml [skip ci]"
+          git commit -m "Update README, skills.json, and skills.html from skills.yaml"
           git push
