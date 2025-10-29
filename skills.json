@@ -1,7 +1,7 @@
 {
   "skills": [
     {
-      "id": "flashcards-generator",
+      "id": "cardcraft-flashcards-generator",
       "title": "Flashcards Deck Generator",
       "description": "This skill converts any text document into high-quality flashcards optimised for memorisation and spaced repetition learning.",
       "author": "Eleanor Berger",
