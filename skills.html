@@ -432,116 +432,131 @@
     
     // Create skill card element
     function createSkillCard(skill) {
-      const card = document.createElement('div');
-      card.className = 'skill-card bg-surface dark:bg-surface-dark rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-200 flex flex-col';
-      
-      // Card Header
-      const header = document.createElement('div');
-      header.className = 'p-6 pb-4';
-      
-      // Title
-      const title = document.createElement('h3');
-      title.className = 'text-lg font-semibold text-text-primary dark:text-text-primary-dark mb-2';
-      title.textContent = skill.title || 'Untitled';
-      header.appendChild(title);
-      
-      // Description
-      const desc = document.createElement('p');
-      desc.className = 'text-sm text-text-secondary dark:text-text-secondary-dark line-clamp-3 serif-text';
-      desc.textContent = skill.description || 'No description available.';
-      header.appendChild(desc);
-      
-      card.appendChild(header);
-      
-      // Card Content
-      const content = document.createElement('div');
-      content.className = 'p-6 pt-0 flex-grow flex flex-col justify-between';
-      
-      const topSection = document.createElement('div');
-      topSection.className = 'space-y-3 mb-4';
-      
-      // Tags
-      if (skill.tags && skill.tags.length > 0) {
-        const tagsDiv = document.createElement('div');
-        tagsDiv.className = 'flex flex-wrap gap-1';
-        skill.tags.forEach(tag => {
-          const tagSpan = document.createElement('span');
-          tagSpan.className = 'inline-flex items-center px-2 py-0.5 text-xs font-medium bg-app-bg dark:bg-border-dark text-text-primary dark:text-text-primary-dark rounded';
-          tagSpan.textContent = tag;
-          tagsDiv.appendChild(tagSpan);
-        });
-        topSection.appendChild(tagsDiv);
+      try {
+        const card = document.createElement('div');
+        card.className = 'skill-card bg-surface dark:bg-surface-dark rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-200 flex flex-col';
+
+        // Card Header
+        const header = document.createElement('div');
+        header.className = 'p-6 pb-4';
+
+        // Title
+        const title = document.createElement('h3');
+        title.className = 'text-lg font-semibold text-text-primary dark:text-text-primary-dark mb-2';
+        title.textContent = skill.title || 'Untitled';
+        header.appendChild(title);
+
+        // Description
+        const desc = document.createElement('p');
+        desc.className = 'text-sm text-text-secondary dark:text-text-secondary-dark line-clamp-3 serif-text';
+        desc.textContent = skill.description || 'No description available.';
+        header.appendChild(desc);
+
+        card.appendChild(header);
+
+        // Card Content
+        const content = document.createElement('div');
+        content.className = 'p-6 pt-0 flex-grow flex flex-col justify-between';
+
+        const topSection = document.createElement('div');
+        topSection.className = 'space-y-3 mb-4';
+
+        // Tags
+        if (skill.tags && Array.isArray(skill.tags) && skill.tags.length > 0) {
+          const tagsDiv = document.createElement('div');
+          tagsDiv.className = 'flex flex-wrap gap-1';
+          skill.tags.forEach(tag => {
+            if (tag) {
+              const tagSpan = document.createElement('span');
+              tagSpan.className = 'inline-flex items-center px-2 py-0.5 text-xs font-medium bg-app-bg dark:bg-border-dark text-text-primary dark:text-text-primary-dark rounded';
+              tagSpan.textContent = String(tag);
+              tagsDiv.appendChild(tagSpan);
+            }
+          });
+          topSection.appendChild(tagsDiv);
+        }
+
+        // Author
+        const authorDiv = document.createElement('div');
+        authorDiv.className = 'text-sm text-text-secondary dark:text-text-secondary-dark serif-text';
+        const authorLabel = document.createElement('span');
+        authorLabel.className = 'font-medium';
+        authorLabel.textContent = 'By: ';
+        authorDiv.appendChild(authorLabel);
+
+        if (skill.author_url) {
+          const authorLink = document.createElement('a');
+          authorLink.href = String(skill.author_url);
+          authorLink.target = '_blank';
+          authorLink.rel = 'noopener noreferrer';
+          authorLink.className = 'text-link dark:text-link-dark hover:underline inline-flex items-center gap-1';
+          authorLink.textContent = skill.author || 'Unknown';
+          const icon = document.createElement('i');
+          icon.setAttribute('data-lucide', 'external-link');
+          icon.className = 'w-3 h-3';
+          authorLink.appendChild(icon);
+          authorDiv.appendChild(authorLink);
+        } else {
+          const authorText = document.createElement('span');
+          authorText.textContent = skill.author || 'Unknown';
+          authorDiv.appendChild(authorText);
+        }
+        topSection.appendChild(authorDiv);
+
+        // License (optional field)
+        if (skill.license) {
+          const licenseDiv = document.createElement('div');
+          licenseDiv.className = 'text-sm text-text-secondary dark:text-text-secondary-dark serif-text';
+          const licenseLabel = document.createElement('span');
+          licenseLabel.className = 'font-medium';
+          licenseLabel.textContent = 'License: ';
+          licenseDiv.appendChild(licenseLabel);
+          licenseDiv.appendChild(document.createTextNode(String(skill.license)));
+          topSection.appendChild(licenseDiv);
+        }
+
+        content.appendChild(topSection);
+
+        // Buttons - only create the container if we have at least one button
+        const hasButtons = skill.skill_url || skill.skill_download_url;
+        if (hasButtons) {
+          const buttonsDiv = document.createElement('div');
+          buttonsDiv.className = 'flex gap-2 pt-3 border-t border-border dark:border-border-dark';
+
+          if (skill.skill_url) {
+            const viewBtn = document.createElement('button');
+            viewBtn.onclick = () => window.open(String(skill.skill_url), '_blank');
+            viewBtn.className = 'flex-1 inline-flex items-center justify-center px-3 py-2 text-sm font-medium text-text-secondary dark:text-text-secondary-dark bg-surface dark:bg-surface-dark border border-border dark:border-border-dark rounded-md hover:bg-app-bg dark:hover:bg-border-dark focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-accent transition-colors';
+            const viewIcon = document.createElement('i');
+            viewIcon.setAttribute('data-lucide', 'external-link');
+            viewIcon.className = 'w-3 h-3 mr-1';
+            viewBtn.appendChild(viewIcon);
+            viewBtn.appendChild(document.createTextNode('View'));
+            buttonsDiv.appendChild(viewBtn);
+          }
+
+          if (skill.skill_download_url) {
+            const downloadBtn = document.createElement('button');
+            downloadBtn.onclick = () => window.open(String(skill.skill_download_url), '_blank');
+            downloadBtn.className = 'flex-1 inline-flex items-center justify-center px-3 py-2 text-sm font-medium text-white dark:text-text-primary-dark bg-accent hover:bg-accent-hover dark:hover:bg-accent-hover-dark rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-accent transition-colors';
+            downloadBtn.textContent = 'Download';
+            buttonsDiv.appendChild(downloadBtn);
+          }
+
+          content.appendChild(buttonsDiv);
+        }
+
+        card.appendChild(content);
+
+        return card;
+      } catch (error) {
+        console.error('Error creating skill card:', skill?.id || 'unknown', error);
+        // Return a minimal error card so rendering continues
+        const errorCard = document.createElement('div');
+        errorCard.className = 'skill-card bg-surface dark:bg-surface-dark rounded-lg shadow-lg p-6';
+        errorCard.innerHTML = '<p class="text-sm text-red-500">Error loading skill</p>';
+        return errorCard;
       }
-      
-      // Author
-      const authorDiv = document.createElement('div');
-      authorDiv.className = 'text-sm text-text-secondary dark:text-text-secondary-dark serif-text';
-      const authorLabel = document.createElement('span');
-      authorLabel.className = 'font-medium';
-      authorLabel.textContent = 'By: ';
-      authorDiv.appendChild(authorLabel);
-      
-      if (skill.author_url) {
-        const authorLink = document.createElement('a');
-        authorLink.href = skill.author_url;
-        authorLink.target = '_blank';
-        authorLink.rel = 'noopener noreferrer';
-        authorLink.className = 'text-link dark:text-link-dark hover:underline inline-flex items-center gap-1';
-        authorLink.textContent = skill.author || 'Unknown';
-        const icon = document.createElement('i');
-        icon.setAttribute('data-lucide', 'external-link');
-        icon.className = 'w-3 h-3';
-        authorLink.appendChild(icon);
-        authorDiv.appendChild(authorLink);
-      } else {
-        const authorText = document.createElement('span');
-        authorText.textContent = skill.author || 'Unknown';
-        authorDiv.appendChild(authorText);
-      }
-      topSection.appendChild(authorDiv);
-      
-      // License
-      if (skill.license) {
-        const licenseDiv = document.createElement('div');
-        licenseDiv.className = 'text-sm text-text-secondary dark:text-text-secondary-dark serif-text';
-        const licenseLabel = document.createElement('span');
-        licenseLabel.className = 'font-medium';
-        licenseLabel.textContent = 'License: ';
-        licenseDiv.appendChild(licenseLabel);
-        licenseDiv.appendChild(document.createTextNode(skill.license));
-        topSection.appendChild(licenseDiv);
-      }
-      
-      content.appendChild(topSection);
-      
-      // Buttons
-      const buttonsDiv = document.createElement('div');
-      buttonsDiv.className = 'flex gap-2 pt-3 border-t border-border dark:border-border-dark';
-      
-      if (skill.skill_url) {
-        const viewBtn = document.createElement('button');
-        viewBtn.onclick = () => window.open(skill.skill_url, '_blank');
-        viewBtn.className = 'flex-1 inline-flex items-center justify-center px-3 py-2 text-sm font-medium text-text-secondary dark:text-text-secondary-dark bg-surface dark:bg-surface-dark border border-border dark:border-border-dark rounded-md hover:bg-app-bg dark:hover:bg-border-dark focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-accent transition-colors';
-        const viewIcon = document.createElement('i');
-        viewIcon.setAttribute('data-lucide', 'external-link');
-        viewIcon.className = 'w-3 h-3 mr-1';
-        viewBtn.appendChild(viewIcon);
-        viewBtn.appendChild(document.createTextNode('View'));
-        buttonsDiv.appendChild(viewBtn);
-      }
-      
-      if (skill.skill_download_url) {
-        const downloadBtn = document.createElement('button');
-        downloadBtn.onclick = () => window.open(skill.skill_download_url, '_blank');
-        downloadBtn.className = 'flex-1 inline-flex items-center justify-center px-3 py-2 text-sm font-medium text-white dark:text-text-primary-dark bg-accent hover:bg-accent-hover dark:hover:bg-accent-hover-dark rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-accent transition-colors';
-        downloadBtn.textContent = 'Download';
-        buttonsDiv.appendChild(downloadBtn);
-      }
-      
-      content.appendChild(buttonsDiv);
-      card.appendChild(content);
-      
-      return card;
     }
     
     // Update inline tag badges when collapsed
