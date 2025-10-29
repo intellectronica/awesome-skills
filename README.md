@@ -5586,6 +5586,17 @@ Extract key concepts from any content and create spaced-repetition flashcards. M
 
 ---
 
+### [Flashcards Deck Generator](https://gist.github.com/intellectronica/f94a291078f3c09907894287688fa2d5)
+
+This skill converts any text document into high-quality flashcards optimised for memorisation and spaced repetition learning.
+
+- **Author**: [Eleanor Berger](https://intellectronica.net/) ([`@intellectronica`](https://github.com/intellectronica))
+- **Skill**: https://gist.github.com/intellectronica/f94a291078f3c09907894287688fa2d5
+- **Download**: https://gist.github.com/intellectronica/f94a291078f3c09907894287688fa2d5/raw/0308b235cd68457384d58dcce95236d7f0f7a8ce/flashcard-generator.skill
+- **Tags**: `anki`, `flashcards`, `spaced-repetition`, `learning`, `studying`, `memory`
+
+---
+
 ### [Fleet Manager Skill](https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-fleet-manager)
 
 Simplified Claude Flow for beginners - AI agent orchestration        made easy

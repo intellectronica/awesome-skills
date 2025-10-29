@@ -1,6 +1,24 @@
 {
   "skills": [
     {
+      "id": "flashcards-generator",
+      "title": "Flashcards Deck Generator",
+      "description": "This skill converts any text document into high-quality flashcards optimised for memorisation and spaced repetition learning.",
+      "author": "Eleanor Berger",
+      "author_url": "https://intellectronica.net/",
+      "author_github": "intellectronica",
+      "skill_url": "https://gist.github.com/intellectronica/f94a291078f3c09907894287688fa2d5",
+      "skill_download_url": "https://gist.github.com/intellectronica/f94a291078f3c09907894287688fa2d5/raw/0308b235cd68457384d58dcce95236d7f0f7a8ce/flashcard-generator.skill",
+      "tags": [
+        "anki",
+        "flashcards",
+        "spaced-repetition",
+        "learning",
+        "studying",
+        "memory"
+      ]
+    },
+    {
       "id": "23blocks-os-ai-maestro-skills-agent-messaging-skill-md",
       "title": "AI Maestro Agent Messaging",
       "description": "Send and receive messages between AI agent sessions using AI Maestro's messaging system. Use this skill when the user asks to \"send a message\", \"check inbox\", \"read messages\", \"notify [session]\", \"tell [agent]\", or any inter-agent communication.",
