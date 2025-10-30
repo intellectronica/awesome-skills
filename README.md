@@ -32,7 +32,7 @@ WCAG 2.2 compliance testing, screen reader validation, and inclusive design veri
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/accessibility-testing
-- **Tags**: `security`, `testing`, `accessibility`, `a11y`, `wcag`, `screen-readers`, `aria`, `inclusive-design`, `ada-compliance`
+- **Tags**: `accessibility`, `security`, `testing`
 
 ---
 
@@ -42,7 +42,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-ace-system
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -53,7 +53,7 @@ Advanced exploratory testing techniques with Session-Based Test Management (SBTM
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/exploratory-testing-advanced
-- **Tags**: `testing`, `exploratory-testing`, `sbtm`, `rst-heuristics`, `test-tours`, `bug-investigation`, `session-based-testing`
+- **Tags**: `debugging`, `testing`
 
 ---
 
@@ -64,7 +64,7 @@ Custom Resource Definitions (CRDs) extend Kubernetes API with custom
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/cloud-native/advanced-kubernetes
-- **Tags**: `testing`, `devops`, `ai-automation`, `operators`, `crd`, `kubebuilder`, `controllers`, `webhooks`
+- **Tags**: `ai`, `api`, `devops`, `kubernetes`, `testing`, `web`
 
 ---
 
@@ -86,7 +86,7 @@ Access and utilize the Aeon Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/aeon
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -97,7 +97,7 @@ Generate structured agent prompts with FOCUS/EXCLUDE templates for task delegati
 - **Author**: [Rudolf S.](https://github.com/rsmdt) ([`@rsmdt`](https://github.com/rsmdt))
 - **License**: [MIT](https://raw.githubusercontent.com/rsmdt/the-startup/main/LICENSE)
 - **Skill**: https://github.com/rsmdt/the-startup/tree/main/plugins/start/skills/agent-delegation
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -107,7 +107,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-agent-discovery
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -128,7 +128,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-agent-output-processing
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -139,7 +139,7 @@ Track and optimize agent specialization during methodology development. Use when
 - **Author**: [Yale Huang](https://github.com/yaleh) ([`@yaleh`](https://github.com/yaleh))
 - **License**: [MIT](https://raw.githubusercontent.com/yaleh/meta-cc/main/LICENSE)
 - **Skill**: https://github.com/yaleh/meta-cc/tree/main/.claude/skills/agent-prompt-evolution
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -149,7 +149,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-agent-selector
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -169,7 +169,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-agent-spawning
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -179,7 +179,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-agent-swap
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -190,7 +190,7 @@ Master advanced AgentDB features including QUIC synchronization, multi-database 
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/agentdb-advanced
-- **Tags**: `ai-automation`, `data-analytics`
+- **Tags**: `ai`, `data`
 
 ---
 
@@ -201,7 +201,7 @@ Master advanced AgentDB features including QUIC synchronization, multi-database 
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/agentdb-advanced
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -211,7 +211,7 @@ Master advanced AgentDB features including QUIC synchronization, multi-database 
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/agentdb-advanced
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -222,7 +222,7 @@ Master advanced AgentDB features including QUIC synchronization, multi-database 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/agentdb-advanced
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -319,7 +319,7 @@ Optimize AgentDB performance with quantization (4-32x memory reduction), HNSW in
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/agentdb-optimization
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -362,7 +362,7 @@ Implement semantic vector search with AgentDB for intelligent document retrieval
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/agentdb-vector-search
-- **Tags**: `data-analytics`, `documentation`
+- **Tags**: `data`, `documentation`
 
 ---
 
@@ -405,7 +405,7 @@ Using AI agents as force multipliers in quality work. Use when designing autonom
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/agentic-quality-engineering
-- **Tags**: `testing`, `ai-agents`, `pact-principles`, `autonomous-testing`, `multi-agent-systems`, `test-automation`, `quality-engineering`
+- **Tags**: `ai`, `api-testing`, `multi-agent`, `test-automation`, `testing`
 
 ---
 
@@ -427,7 +427,7 @@ Agile product ownership toolkit for Senior Product Owner including INVEST-compli
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/product-team/agile-product-owner
-- **Tags**: `science`, `writing`, `project-management`
+- **Tags**: `content`, `project-management`, `scientific`
 
 ---
 
@@ -458,7 +458,7 @@ Send and receive messages between AI agent sessions using AI Maestro's messaging
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/ai-sdk-core
-- **Tags**: `science`, `web`, `ai-automation`
+- **Tags**: `ai`, `scientific`, `web`
 
 ---
 
@@ -478,7 +478,7 @@ Comprehensive Alembic database migration management for customer support systems
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-database-pro/skills/alembic
-- **Tags**: `data-analytics`, `alembic`, `database`, `migrations`, `sqlalchemy`, `postgresql`, `customer-support`, `schema-evolution`, `data-migrations`
+- **Tags**: `business`, `data`, `database`, `orm`, `postgresql`
 
 ---
 
@@ -498,7 +498,7 @@ Your personal DSA & LeetCode mentor. Use for problem explanations, progressive h
 
 - **Author**: [Karan Bansal](https://github.com/karanb192) ([`@karanb192`](https://github.com/karanb192))
 - **Skill**: https://github.com/karanb192/algo-sensei
-- **Tags**: `science`, `development`
+- **Tags**: `development`, `scientific`
 
 ---
 
@@ -509,7 +509,7 @@ Creating algorithmic art using p5.js with seeded randomness and interactive para
 - **Author**: [AgiFlow](https://github.com/AgiFlow) ([`@AgiFlow`](https://github.com/AgiFlow))
 - **License**: [MIT](https://raw.githubusercontent.com/AgiFlow/claude-code-prompt-analysis/main/LICENSE)
 - **Skill**: https://github.com/AgiFlow/claude-code-prompt-analysis/tree/main/.claude/skills/algorithmic-art
-- **Tags**: `science`, `development`
+- **Tags**: `development`, `scientific`
 
 ---
 
@@ -520,7 +520,7 @@ Creating algorithmic art using p5.js with seeded randomness and interactive para
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/anthropics/skills/main/algorithmic-art/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/algorithmic-art
-- **Tags**: `generative`, `art`, `graphics`, `p5js`, `canvas`
+- **Tags**: `ai`, `design`, `image`, `javascript`, `web`
 
 ---
 
@@ -530,7 +530,7 @@ Creating algorithmic art using p5.js with seeded randomness and interactive para
 
 - **Author**: [ComposioHQ](https://github.com/ComposioHQ) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/main/algorithmic-art copy
-- **Tags**: `science`, `development`
+- **Tags**: `development`, `scientific`
 
 ---
 
@@ -591,7 +591,7 @@ Creating algorithmic art using p5.js with seeded randomness and interactive para
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/creative-ai/algorithmic-art
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -602,7 +602,7 @@ Access and utilize the Alphafold Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/alphafold-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -632,7 +632,7 @@ Comprehensive Angular framework development covering components, directives, ser
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-frontend-essentials/skills/angular-development
-- **Tags**: `web`, `documentation`, `development`, `angular`, `typescript`, `components`, `services`, `dependency-injection`, `rxjs`, `reactive`, `standalone`, `signals`
+- **Tags**: `angular`, `architecture`, `async`, `development`, `documentation`, `typescript`, `web`
 
 ---
 
@@ -642,7 +642,7 @@ Migrate from AngularJS to Angular using hybrid mode, incremental component rewri
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/angular-migration
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -653,7 +653,7 @@ Migrate from AngularJS to Angular using hybrid mode, incremental component rewri
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/angular-migration
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -664,7 +664,7 @@ Access and utilize the Anndata Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/anndata
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -705,7 +705,7 @@ Complete guide for Apache Airflow orchestration including DAGs, operators, senso
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-data-engineering/skills/apache-airflow-orchestration
-- **Tags**: `development`, `airflow`, `workflow`, `orchestration`, `dags`, `operators`, `sensors`, `data-pipelines`, `scheduling`
+- **Tags**: `airflow`, `data`, `development`, `iot`, `kubernetes`, `orchestration`
 
 ---
 
@@ -715,7 +715,7 @@ Complete guide for Apache Spark data processing including RDDs, DataFrames, Spar
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-data-engineering/skills/apache-spark-data-processing
-- **Tags**: `data-analytics`, `spark`, `big-data`, `distributed-computing`, `dataframes`, `streaming`, `machine-learning`
+- **Tags**: `ai`, `data`, `distributed`, `kafka`, `pandas`, `spark`
 
 ---
 
@@ -747,7 +747,7 @@ Systematic API design methodology with 6 validated patterns covering parameter c
 - **Author**: [Yale Huang](https://github.com/yaleh) ([`@yaleh`](https://github.com/yaleh))
 - **License**: [MIT](https://raw.githubusercontent.com/yaleh/meta-cc/main/LICENSE)
 - **Skill**: https://github.com/yaleh/meta-cc/tree/main/.claude/skills/api-design
-- **Tags**: `web`, `documentation`, `education`
+- **Tags**: `documentation`, `education`, `web`
 
 ---
 
@@ -757,7 +757,7 @@ Master REST and GraphQL API design principles to build intuitive, scalable, and 
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/api-design-principles
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -767,7 +767,7 @@ Master REST and GraphQL API design principles to build intuitive, scalable, and 
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/backend-development/api-design-principles
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -778,7 +778,7 @@ Master REST and GraphQL API design principles to build intuitive, scalable, and 
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/api-design-principles
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -789,7 +789,7 @@ Auto-generate comprehensive API documentation with examples, schemas, and intera
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/api-documentation
-- **Tags**: `science`, `documentation`, `education`
+- **Tags**: `documentation`, `education`, `scientific`
 
 ---
 
@@ -810,7 +810,7 @@ Generate comprehensive API documentation including endpoint descriptions, reques
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/api-documentation-writer
-- **Tags**: `ai-automation`, `development`, `documentation`, `security`, `web`
+- **Tags**: `ai`, `development`, `documentation`, `security`, `web`
 
 ---
 
@@ -831,7 +831,7 @@ Generates production-ready API clients with TypeScript types, retry logic, rate 
 - **Author**: [Toowiredd](https://github.com/Toowiredd) ([`@Toowiredd`](https://github.com/Toowiredd))
 - **License**: [MIT](https://raw.githubusercontent.com/Toowiredd/claude-skills-automation/master/LICENSE)
 - **Skill**: https://github.com/Toowiredd/claude-skills-automation/tree/main/skills/api-integration-builder
-- **Tags**: `science`, `security`
+- **Tags**: `scientific`, `security`
 
 ---
 
@@ -842,7 +842,7 @@ Generates production-ready API clients with TypeScript types, retry logic, rate 
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/security/api-security
-- **Tags**: `testing`, `security`, `ai-automation`
+- **Tags**: `ai`, `security`, `testing`
 
 ---
 
@@ -864,7 +864,7 @@ Apply comprehensive API testing patterns including contract testing, REST/GraphQ
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/api-testing-patterns
-- **Tags**: `testing`, `web`, `api-testing`, `contract-testing`, `rest-api`, `graphql`, `microservices`, `integration-testing`
+- **Tags**: `api`, `api-testing`, `integration-testing`, `microservices`, `testing`, `web`
 
 ---
 
@@ -885,7 +885,7 @@ Access and utilize the Arboreto Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/arboreto
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -896,7 +896,7 @@ Creates detailed software architecture documentation (ARCHITECTURE.md) with C4 d
 - **Author**: [Truong Vu](https://github.com/vukhanhtruong) ([`@vukhanhtruong`](https://github.com/vukhanhtruong))
 - **License**: [MIT](https://raw.githubusercontent.com/vukhanhtruong/claude-rock/main/LICENSE.md)
 - **Skill**: https://github.com/vukhanhtruong/claude-rock/tree/main/plugins/architecture-design/skills
-- **Tags**: `documentation`, `development`
+- **Tags**: `development`, `documentation`
 
 ---
 
@@ -969,7 +969,7 @@ Extract clean, readable content from web articles and blog posts, removing ads, 
 - **Author**: [Michal Parkola](https://github.com/michalparkola) ([`@michalparkola`](https://github.com/michalparkola))
 - **License**: [MIT](https://raw.githubusercontent.com/michalparkola/tapestry-skills-for-claude-code/main/LICENSE)
 - **Skill**: https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor
-- **Tags**: `web`, `extraction`, `content`, `reading`, `articles`
+- **Tags**: `content`, `web`
 
 ---
 
@@ -1000,7 +1000,7 @@ Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts 
 - **Author**: [AgiFlow](https://github.com/AgiFlow) ([`@AgiFlow`](https://github.com/AgiFlow))
 - **License**: [MIT](https://raw.githubusercontent.com/AgiFlow/claude-code-prompt-analysis/main/LICENSE)
 - **Skill**: https://github.com/AgiFlow/claude-code-prompt-analysis/tree/main/.claude/skills/artifacts-builder
-- **Tags**: `web`, `ai-automation`
+- **Tags**: `ai`, `web`
 
 ---
 
@@ -1011,7 +1011,7 @@ Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts 
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/anthropics/skills/main/artifacts-builder/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/artifacts-builder
-- **Tags**: `react`, `tailwind`, `shadcn`, `frontend`, `artifacts`
+- **Tags**: `react`, `tailwind`, `web`
 
 ---
 
@@ -1021,7 +1021,7 @@ Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts 
 
 - **Author**: [ComposioHQ](https://github.com/ComposioHQ) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/main/artifacts-builder
-- **Tags**: `web`, `ai-automation`
+- **Tags**: `ai`, `web`
 
 ---
 
@@ -1031,7 +1031,7 @@ Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts 
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/official-anthropic-skills/artifacts-builder
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -1041,7 +1041,7 @@ Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts 
 
 - **Author**: [LeastBit](https://github.com/LeastBit) ([`@LeastBit`](https://github.com/LeastBit))
 - **Skill**: https://github.com/LeastBit/Claude_skills_zh-CN/tree/main/artifacts-builder_制品构建器
-- **Tags**: `web`, `ai-automation`
+- **Tags**: `ai`, `web`
 
 ---
 
@@ -1051,7 +1051,7 @@ Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts 
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/official-skills/artifacts-builder
-- **Tags**: `web`, `ai-automation`
+- **Tags**: `ai`, `web`
 
 ---
 
@@ -1061,7 +1061,7 @@ Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts 
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/uncategorized/artifacts-builder
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -1072,7 +1072,7 @@ Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts 
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/artifacts-builder
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -1082,7 +1082,7 @@ Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts 
 
 - **Author**: [Prathit](https://github.com/Prat011) ([`@Prat011`](https://github.com/Prat011))
 - **Skill**: https://github.com/Prat011/awesome-llm-skills/tree/main/artifacts-builder
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -1132,7 +1132,7 @@ Rules for working with AshPostgres
 
 - **Author**: [joshprice](https://github.com/joshprice) ([`@joshprice`](https://github.com/joshprice))
 - **Skill**: https://github.com/joshprice/claude-skills-from-usage-rules/tree/main/.claude/skills/ash-postgres
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -1163,7 +1163,7 @@ Access and utilize the Astropy Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/astropy
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -1194,7 +1194,7 @@ Complete guide for asyncio concurrency patterns including event loops, coroutine
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-specialized-tools/skills/asyncio-concurrency-patterns
-- **Tags**: `development`, `asyncio`, `concurrency`, `async`, `python`, `event-loop`, `coroutines`, `performance`
+- **Tags**: `async`, `development`, `performance-testing`, `python`
 
 ---
 
@@ -1204,7 +1204,7 @@ Create brand-safe content for athletes. Personal branding strategy, engagement o
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/athlete-social-media-manager
-- **Tags**: `design`, `business`
+- **Tags**: `business`, `design`
 
 ---
 
@@ -1215,7 +1215,7 @@ Create brand-safe content for athletes. Personal branding strategy, engagement o
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/athlete-social-media-manager
-- **Tags**: `design`, `business`
+- **Tags**: `business`, `design`
 
 ---
 
@@ -1226,7 +1226,7 @@ Review and analyze authentication and authorization patterns for security vulner
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/auth-analyzer
-- **Tags**: `security`, `writing`
+- **Tags**: `content`, `security`
 
 ---
 
@@ -1248,7 +1248,7 @@ Authentication security standards covering OAuth2 flows (authorization code, PKC
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/security/authentication
-- **Tags**: `security`, `writing`, `development`, `authentication`, `oauth2`, `jwt`, `mfa`, `session`, `nist-800-63b`
+- **Tags**: `compliance`, `content`, `development`, `security`, `web`
 
 ---
 
@@ -1259,7 +1259,7 @@ Authorization security standards covering RBAC, ABAC, policy enforcement, OAuth2
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/security/authorization
-- **Tags**: `security`, `writing`, `authorization`, `rbac`, `abac`, `access-control`, `oauth2`, `nist-800-53`
+- **Tags**: `compliance`, `content`, `security`
 
 ---
 
@@ -1270,7 +1270,7 @@ Automate version updates and releases for any project type (Node.js, Python, Rus
 - **Author**: [DevGOM](https://github.com/Dev-GOM) ([`@Dev-GOM`](https://github.com/Dev-GOM))
 - **License**: [MIT](https://raw.githubusercontent.com/Dev-GOM/claude-code-marketplace/main/LICENSE)
 - **Skill**: https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/auto-release-manager/skills
-- **Tags**: `science`, `gaming`, `documentation`
+- **Tags**: `documentation`, `gaming`, `scientific`
 
 ---
 
@@ -1280,7 +1280,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-automatic-memory-persistence
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -1301,7 +1301,7 @@ Orchestration & Events:
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/cloud-native/aws-advanced
-- **Tags**: `testing`, `devops`, `ai-automation`, `aws`, `step-functions`, `eventbridge`, `lambda-layers`, `dynamodb`, `observability`
+- **Tags**: `ai`, `aws`, `devops`, `dynamodb`, `monitoring`, `testing`
 
 ---
 
@@ -1312,7 +1312,7 @@ AWS CDK development skill with integrated MCP servers for infrastructure as code
 - **Author**: [zxkane](https://github.com/zxkane) ([`@zxkane`](https://github.com/zxkane))
 - **License**: [MIT](https://raw.githubusercontent.com/zxkane/aws-skills/main/LICENSE)
 - **Skill**: https://github.com/zxkane/aws-skills/tree/main/skills/aws-cdk-development
-- **Tags**: `aws`, `cdk`, `infrastructure`, `iac`, `cloud`
+- **Tags**: `aws`, `cloud`, `devops`, `terraform`
 
 ---
 
@@ -1322,7 +1322,7 @@ Comprehensive guide to AWS cloud architecture covering compute, storage, databas
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-devops-suite/skills/aws-cloud-architecture
-- **Tags**: `security`, `data-analytics`, `devops`, `aws`, `cloud-architecture`, `infrastructure`, `cloudformation`, `terraform`, `serverless`, `well-architected`
+- **Tags**: `aws`, `cloud`, `data`, `devops`, `security`, `serverless`, `terraform`
 
 ---
 
@@ -1343,7 +1343,7 @@ Cost optimization, monitoring, and operational excellence with integrated MCP se
 - **Author**: [zxkane](https://github.com/zxkane) ([`@zxkane`](https://github.com/zxkane))
 - **License**: [MIT](https://raw.githubusercontent.com/zxkane/aws-skills/main/LICENSE)
 - **Skill**: https://github.com/zxkane/aws-skills/tree/main/skills/aws-cost-operations
-- **Tags**: `aws`, `cost`, `operations`, `monitoring`, `finops`
+- **Tags**: `aws`, `cloud`, `monitoring`
 
 ---
 
@@ -1353,7 +1353,7 @@ AWS RDS (Relational Database Service) management using AWS SDK for Java 2.x. Use
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/aws-java/aws-sdk-java-v2-rds
-- **Tags**: `data-analytics`, `development`, `aws`, `rds`, `database`, `java`, `sdk`, `postgresql`, `mysql`, `aurora`
+- **Tags**: `aws`, `data`, `database`, `development`, `java`, `library`, `mysql`
 
 ---
 
@@ -1363,7 +1363,7 @@ Focused guide for configuring AWS RDS Aurora (MySQL/PostgreSQL) with Spring Data
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/aws-java/aws-rds-spring-boot-integration
-- **Tags**: `data-analytics`, `development`, `aws`, `rds`, `aurora`, `spring-boot`, `spring-data-jpa`, `datasource`, `configuration`, `hikari`
+- **Tags**: `aws`, `data`, `database`, `development`, `spring`
 
 ---
 
@@ -1373,7 +1373,7 @@ Amazon Bedrock patterns using AWS SDK for Java 2.x. Use when working with founda
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/aws-java/aws-sdk-java-v2-bedrock
-- **Tags**: `ai-automation`, `development`, `aws`, `bedrock`, `java`, `sdk`, `generative-ai`, `foundation-models`
+- **Tags**: `ai`, `aws`, `development`, `java`, `library`, `llm`
 
 ---
 
@@ -1383,7 +1383,7 @@ Core patterns and best practices for AWS SDK for Java 2.x. Use when configuring 
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/aws-java/aws-sdk-java-v2-core
-- **Tags**: `development`, `security`, `aws`, `java`, `sdk`, `core`, `authentication`, `configuration`
+- **Tags**: `aws`, `development`, `java`, `library`, `security`
 
 ---
 
@@ -1393,7 +1393,7 @@ Amazon DynamoDB patterns using AWS SDK for Java 2.x. Use when working with Dynam
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/aws-java/aws-sdk-java-v2-dynamodb
-- **Tags**: `development`, `aws`, `dynamodb`, `java`, `sdk`, `nosql`, `database`
+- **Tags**: `aws`, `database`, `development`, `dynamodb`, `java`, `library`, `mongodb`
 
 ---
 
@@ -1403,7 +1403,7 @@ AWS Key Management Service (KMS) patterns using AWS SDK for Java 2.x. Use when c
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/aws-java/aws-sdk-java-v2-kms
-- **Tags**: `data-analytics`, `development`, `security`, `aws`, `kms`, `java`, `sdk`, `encryption`
+- **Tags**: `aws`, `data`, `development`, `java`, `library`, `security`
 
 ---
 
@@ -1413,7 +1413,7 @@ AWS Lambda patterns using AWS SDK for Java 2.x. Use when invoking Lambda functio
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/aws-java/aws-sdk-java-v2-lambda
-- **Tags**: `development`, `aws`, `lambda`, `java`, `sdk`, `serverless`, `functions`
+- **Tags**: `aws`, `database`, `development`, `java`, `library`, `serverless`
 
 ---
 
@@ -1423,7 +1423,7 @@ AWS messaging patterns using AWS SDK for Java 2.x for SQS and SNS. Use when work
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/aws-java/aws-sdk-java-v2-messaging
-- **Tags**: `development`, `aws`, `sqs`, `sns`, `java`, `sdk`, `messaging`, `pub-sub`
+- **Tags**: `aws`, `development`, `event-driven`, `java`, `library`
 
 ---
 
@@ -1433,7 +1433,7 @@ Amazon S3 patterns and examples using AWS SDK for Java 2.x. Use when working wit
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/aws-java/aws-sdk-java-v2-s3
-- **Tags**: `development`, `aws`, `s3`, `java`, `sdk`, `storage`, `objects`
+- **Tags**: `aws`, `development`, `java`, `library`
 
 ---
 
@@ -1443,7 +1443,7 @@ AWS Secrets Manager patterns using AWS SDK for Java 2.x. Use when storing/retrie
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/aws-java/aws-sdk-java-v2-secrets-manager
-- **Tags**: `data-analytics`, `development`, `web`, `aws`, `secrets-manager`, `java`, `sdk`, `security`, `credentials`
+- **Tags**: `aws`, `data`, `development`, `java`, `library`, `security`, `web`
 
 ---
 
@@ -1454,7 +1454,7 @@ Serverless and event-driven architecture patterns based on Well-Architected Fram
 - **Author**: [zxkane](https://github.com/zxkane) ([`@zxkane`](https://github.com/zxkane))
 - **License**: [MIT](https://raw.githubusercontent.com/zxkane/aws-skills/main/LICENSE)
 - **Skill**: https://github.com/zxkane/aws-skills/tree/main/skills/aws-serverless-eda
-- **Tags**: `aws`, `serverless`, `event-driven`, `lambda`, `architecture`
+- **Tags**: `architecture`, `aws`, `event-driven`, `serverless`
 
 ---
 
@@ -1475,7 +1475,7 @@ Complete guide for Axum web framework including routing, extractors, middleware,
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-backend-toolkit/skills/axum-web-framework
-- **Tags**: `development`, `axum`, `rust`, `web-framework`, `tokio`, `tower`, `async`, `rest-api`
+- **Tags**: `api`, `async`, `development`, `rust`
 
 ---
 
@@ -1505,7 +1505,7 @@ Generate backend tests (unit, integration, mocks). Auto-invoke when user says "w
 
 - **Author**: [Aleks Petrov](https://github.com/alekspetrov) ([`@alekspetrov`](https://github.com/alekspetrov))
 - **Skill**: https://github.com/alekspetrov/navigator/tree/main/skills/backend-test
-- **Tags**: `testing`, `science`, `web`
+- **Tags**: `scientific`, `testing`, `web`
 
 ---
 
@@ -1527,7 +1527,7 @@ Master defensive Bash programming techniques for production-grade scripts. Use w
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/shell-scripting/skills/bash-defensive-patterns
-- **Tags**: `devops`, `development`
+- **Tags**: `development`, `devops`
 
 ---
 
@@ -1538,7 +1538,7 @@ Master Bash Automated Testing System (Bats) for comprehensive shell script testi
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/shell-scripting/skills/bats-testing-patterns
-- **Tags**: `testing`, `devops`
+- **Tags**: `devops`, `testing`
 
 ---
 
@@ -1560,7 +1560,7 @@ Access and utilize the Benchling Integration integration for laboratory workflow
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/benchling-integration
-- **Tags**: `scientific`, `integration`, `platform`, `workflow`
+- **Tags**: `integration-testing`, `orchestration`, `scientific`
 
 ---
 
@@ -1570,7 +1570,7 @@ Guide for implementing Better Auth - a framework-agnostic authentication and aut
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/better-auth
-- **Tags**: `ai-automation`, `security`
+- **Tags**: `ai`, `security`
 
 ---
 
@@ -1612,7 +1612,7 @@ Access and utilize the Biomni Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/biomni
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -1623,7 +1623,7 @@ Access and utilize the Biopython Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/biopython
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -1634,7 +1634,7 @@ Access and utilize the Biorxiv Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/biorxiv-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -1645,7 +1645,7 @@ Access and utilize the Bioservices Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/bioservices
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -1655,7 +1655,7 @@ March Madness, playoff brackets, tournament picks. Upset potential, chalk vs con
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/bracket-predictor
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -1666,7 +1666,7 @@ March Madness, playoff brackets, tournament picks. Upset potential, chalk vs con
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/bracket-predictor
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -1677,7 +1677,7 @@ Use when creating or developing anything, before writing code or implementation 
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/brainstorming
-- **Tags**: `design`, `planning`, `ideation`, `collaboration`
+- **Tags**: `business`, `collaboration`, `design`, `multi-agent`
 
 ---
 
@@ -1719,7 +1719,7 @@ Applies Anthropic's official brand colors and typography to any sort of artifact
 - **Author**: [AgiFlow](https://github.com/AgiFlow) ([`@AgiFlow`](https://github.com/AgiFlow))
 - **License**: [MIT](https://raw.githubusercontent.com/AgiFlow/claude-code-prompt-analysis/main/LICENSE)
 - **Skill**: https://github.com/AgiFlow/claude-code-prompt-analysis/tree/main/.claude/skills/brand-guidelines
-- **Tags**: `design`, `ai-automation`
+- **Tags**: `ai`, `design`
 
 ---
 
@@ -1730,7 +1730,7 @@ Applies Anthropic's official brand colors and typography to any sort of artifact
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/anthropics/skills/main/brand-guidelines/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/brand-guidelines
-- **Tags**: `branding`, `design`, `guidelines`, `typography`, `colors`
+- **Tags**: `design`
 
 ---
 
@@ -1740,7 +1740,7 @@ Applies Anthropic's official brand colors and typography to any sort of artifact
 
 - **Author**: [ComposioHQ](https://github.com/ComposioHQ) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/main/brand-guidelines
-- **Tags**: `design`, `ai-automation`
+- **Tags**: `ai`, `design`
 
 ---
 
@@ -1760,7 +1760,7 @@ Applies Anthropic's official brand colors and typography to any sort of artifact
 
 - **Author**: [LeastBit](https://github.com/LeastBit) ([`@LeastBit`](https://github.com/LeastBit))
 - **Skill**: https://github.com/LeastBit/Claude_skills_zh-CN/tree/main/brand-guidelines_品牌指南
-- **Tags**: `design`, `business`
+- **Tags**: `business`, `design`
 
 ---
 
@@ -1780,7 +1780,7 @@ Applies Anthropic's official brand colors and typography to any sort of artifact
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/official-skills/brand-guidelines
-- **Tags**: `design`, `ai-automation`
+- **Tags**: `ai`, `design`
 
 ---
 
@@ -1812,7 +1812,7 @@ Creates complete single-file HTML/CSS/JS web apps with localStorage persistence,
 - **Author**: [Toowiredd](https://github.com/Toowiredd) ([`@Toowiredd`](https://github.com/Toowiredd))
 - **License**: [MIT](https://raw.githubusercontent.com/Toowiredd/claude-skills-automation/master/LICENSE)
 - **Skill**: https://github.com/Toowiredd/claude-skills-automation/tree/main/skills/browser-app-creator
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -1854,7 +1854,7 @@ Write high-quality bug reports that get fixed quickly. Use when reporting bugs, 
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/bug-reporting-excellence
-- **Tags**: `data-analytics`, `bug-reporting`, `quality-assurance`, `documentation`, `communication`, `defect-tracking`, `collaboration`
+- **Tags**: `collaboration`, `data`, `documentation`, `testing`
 
 ---
 
@@ -1865,7 +1865,7 @@ Write high-quality bug reports that get fixed quickly. Use when reporting bugs, 
 - **Author**: [Yale Huang](https://github.com/yaleh) ([`@yaleh`](https://github.com/yaleh))
 - **License**: [MIT](https://raw.githubusercontent.com/yaleh/meta-cc/main/LICENSE)
 - **Skill**: https://github.com/yaleh/meta-cc/tree/main/.claude/skills/build-quality-gates
-- **Tags**: `writing`, `ai-automation`, `development`, `build-quality`, `ci-cd`, `baime`, `error-prevention`, `automation`, `testing-strategy`
+- **Tags**: `ai`, `automation`, `ci-cd`, `content`, `development`
 
 ---
 
@@ -1919,7 +1919,7 @@ Create beautiful visual art in .png and .pdf documents using design philosophy. 
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/anthropics/skills/main/canvas-design/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/canvas-design
-- **Tags**: `design`, `canvas`, `art`, `visual`, `graphics`
+- **Tags**: `design`, `image`, `web`
 
 ---
 
@@ -2021,7 +2021,7 @@ Create 600x600 Instagram-style card news series automatically with optional back
 
 - **Author**: [suji-father](https://github.com/bear2u) ([`@bear2u`](https://github.com/bear2u))
 - **Skill**: https://github.com/bear2u/my-skills/tree/main/skills/card-news-generator
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -2053,7 +2053,7 @@ Access and utilize the Cellxgene Census Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/cellxgene-census
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -2074,7 +2074,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-loop-orchestration
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -2084,7 +2084,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-loop-validation
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -2094,7 +2094,7 @@ Analyze LinkedIn profiles in target accounts to identify potential internal cham
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/champion-identifier
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -2105,7 +2105,7 @@ Analyze LinkedIn profiles in target accounts to identify potential internal cham
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/champion-identifier
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -2116,7 +2116,7 @@ Automatically creates user-facing changelogs from git commits by analyzing histo
 - **Author**: [ComposioHQ](https://composio.dev) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE)
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/changelog-generator
-- **Tags**: `changelog`, `git`, `release-notes`, `documentation`, `automation`
+- **Tags**: `automation`, `documentation`, `git`
 
 ---
 
@@ -2126,7 +2126,7 @@ Automatically creates user-facing changelogs from git commits by analyzing commi
 
 - **Author**: [ComposioHQ](https://github.com/ComposioHQ) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/main/changelog-generator
-- **Tags**: `science`, `writing`, `documentation`
+- **Tags**: `content`, `documentation`, `scientific`
 
 ---
 
@@ -2137,7 +2137,7 @@ Automatically generate changelogs from git commits following conventional commit
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/changelog-generator
-- **Tags**: `science`, `documentation`
+- **Tags**: `documentation`, `scientific`
 
 ---
 
@@ -2147,7 +2147,7 @@ Automatically creates user-facing changelogs from git commits by analyzing commi
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/cicd-automation/changelog-generator
-- **Tags**: `science`, `writing`, `documentation`
+- **Tags**: `content`, `documentation`, `scientific`
 
 ---
 
@@ -2168,7 +2168,7 @@ Chaos engineering principles, controlled failure injection, resilience testing, 
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/chaos-engineering-resilience
-- **Tags**: `ai-automation`, `testing`, `chaos-engineering`, `resilience`, `fault-injection`, `disaster-recovery`, `distributed-systems`
+- **Tags**: `ai`, `architecture`, `devops`, `distributed`, `testing`
 
 ---
 
@@ -2179,7 +2179,7 @@ Generate charts and visualizations from data using various charting libraries an
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/chart-generator
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -2189,7 +2189,7 @@ Check if medicinal chemistry papers are in ChEMBL database to access curated bio
 
 - **Author**: [Kurt Thorn](https://github.com/kthorn) ([`@kthorn`](https://github.com/kthorn))
 - **Skill**: https://github.com/kthorn/research-superpower/tree/main/skills/research/checking-chembl
-- **Tags**: `science`, `data-analytics`
+- **Tags**: `data`, `scientific`
 
 ---
 
@@ -2210,7 +2210,7 @@ Access and utilize the Chembl Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/chembl-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -2231,7 +2231,7 @@ CI/CD pipeline standards for GitHub Actions, GitLab CI, and deployment automatio
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/devops/ci-cd
-- **Tags**: `testing`, `security`, `devops`
+- **Tags**: `devops`, `security`, `testing`
 
 ---
 
@@ -2241,7 +2241,7 @@ Comprehensive CI/CD pipeline patterns skill covering GitHub Actions, workflows, 
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-devops-suite/skills/ci-cd-pipeline-patterns
-- **Tags**: `testing`, `devops`, `development`
+- **Tags**: `development`, `devops`, `testing`
 
 ---
 
@@ -2252,7 +2252,7 @@ Comprehensive CI/CD pipeline methodology with quality gates, release automation,
 - **Author**: [Yale Huang](https://github.com/yaleh) ([`@yaleh`](https://github.com/yaleh))
 - **License**: [MIT](https://raw.githubusercontent.com/yaleh/meta-cc/main/LICENSE)
 - **Skill**: https://github.com/yaleh/meta-cc/tree/main/.claude/skills/ci-cd-optimization
-- **Tags**: `testing`, `devops`
+- **Tags**: `devops`, `testing`
 
 ---
 
@@ -2272,7 +2272,7 @@ Standard Operating Procedure for /clarify phase. Covers question generation, pri
 
 - **Author**: [Marcus Gollahon](https://github.com/marcusgoll) ([`@marcusgoll`](https://github.com/marcusgoll))
 - **Skill**: https://github.com/marcusgoll/Spec-Flow/tree/main/.claude/skills/clarification-phase
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -2293,7 +2293,7 @@ Invoke this skill BEFORE implementing any text/document classification task to l
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/claude-agent-sdk
-- **Tags**: `ai-automation`, `security`, `web`
+- **Tags**: `ai`, `security`, `web`
 
 ---
 
@@ -2303,7 +2303,7 @@ Invoke this skill BEFORE implementing any text/document classification task to l
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/claude-api
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -2323,7 +2323,7 @@ Comprehensive validation system for Claude Code plugins to ensure compliance wit
 
 - **Author**: [ART.gineering - Werapol Bejranonda](https://github.com/bejranonda) ([`@bejranonda`](https://github.com/bejranonda))
 - **Skill**: https://github.com/bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude/tree/main/skills/claude-plugin-validation
-- **Tags**: `security`, `ai-automation`, `development`
+- **Tags**: `ai`, `development`, `security`
 
 ---
 
@@ -2374,7 +2374,7 @@ Access and utilize the Clinicaltrials Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/clinicaltrials-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -2385,7 +2385,7 @@ Access and utilize the Clinpgx Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/clinpgx-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -2396,7 +2396,7 @@ Access and utilize the Clinvar Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/clinvar-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -2406,7 +2406,7 @@ Guide for building applications on Cloudflare's edge platform. Use when implemen
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/cloudflare
-- **Tags**: `ai-automation`, `data-analytics`
+- **Tags**: `ai`, `data`
 
 ---
 
@@ -2426,7 +2426,7 @@ Guide for building applications on Cloudflare's edge platform. Use when implemen
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-browser-rendering
-- **Tags**: `testing`, `science`
+- **Tags**: `scientific`, `testing`
 
 ---
 
@@ -2436,7 +2436,7 @@ Guide for implementing Cloudflare Browser Rendering - a headless browser automat
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/cloudflare-browser-rendering
-- **Tags**: `ai-automation`, `data-analytics`, `testing`, `web`
+- **Tags**: `ai`, `data`, `testing`, `web`
 
 ---
 
@@ -2446,7 +2446,7 @@ Guide for implementing Cloudflare Browser Rendering - a headless browser automat
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-cron-triggers
-- **Tags**: `web`, `productivity`
+- **Tags**: `productivity`, `web`
 
 ---
 
@@ -2456,7 +2456,7 @@ Guide for implementing Cloudflare Browser Rendering - a headless browser automat
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-d1
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -2496,7 +2496,7 @@ Guide for implementing Cloudflare Browser Rendering - a headless browser automat
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-hyperdrive
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -2506,7 +2506,7 @@ Guide for implementing Cloudflare Browser Rendering - a headless browser automat
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-images
-- **Tags**: `data-analytics`, `testing`, `web`
+- **Tags**: `data`, `testing`, `web`
 
 ---
 
@@ -2556,7 +2556,7 @@ Guide for implementing Cloudflare R2 - S3-compatible object storage with zero eg
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-r2
-- **Tags**: `science`, `ai-automation`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -2576,7 +2576,7 @@ Guide for implementing Cloudflare R2 - S3-compatible object storage with zero eg
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-vectorize
-- **Tags**: `science`, `data-analytics`, `ai-automation`
+- **Tags**: `ai`, `data`, `scientific`
 
 ---
 
@@ -2606,7 +2606,7 @@ Comprehensive guide for building serverless applications with Cloudflare Workers
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-workers-ai
-- **Tags**: `science`, `ai-automation`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -2616,7 +2616,7 @@ Comprehensive guide for building serverless applications with Cloudflare Workers
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/cloudflare-kv
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -2637,7 +2637,7 @@ Access and utilize the Cobrapy Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/cobrapy
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -2667,7 +2667,7 @@ Performs comprehensive codebase analysis covering architecture, code quality, se
 
 - **Author**: [mhattingpete](https://github.com/mhattingpete) ([`@mhattingpete`](https://github.com/mhattingpete))
 - **Skill**: https://github.com/mhattingpete/claude-skills-marketplace/tree/main/productivity-skills-plugin/skills/code-auditor
-- **Tags**: `testing`, `security`, `ai-automation`
+- **Tags**: `ai`, `security`, `testing`
 
 ---
 
@@ -2677,7 +2677,7 @@ AI가 만든 모든 코드 변경사항을 reviews 폴더에 기록하고 간단
 
 - **Author**: [suji-father](https://github.com/bear2u) ([`@bear2u`](https://github.com/bear2u))
 - **Skill**: https://github.com/bear2u/my-skills/tree/main/skills/code-changelog
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -2761,7 +2761,7 @@ BAIME-aligned refactoring protocol for Go hotspots (CLIs, services, MCP tooling)
 - **Author**: [Yale Huang](https://github.com/yaleh) ([`@yaleh`](https://github.com/yaleh))
 - **License**: [MIT](https://raw.githubusercontent.com/yaleh/meta-cc/main/LICENSE)
 - **Skill**: https://github.com/yaleh/meta-cc/tree/main/.claude/skills/code-refactoring
-- **Tags**: `testing`, `development`
+- **Tags**: `development`, `testing`
 
 ---
 
@@ -2782,7 +2782,7 @@ Master effective code review practices to provide constructive feedback, catch b
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/code-review-excellence
-- **Tags**: `ai-automation`, `development`, `science`
+- **Tags**: `ai`, `development`, `scientific`
 
 ---
 
@@ -2803,7 +2803,7 @@ Comprehensive code review covering security vulnerabilities, performance bottlen
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/code-review-pro
-- **Tags**: `ai-automation`, `security`
+- **Tags**: `ai`, `security`
 
 ---
 
@@ -2814,7 +2814,7 @@ Conduct context-driven code reviews focusing on quality, testability, and mainta
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/code-review-quality
-- **Tags**: `testing`, `development`, `code-review`, `quality`, `feedback`, `security`, `performance`, `maintainability`
+- **Tags**: `clean-code`, `code-review`, `collaboration`, `development`, `performance-testing`, `security`, `testing`
 
 ---
 
@@ -2825,7 +2825,7 @@ Comprehensive code review skill for TypeScript, JavaScript, Python, Swift, Kotli
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/code-reviewer
-- **Tags**: `science`, `security`, `development`
+- **Tags**: `development`, `scientific`, `security`
 
 ---
 
@@ -2836,7 +2836,7 @@ Automated code review with best practices, security checks, and quality standard
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/code-reviewer
-- **Tags**: `security`, `development`
+- **Tags**: `development`, `security`
 
 ---
 
@@ -2846,7 +2846,7 @@ Reviews PHP/CakePHP code for quality, standards compliance, and best practices
 
 - **Author**: [masanao-ohba](https://github.com/masanao-ohba) ([`@masanao-ohba`](https://github.com/masanao-ohba))
 - **Skill**: https://github.com/masanao-ohba/claude-manifests/tree/main/skills/php-cakephp/code-reviewer
-- **Tags**: `security`, `development`
+- **Tags**: `development`, `security`
 
 ---
 
@@ -2876,7 +2876,7 @@ Generates comprehensive documentation explaining how a codebase works, including
 
 - **Author**: [mhattingpete](https://github.com/mhattingpete) ([`@mhattingpete`](https://github.com/mhattingpete))
 - **Skill**: https://github.com/mhattingpete/claude-skills-marketplace/tree/main/productivity-skills-plugin/skills/codebase-documenter
-- **Tags**: `science`, `documentation`, `development`
+- **Tags**: `development`, `documentation`, `scientific`
 
 ---
 
@@ -2886,7 +2886,7 @@ Use when the user asks to run Codex CLI (codex exec, codex resume) or references
 
 - **Author**: [skills-directory](https://github.com/skills-directory) ([`@skills-directory`](https://github.com/skills-directory))
 - **Skill**: https://github.com/skills-directory/skill-codex
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -2917,7 +2917,7 @@ Generate personalized cold email sequences (7-14 emails) with A/B test subject l
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/cold-email-sequence-generator
-- **Tags**: `ai-automation`, `testing`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -2928,7 +2928,7 @@ Generate personalized cold email sequences (7-14 emails) with A/B test subject l
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/cold-email-sequence-generator
-- **Tags**: `ai-automation`, `testing`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -2939,7 +2939,7 @@ Combine unrelated concepts to find new creative or problem-solving connections t
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/collision-zone-thinking
-- **Tags**: `creativity`, `problem-solving`, `innovation`, `thinking`
+- **Tags**: `business`, `content`
 
 ---
 
@@ -2949,7 +2949,7 @@ Force unrelated concepts together to discover emergent properties - "What if we 
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/problem-solving/collision-zone-thinking
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -2981,7 +2981,7 @@ Intelligent commit message generation following conventional commit format.
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/commit-helper
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -2991,7 +2991,7 @@ Executive communication style for all-hands emails. Balances transparency with a
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/company-announcement-writer
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -3002,7 +3002,7 @@ Executive communication style for all-hands emails. Balances transparency with a
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/company-announcement-writer
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -3013,7 +3013,7 @@ Cross-browser, cross-platform, and cross-device compatibility testing ensuring c
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/compatibility-testing
-- **Tags**: `testing`, `compatibility`, `cross-browser`, `cross-platform`, `responsive-design`, `browser-testing`
+- **Tags**: `css`, `testing`, `ui-testing`
 
 ---
 
@@ -3033,7 +3033,7 @@ Extracts and analyzes competitors' ads from ad libraries (Facebook, LinkedIn, et
 
 - **Author**: [Prathit](https://github.com/Prat011) ([`@Prat011`](https://github.com/Prat011))
 - **Skill**: https://github.com/Prat011/awesome-llm-skills/tree/main/competitive-ads-extractor
-- **Tags**: `writing`, `business`
+- **Tags**: `business`, `content`
 
 ---
 
@@ -3043,7 +3043,7 @@ Track competitor blog posts, whitepapers, and content strategy. Identify content
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/competitor-content-analyzer
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -3054,7 +3054,7 @@ Track competitor blog posts, whitepapers, and content strategy. Identify content
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/competitor-content-analyzer
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -3064,7 +3064,7 @@ Monitor competitor pricing pages and send alerts when prices change. Track disco
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/competitor-price-tracker
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -3075,7 +3075,7 @@ Monitor competitor pricing pages and send alerts when prices change. Track disco
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/competitor-price-tracker
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -3097,7 +3097,7 @@ Check code against security compliance standards and best practices.
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/compliance-checker
-- **Tags**: `security`, `development`
+- **Tags**: `development`, `security`
 
 ---
 
@@ -3108,7 +3108,7 @@ Regulatory compliance testing for GDPR, CCPA, HIPAA, SOC2, PCI-DSS and industry-
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/compliance-testing
-- **Tags**: `data-analytics`, `security`, `testing`, `compliance`, `gdpr`, `ccpa`, `hipaa`, `soc2`, `pci-dss`, `regulatory`, `audit`
+- **Tags**: `compliance`, `data`, `security`, `testing`
 
 ---
 
@@ -3119,7 +3119,7 @@ Use when tests have race conditions, timing dependencies, or inconsistent pass/f
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/condition-based-waiting
-- **Tags**: `testing`, `async`, `reliability`, `patterns`
+- **Tags**: `architecture`, `async`, `monitoring`, `testing`
 
 ---
 
@@ -3139,7 +3139,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-config-management
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -3171,7 +3171,7 @@ Apply effective software quality consultancy practices. Use when consulting, adv
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/consultancy-practices
-- **Tags**: `development`, `consulting`, `advisory`, `client-engagement`, `strategy`, `transformation`, `coaching`
+- **Tags**: `business`, `development`
 
 ---
 
@@ -3214,7 +3214,7 @@ Create SEO-optimized marketing content with consistent brand voice. Includes bra
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/content-creator
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -3256,7 +3256,7 @@ Assists in writing high-quality content by conducting research, adding citations
 - **Author**: [ComposioHQ](https://composio.dev) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE)
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer
-- **Tags**: `writing`, `research`, `content`, `citations`, `feedback`
+- **Tags**: `collaboration`, `content`, `documentation`, `scientific`
 
 ---
 
@@ -3276,7 +3276,7 @@ Assists in writing high-quality content by conducting research, adding citations
 
 - **Author**: [Prathit](https://github.com/Prat011) ([`@Prat011`](https://github.com/Prat011))
 - **Skill**: https://github.com/Prat011/awesome-llm-skills/tree/main/content-research-writer
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -3287,7 +3287,7 @@ Advanced content and topic research skill that analyzes trends across Google Ana
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-code-skill-factory/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-code-skill-factory/tree/main/generated-skills/content-trend-researcher
-- **Tags**: `data-analytics`, `science`
+- **Tags**: `data`, `scientific`
 
 ---
 
@@ -3298,7 +3298,7 @@ Apply context-driven testing principles where practices are chosen based on proj
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/context-driven-testing
-- **Tags**: `testing`, `context-driven`, `exploratory-testing`, `rapid-software-testing`, `test-strategy`, `risk-based`, `session-based`
+- **Tags**: `testing`
 
 ---
 
@@ -3309,7 +3309,7 @@ Manages permanent memory storage for decisions, blockers, context, preferences, 
 - **Author**: [Toowiredd](https://github.com/Toowiredd) ([`@Toowiredd`](https://github.com/Toowiredd))
 - **License**: [MIT](https://raw.githubusercontent.com/Toowiredd/claude-skills-automation/master/LICENSE)
 - **Skill**: https://github.com/Toowiredd/claude-skills-automation/tree/main/skills/context-manager
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -3319,7 +3319,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-context-pruner
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -3329,7 +3329,7 @@ Build initial context tree for brownfield codebases through structured discovery
 
 - **Author**: [Ross](https://github.com/RossH3) ([`@RossH3`](https://github.com/RossH3))
 - **Skill**: https://github.com/RossH3/context-tree/tree/main/skills/context-tree-builder
-- **Tags**: `science`, `documentation`, `development`
+- **Tags**: `development`, `documentation`, `scientific`
 
 ---
 
@@ -3339,7 +3339,7 @@ Maintain, audit, and validate context trees for brownfield codebases. Use when c
 
 - **Author**: [Ross](https://github.com/RossH3) ([`@RossH3`](https://github.com/RossH3))
 - **Skill**: https://github.com/RossH3/context-tree/tree/main/skills/context-tree-maintenance
-- **Tags**: `documentation`, `development`
+- **Tags**: `development`, `documentation`
 
 ---
 
@@ -3381,7 +3381,7 @@ Consumer-driven contract testing for microservices using Pact, schema validation
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/contract-testing
-- **Tags**: `testing`, `web`, `contract-testing`, `pact`, `microservices`, `api-versioning`, `consumer-driven`, `schema-validation`
+- **Tags**: `api`, `api-testing`, `database`, `microservices`, `testing`, `web`
 
 ---
 
@@ -3391,7 +3391,7 @@ Analyzes your Claude Code conversation history to identify patterns, common mist
 
 - **Author**: [mhattingpete](https://github.com/mhattingpete) ([`@mhattingpete`](https://github.com/mhattingpete))
 - **Skill**: https://github.com/mhattingpete/claude-skills-marketplace/tree/main/productivity-skills-plugin/skills/conversation-analyzer
-- **Tags**: `writing`, `ai-automation`, `development`
+- **Tags**: `ai`, `content`, `development`
 
 ---
 
@@ -3434,7 +3434,7 @@ Access and utilize the Cosmic Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/cosmic-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -3475,7 +3475,7 @@ Creates a backend (adminhtml) controller action in Magento 2 with proper ACL, ro
 
 - **Author**: [Lucas van Staden](https://github.com/ProxiBlue) ([`@ProxiBlue`](https://github.com/ProxiBlue))
 - **Skill**: https://github.com/ProxiBlue/claude-skills/tree/main/create-backend-controller
-- **Tags**: `ai-automation`, `security`
+- **Tags**: `ai`, `security`
 
 ---
 
@@ -3485,7 +3485,7 @@ Create an empty Claude plugin with basic structure and files.
 
 - **Author**: [蒼時弦也](https://github.com/elct9620) ([`@elct9620`](https://github.com/elct9620))
 - **Skill**: https://github.com/elct9620/claudekit/tree/main/.claude/skills/create-plugin
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -3495,7 +3495,7 @@ Creates a frontend controller action in Magento 2 for the storefront. Use when b
 
 - **Author**: [Lucas van Staden](https://github.com/ProxiBlue) ([`@ProxiBlue`](https://github.com/ProxiBlue))
 - **Skill**: https://github.com/ProxiBlue/claude-skills/tree/main/create-frontend-controller
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -3515,7 +3515,7 @@ Guide Claude through creating well-structured Agent Skills following best practi
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/creating-skills
-- **Tags**: `security`, `writing`, `ai-automation`
+- **Tags**: `ai`, `content`, `security`
 
 ---
 
@@ -3558,7 +3558,7 @@ Systematic methodology for standardizing cross-cutting concerns (error handling,
 - **Author**: [Yale Huang](https://github.com/yaleh) ([`@yaleh`](https://github.com/yaleh))
 - **License**: [MIT](https://raw.githubusercontent.com/yaleh/meta-cc/main/LICENSE)
 - **Skill**: https://github.com/yaleh/meta-cc/tree/main/.claude/skills/cross-cutting-concerns
-- **Tags**: `writing`, `ai-automation`, `development`
+- **Tags**: `ai`, `content`, `development`
 
 ---
 
@@ -3569,7 +3569,7 @@ Automatically analyzes uploaded CSV files — generating summary statistics, det
 - **Author**: [coffeefuelbump](https://github.com/coffeefuelbump) ([`@coffeefuelbump`](https://github.com/coffeefuelbump))
 - **License**: Unknown
 - **Skill**: https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill
-- **Tags**: `data`, `analysis`, `csv`, `pandas`, `visualization`
+- **Tags**: `analytics`, `data`, `excel`, `pandas`
 
 ---
 
@@ -3579,7 +3579,7 @@ Analyzes CSV files, generates summary stats, and plots quick visualizations usin
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/data-analysis/csv-summarizer
-- **Tags**: `science`, `data-analytics`
+- **Tags**: `data`, `scientific`
 
 ---
 
@@ -3589,7 +3589,7 @@ Merge multiple CSV/Excel files with intelligent column matching, data deduplicat
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/csv-excel-merger
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -3600,7 +3600,7 @@ Merge multiple CSV/Excel files with intelligent column matching, data deduplicat
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/csv-excel-merger
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -3684,7 +3684,7 @@ Generate daily and weekly planning reports from backlog and carryover state, app
 - **Author**: [Real-AI-Engineering](https://github.com/Real-AI-Engineering) ([`@Real-AI-Engineering`](https://github.com/Real-AI-Engineering))
 - **License**: [MIT](https://raw.githubusercontent.com/Real-AI-Engineering/context-planning-system/main/LICENSE)
 - **Skill**: https://github.com/Real-AI-Engineering/context-planning-system/tree/main/.claude/skills/ctx-planning
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -3694,7 +3694,7 @@ Aggregate and analyze customer reviews from G2, Capterra, Trustpilot, App Store,
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/customer-review-aggregator
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -3705,7 +3705,7 @@ Aggregate and analyze customer reviews from G2, Capterra, Trustpilot, App Store,
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/customer-review-aggregator
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -3716,7 +3716,7 @@ Teaches Claude to produce D3 charts and interactive data visualizations using th
 - **Author**: [Chris von Csefalvay](https://github.com/chrisvoncsefalvay) ([`@chrisvoncsefalvay`](https://github.com/chrisvoncsefalvay))
 - **License**: Unknown
 - **Skill**: https://github.com/chrisvoncsefalvay/claude-d3js-skill
-- **Tags**: `d3js`, `visualization`, `data`, `charts`, `interactive`, `web`
+- **Tags**: `analytics`, `data`, `javascript`, `web`
 
 ---
 
@@ -3758,7 +3758,7 @@ Access and utilize the Dask Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/dask
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -3801,7 +3801,7 @@ Use SQL (PostgreSQL) when:
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/database/advanced-optimization
-- **Tags**: `testing`, `data-analytics`, `ai-automation`, `postgresql`, `mongodb`, `redis`, `performance`, `optimization`, `scaling`, `caching`, `sharding`
+- **Tags**: `ai`, `architecture`, `data`, `database`, `mongodb`, `performance-testing`, `postgresql`
 
 ---
 
@@ -3811,7 +3811,7 @@ Database schema design, migrations, query optimization, and ORM patterns. Use wh
 
 - **Author**: [Andrew Kaszubski](https://github.com/akaszubski) ([`@akaszubski`](https://github.com/akaszubski))
 - **Skill**: https://github.com/akaszubski/autonomous-dev/tree/main/plugins/autonomous-dev/skills/database-design
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -3821,7 +3821,7 @@ Designs database schemas and migrations for PHP/CakePHP applications with multi-
 
 - **Author**: [masanao-ohba](https://github.com/masanao-ohba) ([`@masanao-ohba`](https://github.com/masanao-ohba))
 - **Skill**: https://github.com/masanao-ohba/claude-manifests/tree/main/skills/php-cakephp/database-designer
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -3831,7 +3831,7 @@ Comprehensive guide for database management patterns covering PostgreSQL and Mon
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-database-pro/skills/database-management-patterns
-- **Tags**: `data-analytics`, `database`, `postgresql`, `mongodb`, `sql`, `nosql`, `indexing`, `transactions`, `replication`, `sharding`, `performance`, `schema-design`
+- **Tags**: `data`, `database`, `mongodb`, `performance-testing`, `postgresql`, `sql`
 
 ---
 
@@ -3841,7 +3841,7 @@ Create database migration with schema changes and rollback. Auto-invoke when use
 
 - **Author**: [Aleks Petrov](https://github.com/alekspetrov) ([`@alekspetrov`](https://github.com/alekspetrov))
 - **Skill**: https://github.com/alekspetrov/navigator/tree/main/skills/database-migration
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -3851,7 +3851,7 @@ Execute database migrations across ORMs and platforms with zero-downtime strateg
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/database-migration
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -3862,7 +3862,7 @@ Execute database migrations across ORMs and platforms with zero-downtime strateg
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/database-migration
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -3872,7 +3872,7 @@ Design optimized database schemas for SQL and NoSQL databases including tables, 
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/database-schema-designer
-- **Tags**: `ai-automation`, `data-analytics`
+- **Tags**: `ai`, `data`
 
 ---
 
@@ -3883,7 +3883,7 @@ Design optimized database schemas for SQL and NoSQL databases including tables, 
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/database-schema-designer
-- **Tags**: `ai-automation`, `data-analytics`
+- **Tags**: `ai`, `data`
 
 ---
 
@@ -3894,7 +3894,7 @@ Database schema validation, data integrity testing, migration testing, transacti
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/database-testing
-- **Tags**: `data-analytics`, `testing`, `database-testing`, `sql`, `schema-migration`, `data-integrity`, `transaction-testing`, `query-performance`
+- **Tags**: `data`, `database`, `sql`, `testing`
 
 ---
 
@@ -3905,7 +3905,7 @@ Access and utilize the Datacommons Client Python package for scientific computin
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/datacommons-client
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -3916,7 +3916,7 @@ Access and utilize the Datamol Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/datamol
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -3926,7 +3926,7 @@ Guide for writing Datasette plugins. This skill should be used when users want t
 
 - **Author**: [Simon Willison](https://github.com/simonw) ([`@simonw`](https://github.com/simonw))
 - **Skill**: https://github.com/simonw/research/tree/main/datasette-plugin-skill
-- **Tags**: `data-analytics`, `development`, `science`, `web`
+- **Tags**: `data`, `development`, `scientific`, `web`
 
 ---
 
@@ -3936,7 +3936,7 @@ Complete guide for dbt data transformation including models, tests, documentatio
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-data-engineering/skills/dbt-data-transformation
-- **Tags**: `testing`, `documentation`, `dbt`, `data-transformation`, `analytics`, `sql`, `jinja`, `incremental`
+- **Tags**: `analytics`, `data`, `documentation`, `python`, `sql`, `testing`
 
 ---
 
@@ -3957,7 +3957,7 @@ Score deal velocity based on email response times, meeting frequency, and stakeh
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/deal-momentum-analyzer
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -3968,7 +3968,7 @@ Score deal velocity based on email response times, meeting frequency, and stakeh
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/deal-momentum-analyzer
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -4073,7 +4073,7 @@ Access and utilize the Deepchem Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/deepchem
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -4084,7 +4084,7 @@ Access and utilize the Deeptools Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/deeptools
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -4095,7 +4095,7 @@ Use when invalid data causes failures deep in execution, requiring validation at
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/defense-in-depth
-- **Tags**: `validation`, `debugging`, `architecture`, `patterns`
+- **Tags**: `ai`, `architecture`, `debugging`
 
 ---
 
@@ -4105,7 +4105,7 @@ Multi-layer validation strategy for CFN Loop to prevent "consensus on vapor" and
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-defense-in-depth
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -4115,7 +4115,7 @@ Validate at every layer data passes through to make bugs impossible
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/debugging/defense-in-depth
-- **Tags**: `data-analytics`, `testing`
+- **Tags**: `data`, `testing`
 
 ---
 
@@ -4211,7 +4211,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-dependency-extractor
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -4285,7 +4285,7 @@ Design multi-stage CI/CD pipelines with approval gates, security checks, and dep
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/cicd-automation/deployment-pipeline-design
-- **Tags**: `security`, `devops`
+- **Tags**: `devops`, `security`
 
 ---
 
@@ -4296,7 +4296,7 @@ Design multi-stage CI/CD pipelines with approval gates, security checks, and dep
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/cicd-automation/skills/deployment-pipeline-design
-- **Tags**: `security`, `devops`
+- **Tags**: `devops`, `security`
 
 ---
 
@@ -4306,7 +4306,7 @@ Creates conceptual designs that illustrate design strategy and approach. Leverag
 
 - **Author**: [Michael Evans](https://github.com/mevans2120) ([`@mevans2120`](https://github.com/mevans2120))
 - **Skill**: https://github.com/mevans2120/design-suite-claude-skills/tree/main/design-concepts
-- **Tags**: `development`, `science`
+- **Tags**: `development`, `scientific`
 
 ---
 
@@ -4346,7 +4346,7 @@ Conducts user experience research and analysis to inform design decisions. Revie
 
 - **Author**: [Michael Evans](https://github.com/mevans2120) ([`@mevans2120`](https://github.com/mevans2120))
 - **Skill**: https://github.com/mevans2120/design-suite-claude-skills/tree/main/design-research
-- **Tags**: `data-analytics`, `science`
+- **Tags**: `data`, `scientific`
 
 ---
 
@@ -4356,7 +4356,7 @@ Documentation et accessibilité concernant le Design System Français (DSFR), un
 
 - **Author**: [numerique-gouv](https://github.com/numerique-gouv) ([`@numerique-gouv`](https://github.com/numerique-gouv))
 - **Skill**: https://github.com/numerique-gouv/dsfr-skill/tree/main/skills/dsfr
-- **Tags**: `documentation`, `design system`, `DSFR`, `accessibilité`, `interface utilisateur`, `gouvernement français`
+- **Tags**: `accessibility`, `design`, `documentation`
 
 ---
 
@@ -4366,7 +4366,7 @@ Skill in automating software deployment pipelines and managing cloud infrastruct
 
 - **Author**: [baz-scm](https://github.com/baz-scm) ([`@baz-scm`](https://github.com/baz-scm))
 - **Skill**: https://github.com/baz-scm/awesome-reviewers/tree/main/_skills/devops-cloud
-- **Tags**: `devops`, `development`
+- **Tags**: `development`, `devops`
 
 ---
 
@@ -4377,7 +4377,7 @@ DevOps patterns including CI/CD pipeline design, GitHub Actions, Infrastructure 
 - **Author**: [Jason Brashear (AKA SEM)](https://github.com/webdevtodayjason) ([`@webdevtodayjason`](https://github.com/webdevtodayjason))
 - **License**: [MIT](https://raw.githubusercontent.com/webdevtodayjason/titanium-plugins/main/LICENSE)
 - **Skill**: https://github.com/webdevtodayjason/titanium-plugins/tree/main/plugins/titanium-toolkit/skills/devops-patterns
-- **Tags**: `devops`, `development`
+- **Tags**: `development`, `devops`
 
 ---
 
@@ -4388,7 +4388,7 @@ Access and utilize the Diffdock Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/diffdock
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -4399,7 +4399,7 @@ Use when facing 3+ independent failures that can be investigated without shared 
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/dispatching-parallel-agents
-- **Tags**: `workflow`, `parallel`, `agents`, `debugging`
+- **Tags**: `async`, `debugging`, `multi-agent`, `orchestration`
 
 ---
 
@@ -4431,7 +4431,7 @@ Access and utilize the Dnanexus Integration integration for laboratory workflows
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/dnanexus-integration
-- **Tags**: `scientific`, `integration`, `platform`, `workflow`
+- **Tags**: `integration-testing`, `orchestration`, `scientific`
 
 ---
 
@@ -4441,7 +4441,7 @@ Guide for using Docker - a containerization platform for building, running, and 
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/docker
-- **Tags**: `ai-automation`, `devops`
+- **Tags**: `ai`, `devops`
 
 ---
 
@@ -4462,7 +4462,7 @@ Docker Compose generation, optimization, and troubleshooting assistance.
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/docker-helper
-- **Tags**: `science`, `devops`
+- **Tags**: `devops`, `scientific`
 
 ---
 
@@ -4482,7 +4482,7 @@ Communicating the intended behavior and context of code through clear documentat
 
 - **Author**: [baz-scm](https://github.com/baz-scm) ([`@baz-scm`](https://github.com/baz-scm))
 - **Skill**: https://github.com/baz-scm/awesome-reviewers/tree/main/_skills/documentation
-- **Tags**: `documentation`, `development`
+- **Tags**: `development`, `documentation`
 
 ---
 
@@ -4493,7 +4493,7 @@ Document business rules, technical patterns, and service interfaces discovered d
 - **Author**: [Rudolf S.](https://github.com/rsmdt) ([`@rsmdt`](https://github.com/rsmdt))
 - **License**: [MIT](https://raw.githubusercontent.com/rsmdt/the-startup/main/LICENSE)
 - **Skill**: https://github.com/rsmdt/the-startup/tree/main/plugins/start/skills/documentation
-- **Tags**: `ai-automation`, `documentation`, `science`, `web`
+- **Tags**: `ai`, `documentation`, `scientific`, `web`
 
 ---
 
@@ -4525,7 +4525,7 @@ Auto-generate JSDoc, docstrings, README files, and API documentation.
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/documentation-generator
-- **Tags**: `science`, `documentation`
+- **Tags**: `documentation`, `scientific`
 
 ---
 
@@ -4546,7 +4546,7 @@ Meta-Cognition tool for Claude Code - analyze session history for workflow optim
 - **Author**: [Yale Huang](https://github.com/yaleh) ([`@yaleh`](https://github.com/yaleh))
 - **License**: [MIT](https://raw.githubusercontent.com/yaleh/meta-cc/main/LICENSE)
 - **Skill**: https://github.com/yaleh/meta-cc/tree/main/.claude/skills/documentation-management
-- **Tags**: `writing`, `ai-automation`, `documentation`
+- **Tags**: `ai`, `content`, `documentation`
 
 ---
 
@@ -4578,7 +4578,7 @@ Comprehensive document creation, editing, and analysis with support for tracked 
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Proprietary](https://raw.githubusercontent.com/anthropics/skills/main/document-skills/docx/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/document-skills/docx
-- **Tags**: `documents`, `word`, `office`, `docx`, `editing`
+- **Tags**: `pdf`
 
 ---
 
@@ -4671,7 +4671,7 @@ Access and utilize the Docx methodologies for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/document-skills/docx
-- **Tags**: `scientific`, `methodology`, `workflow`, `analysis`
+- **Tags**: `data`, `orchestration`, `scientific`
 
 ---
 
@@ -4691,7 +4691,7 @@ Generates creative domain name ideas for your project and checks availability ac
 
 - **Author**: [ComposioHQ](https://github.com/ComposioHQ) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/main/domain-name-brainstormer
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -4732,7 +4732,7 @@ Create well-designed posters, layouts, and graphics using DrawBot with automatic
 - **Author**: [amadad](https://github.com/amadad) ([`@amadad`](https://github.com/amadad))
 - **License**: [Other](https://raw.githubusercontent.com/amadad/drawbot-redux/main/license.txt)
 - **Skill**: https://github.com/amadad/drawbot-redux/tree/main/.claude/skills/drawbot-designer
-- **Tags**: `design`, `writing`
+- **Tags**: `content`, `design`
 
 ---
 
@@ -4742,7 +4742,7 @@ Create well-designed posters, layouts, and graphics using DrawBot with automatic
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/drizzle-orm-d1
-- **Tags**: `ai-automation`, `data-analytics`, `documentation`, `web`
+- **Tags**: `ai`, `data`, `documentation`, `web`
 
 ---
 
@@ -4753,7 +4753,7 @@ Access and utilize the Drugbank Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/drugbank-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -4764,7 +4764,7 @@ Analyze Dynamo (.dyn) graphs to extract workflow, Python/DesignScript code, Revi
 - **Author**: [sonomirco](https://github.com/sonomirco) ([`@sonomirco`](https://github.com/sonomirco))
 - **License**: [Apache 2.0](https://raw.githubusercontent.com/sonomirco/agents-and-commands/main/LICENSE)
 - **Skill**: https://github.com/sonomirco/agents-and-commands/tree/main/plugins/aec-analysis-toolkit/skills/dynamo-analyzer
-- **Tags**: `science`, `development`
+- **Tags**: `development`, `scientific`
 
 ---
 
@@ -4786,7 +4786,7 @@ Playwright
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/testing/e2e-testing
-- **Tags**: `testing`, `ai-automation`, `development`, `e2e-testing`, `playwright`, `cypress`, `automation`, `page-object-model`
+- **Tags**: `ai`, `automation`, `cypress`, `development`, `e2e-testing`, `playwright`, `testing`
 
 ---
 
@@ -4817,7 +4817,7 @@ A/B test subject line variations using proven copywriting frameworks. Predict op
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/email-subject-line-optimizer
-- **Tags**: `ai-automation`, `testing`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -4828,7 +4828,7 @@ A/B test subject line variations using proven copywriting frameworks. Predict op
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/email-subject-line-optimizer
-- **Tags**: `ai-automation`, `testing`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -4838,7 +4838,7 @@ Generate professional email templates for various business scenarios including s
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/email-template-generator
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -4849,7 +4849,7 @@ Generate professional email templates for various business scenarios including s
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/email-template-generator
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -4871,7 +4871,7 @@ Access and utilize the Ena Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/ena-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -4881,7 +4881,7 @@ Enforce semantic commit practices with proper file staging and prefix usage. Use
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/enforcing-git-commit-workflow
-- **Tags**: `writing`, `development`
+- **Tags**: `content`, `development`
 
 ---
 
@@ -4902,7 +4902,7 @@ Access and utilize the Ensembl Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/ensembl-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -4912,7 +4912,7 @@ Complete guide for enterprise architecture patterns including domain-driven desi
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-devops-suite/skills/enterprise-architecture-patterns
-- **Tags**: `development`, `enterprise-architecture`, `ddd`, `event-sourcing`, `cqrs`, `microservices`, `scalability`, `patterns`
+- **Tags**: `architecture`, `ddd`, `development`, `event-driven`, `microservices`
 
 ---
 
@@ -4933,7 +4933,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-epic-decomposer
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -4944,7 +4944,7 @@ Convert markdown documents, chat summaries, or research reports into professiona
 - **Author**: [Scott Merchantek](https://github.com/smerchek) ([`@smerchek`](https://github.com/smerchek))
 - **License**: [MIT](https://raw.githubusercontent.com/smerchek/claude-epub-skill/main/LICENSE)
 - **Skill**: https://github.com/smerchek/claude-epub-skill
-- **Tags**: `epub`, `ebook`, `kindle`, `markdown`, `conversion`
+- **Tags**: `markdown`, `pdf`
 
 ---
 
@@ -4955,7 +4955,7 @@ Convert markdown documents, chat summaries, or research reports into professiona
 - **Author**: [Equilateral-AI](https://github.com/Equilateral-AI) ([`@Equilateral-AI`](https://github.com/Equilateral-AI))
 - **License**: [Other](https://raw.githubusercontent.com/Equilateral-AI/equilateral-agents-open-core/main/LICENSE)
 - **Skill**: https://github.com/Equilateral-AI/equilateral-agents-open-core/tree/main/.claude/skills/equilateral-agents
-- **Tags**: `ai-automation`, `data-analytics`, `devops`, `security`
+- **Tags**: `ai`, `data`, `devops`, `security`
 
 ---
 
@@ -4965,7 +4965,7 @@ Comprehensive database design and ERD (Entity-Relationship Diagram) toolkit usin
 
 - **Author**: [Kyungho Byoun](https://github.com/Byunk) ([`@Byunk`](https://github.com/Byunk))
 - **Skill**: https://github.com/Byunk/claude-code-toolkit/tree/main/erd-skill
-- **Tags**: `ai-automation`, `data-analytics`
+- **Tags**: `ai`, `data`
 
 ---
 
@@ -4976,7 +4976,7 @@ Analyzes errors, searches past solutions in memory, provides immediate fixes wit
 - **Author**: [Toowiredd](https://github.com/Toowiredd) ([`@Toowiredd`](https://github.com/Toowiredd))
 - **License**: [MIT](https://raw.githubusercontent.com/Toowiredd/claude-skills-automation/master/LICENSE)
 - **Skill**: https://github.com/Toowiredd/claude-skills-automation/tree/main/skills/error-debugger
-- **Tags**: `development`, `debugging`
+- **Tags**: `debugging`, `development`
 
 ---
 
@@ -5019,7 +5019,7 @@ Access and utilize the Esm Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/esm
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -5030,7 +5030,7 @@ Access and utilize the Etetoolkit Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/etetoolkit
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -5050,7 +5050,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-event-bus
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -5060,7 +5060,7 @@ Process CSV data files by cleaning, transforming, and analyzing them. Use this w
 
 - **Author**: [fkesheh](https://github.com/fkesheh) ([`@fkesheh`](https://github.com/fkesheh))
 - **Skill**: https://github.com/fkesheh/skill-mcp/tree/main/example-skill
-- **Tags**: `data-analytics`, `development`
+- **Tags**: `data`, `development`
 
 ---
 
@@ -5081,7 +5081,7 @@ Use when partner provides a complete implementation plan to execute in controlle
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/executing-plans
-- **Tags**: `planning`, `workflow`, `execution`, `collaboration`
+- **Tags**: `collaboration`, `multi-agent`, `orchestration`
 
 ---
 
@@ -5091,7 +5091,7 @@ Transform raw data from CSVs, Google Sheets, or databases into executive-ready r
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/executive-dashboard-generator
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -5102,7 +5102,7 @@ Transform raw data from CSVs, Google Sheets, or databases into executive-ready r
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/executive-dashboard-generator
-- **Tags**: `ai-automation`, `data-analytics`
+- **Tags**: `ai`, `data`
 
 ---
 
@@ -5112,7 +5112,7 @@ Assemble 2-3 complementary experts to collaboratively analyze anything. Experts 
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/expert-panel
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -5123,7 +5123,7 @@ Assemble 2-3 complementary experts to collaboratively analyze anything. Experts 
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/expert-panel
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -5134,7 +5134,7 @@ Access and utilize the Exploratory Data Analysis methodologies for scientific re
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/exploratory-data-analysis
-- **Tags**: `scientific`, `methodology`, `workflow`, `analysis`
+- **Tags**: `data`, `orchestration`, `scientific`
 
 ---
 
@@ -5165,7 +5165,7 @@ Complete guide for building scalable microservices with Express.js including mid
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-backend-toolkit/skills/express-microservices-architecture
-- **Tags**: `web`, `express`, `microservices`, `nodejs`, `middleware`, `routing`, `scalability`, `architecture`, `production`
+- **Tags**: `architecture`, `javascript`, `microservices`, `web`
 
 ---
 
@@ -5175,7 +5175,7 @@ Comprehensive Express.js development skill covering routing, middleware, request
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-backend-toolkit/skills/expressjs-development
-- **Tags**: `web`, `expressjs`, `nodejs`, `rest-api`, `middleware`, `routing`, `backend`, `web-server`
+- **Tags**: `api`, `javascript`, `web`
 
 ---
 
@@ -5196,7 +5196,7 @@ Intelligent pattern selection for Fabric CLI. Automatically selects the right pa
 
 - **Author**: [Daniel Miessler 🛡️](https://github.com/danielmiessler) ([`@danielmiessler`](https://github.com/danielmiessler))
 - **Skill**: https://github.com/danielmiessler/Personal_AI_Infrastructure/tree/main/.claude/skills/fabric
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -5207,7 +5207,7 @@ Provides assistance with planning family history and genealogy research projects
 - **Author**: [emaynard](https://github.com/emaynard) ([`@emaynard`](https://github.com/emaynard))
 - **License**: [MIT](https://raw.githubusercontent.com/emaynard/claude-family-history-research-skill/main/LICENSE)
 - **Skill**: https://github.com/emaynard/claude-family-history-research-skill
-- **Tags**: `genealogy`, `family-history`, `research`, `planning`
+- **Tags**: `multi-agent`, `scientific`
 
 ---
 
@@ -5260,7 +5260,7 @@ Comprehensive FastAPI skill for building modern Python web APIs with focus on cu
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-backend-toolkit/skills/fastapi
-- **Tags**: `web`, `fastapi`, `python`, `web-framework`, `async`, `rest-api`, `customer-support`, `backend`, `postgresql`, `sqlalchemy`, `pydantic`, `websocket`, `authentication`, `api-documentation`
+- **Tags**: `api`, `async`, `business`, `documentation`, `fastapi`, `orm`, `postgresql`
 
 ---
 
@@ -5280,7 +5280,7 @@ Comprehensive guide for building production-ready microservices with FastAPI inc
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-backend-toolkit/skills/fastapi-microservices-development
-- **Tags**: `web`, `fastapi`, `microservices`, `rest-api`, `async`, `python`, `production`
+- **Tags**: `api`, `async`, `fastapi`, `microservices`, `python`, `web`
 
 ---
 
@@ -5323,7 +5323,7 @@ Access and utilize the Fda Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/fda-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -5353,7 +5353,7 @@ Expert guidance for ffuf web fuzzing during penetration testing, including authe
 
 - **Author**: [Daniel Miessler 🛡️](https://github.com/danielmiessler) ([`@danielmiessler`](https://github.com/danielmiessler))
 - **Skill**: https://github.com/danielmiessler/Personal_AI_Infrastructure/tree/main/.claude/skills/ffuf
-- **Tags**: `testing`, `security`
+- **Tags**: `security`, `testing`
 
 ---
 
@@ -5364,7 +5364,7 @@ Integrate Claude with FFUF (Fast web fuzzer) to run fuzzing tasks and analyze re
 - **Author**: [jthack](https://github.com/jthack) ([`@jthack`](https://github.com/jthack))
 - **License**: Unknown
 - **Skill**: https://github.com/jthack/ffuf_claude_skill
-- **Tags**: `security`, `fuzzing`, `testing`, `web`, `pentesting`
+- **Tags**: `security`, `testing`, `web`
 
 ---
 
@@ -5374,7 +5374,7 @@ Expert guidance for ffuf web fuzzing during penetration testing, including authe
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/security/ffuf-fuzzing
-- **Tags**: `testing`, `security`
+- **Tags**: `security`, `testing`
 
 ---
 
@@ -5384,7 +5384,7 @@ Figma workflows, components, auto layout, constraints, prototyping, design syste
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-design-toolkit/skills/figma-design
-- **Tags**: `design`, `documentation`, `figma`, `design-systems`, `prototyping`, `components`, `auto-layout`, `plugins`
+- **Tags**: `design`, `documentation`, `web`
 
 ---
 
@@ -5394,7 +5394,7 @@ Analyze files and get detailed metadata including size, line counts, modificatio
 
 - **Author**: [mhattingpete](https://github.com/mhattingpete) ([`@mhattingpete`](https://github.com/mhattingpete))
 - **Skill**: https://github.com/mhattingpete/claude-skills-marketplace/tree/main/code-operations-plugin/skills/file-operations
-- **Tags**: `ai-automation`, `data-analytics`
+- **Tags**: `ai`, `data`
 
 ---
 
@@ -5415,7 +5415,7 @@ Intelligently organizes files and folders across your computer by understanding 
 - **Author**: [ComposioHQ](https://composio.dev) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE)
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer
-- **Tags**: `files`, `organization`, `automation`, `productivity`, `cleanup`
+- **Tags**: `automation`, `productivity`, `project-management`
 
 ---
 
@@ -5519,7 +5519,7 @@ Use when implementation is complete, all tests pass, and you need to decide how 
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch
-- **Tags**: `git`, `workflow`, `collaboration`, `completion`
+- **Tags**: `collaboration`, `git`, `orchestration`
 
 ---
 
@@ -5530,7 +5530,7 @@ Payment card security, SOC2 compliance, and financial services regulatory requir
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/compliance/fintech
-- **Tags**: `security`, `business`
+- **Tags**: `business`, `security`
 
 ---
 
@@ -5540,7 +5540,7 @@ Payment card security, SOC2 compliance, and financial services regulatory requir
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/firecrawl-scraper
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -5561,7 +5561,7 @@ Generates CakePHP test fixtures from migration files, ensuring schema consistenc
 
 - **Author**: [masanao-ohba](https://github.com/masanao-ohba) ([`@masanao-ohba`](https://github.com/masanao-ohba))
 - **Skill**: https://github.com/masanao-ohba/claude-manifests/tree/main/skills/php-cakephp/fixture-generator
-- **Tags**: `testing`, `science`
+- **Tags**: `scientific`, `testing`
 
 ---
 
@@ -5593,7 +5593,7 @@ This skill converts any text document into high-quality flashcards optimised for
 - **Author**: [Eleanor Berger](https://intellectronica.net/) ([`@intellectronica`](https://github.com/intellectronica))
 - **Skill**: https://gist.github.com/intellectronica/f94a291078f3c09907894287688fa2d5
 - **Download**: https://gist.github.com/intellectronica/f94a291078f3c09907894287688fa2d5/raw/0308b235cd68457384d58dcce95236d7f0f7a8ce/flashcard-generator.skill
-- **Tags**: `anki`, `flashcards`, `spaced-repetition`, `learning`, `studying`, `memory`
+- **Tags**: `education`
 
 ---
 
@@ -5603,7 +5603,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-fleet-manager
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -5614,7 +5614,7 @@ Train and deploy neural networks in distributed E2B sandboxes with Flow Nexus
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/flow-nexus-neural
-- **Tags**: `ai-automation`, `devops`, `neural-networks`, `distributed-training`, `machine-learning`, `deep-learning`, `flow-nexus`, `e2b-sandboxes`
+- **Tags**: `ai`, `development`, `devops`, `mlops`
 
 ---
 
@@ -5625,7 +5625,7 @@ Train and deploy neural networks in distributed E2B sandboxes with Flow Nexus
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/flow-nexus-neural
-- **Tags**: `ai-automation`, `neural-networks`, `distributed-training`, `machine-learning`, `deep-learning`, `flow-nexus`, `e2b-sandboxes`
+- **Tags**: `ai`, `development`, `mlops`
 
 ---
 
@@ -5635,7 +5635,7 @@ Train and deploy neural networks in distributed E2B sandboxes with Flow Nexus
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/flow-nexus-neural
-- **Tags**: `ai-automation`, `neural-networks`, `distributed-training`, `machine-learning`, `deep-learning`, `flow-nexus`, `e2b-sandboxes`
+- **Tags**: `ai`, `development`, `mlops`
 
 ---
 
@@ -5646,7 +5646,7 @@ Train and deploy neural networks in distributed E2B sandboxes with Flow Nexus
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/flow-nexus-neural
-- **Tags**: `ai-automation`, `neural-networks`, `distributed-training`, `machine-learning`, `deep-learning`, `flow-nexus`, `e2b-sandboxes`
+- **Tags**: `ai`, `development`, `mlops`
 
 ---
 
@@ -5657,7 +5657,7 @@ Comprehensive Flow Nexus platform management - authentication, sandboxes, app de
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/flow-nexus-platform
-- **Tags**: `devops`, `security`, `authentication`, `sandboxes`, `deployment`, `payments`, `gamification`, `cloud`
+- **Tags**: `business`, `ci-cd`, `cloud`, `development`, `devops`, `gaming`, `security`
 
 ---
 
@@ -5668,7 +5668,7 @@ Comprehensive Flow Nexus platform management - authentication, sandboxes, app de
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/flow-nexus-platform
-- **Tags**: `security`, `business`, `authentication`, `sandboxes`, `deployment`, `payments`, `gamification`, `cloud`
+- **Tags**: `business`, `ci-cd`, `cloud`, `development`, `gaming`, `security`
 
 ---
 
@@ -5678,7 +5678,7 @@ Comprehensive Flow Nexus platform management - authentication, sandboxes, app de
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/flow-nexus-platform
-- **Tags**: `security`, `business`, `authentication`, `sandboxes`, `deployment`, `payments`, `gamification`, `cloud`
+- **Tags**: `business`, `ci-cd`, `cloud`, `development`, `gaming`, `security`
 
 ---
 
@@ -5689,7 +5689,7 @@ Comprehensive Flow Nexus platform management - authentication, sandboxes, app de
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/flow-nexus-platform
-- **Tags**: `security`, `business`, `authentication`, `sandboxes`, `deployment`, `payments`, `gamification`, `cloud`
+- **Tags**: `business`, `ci-cd`, `cloud`, `development`, `gaming`, `security`
 
 ---
 
@@ -5700,7 +5700,7 @@ Cloud-based AI swarm deployment and event-driven workflow automation with Flow N
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/flow-nexus-swarm
-- **Tags**: `ai-automation`, `devops`, `swarm`, `workflow`, `cloud`, `agents`, `automation`, `message-queue`
+- **Tags**: `ai`, `automation`, `cloud`, `devops`, `event-driven`, `multi-agent`, `orchestration`
 
 ---
 
@@ -5711,7 +5711,7 @@ Cloud-based AI swarm deployment and event-driven workflow automation with Flow N
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/flow-nexus-swarm
-- **Tags**: `productivity`, `swarm`, `workflow`, `cloud`, `agents`, `automation`, `message-queue`
+- **Tags**: `automation`, `cloud`, `event-driven`, `multi-agent`, `orchestration`, `productivity`
 
 ---
 
@@ -5721,7 +5721,7 @@ Cloud-based AI swarm deployment and event-driven workflow automation with Flow N
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/flow-nexus-swarm
-- **Tags**: `productivity`, `swarm`, `workflow`, `cloud`, `agents`, `automation`, `message-queue`
+- **Tags**: `automation`, `cloud`, `event-driven`, `multi-agent`, `orchestration`, `productivity`
 
 ---
 
@@ -5732,7 +5732,7 @@ Cloud-based AI swarm deployment and event-driven workflow automation with Flow N
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/flow-nexus-swarm
-- **Tags**: `productivity`, `swarm`, `workflow`, `cloud`, `agents`, `automation`, `message-queue`
+- **Tags**: `automation`, `cloud`, `event-driven`, `multi-agent`, `orchestration`, `productivity`
 
 ---
 
@@ -5753,7 +5753,7 @@ Access and utilize the Flowio Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/flowio
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -5784,7 +5784,7 @@ Expert prompt engineering for FLUX.1 Kontext image generation and editing. Use w
 - **Author**: [Alex](https://github.com/alexrzem) ([`@alexrzem`](https://github.com/alexrzem))
 - **License**: [MIT](https://raw.githubusercontent.com/alexrzem/flux-kontext-prompt-engineer/main/LICENSE)
 - **Skill**: https://github.com/alexrzem/flux-kontext-prompt-engineer/tree/main/flux-kontext-prompt-engineer
-- **Tags**: `science`, `ai-automation`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -5794,7 +5794,7 @@ Recommend font combinations for different use cases. Provide Google Fonts altern
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/font-pairing-suggester
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -5805,7 +5805,7 @@ Recommend font combinations for different use cases. Provide Google Fonts altern
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/font-pairing-suggester
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -5816,7 +5816,7 @@ Automatically reminds when important story elements (characters, plot lines, for
 - **Author**: [wordflowlab](https://github.com/wordflowlab) ([`@wordflowlab`](https://github.com/wordflowlab))
 - **License**: [MIT](https://raw.githubusercontent.com/wordflowlab/novel-writer-skills/main/LICENSE)
 - **Skill**: https://github.com/wordflowlab/novel-writer-skills/tree/main/templates/skills/quality-assurance/forgotten-elements
-- **Tags**: `writing`, `productivity`
+- **Tags**: `content`, `productivity`
 
 ---
 
@@ -5837,7 +5837,7 @@ Component architecture, design patterns, state management strategies, module sys
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-frontend-essentials/skills/frontend-architecture
-- **Tags**: `web`, `architecture`, `design-patterns`, `components`, `scalability`, `modules`, `state-management`
+- **Tags**: `architecture`, `web`
 
 ---
 
@@ -5868,7 +5868,7 @@ Generate frontend component tests (unit, snapshot, e2e). Auto-invoke when user s
 
 - **Author**: [Aleks Petrov](https://github.com/alekspetrov) ([`@alekspetrov`](https://github.com/alekspetrov))
 - **Skill**: https://github.com/alekspetrov/navigator/tree/main/skills/frontend-test
-- **Tags**: `testing`, `science`, `web`
+- **Tags**: `scientific`, `testing`, `web`
 
 ---
 
@@ -5878,7 +5878,7 @@ Ability to develop both front-end and back-end systems, integrating user interfa
 
 - **Author**: [baz-scm](https://github.com/baz-scm) ([`@baz-scm`](https://github.com/baz-scm))
 - **Skill**: https://github.com/baz-scm/awesome-reviewers/tree/main/_skills/full-stack-development
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -5888,7 +5888,7 @@ Comprehensive validation methodology for multi-component applications including 
 
 - **Author**: [ART.gineering - Werapol Bejranonda](https://github.com/bejranonda) ([`@bejranonda`](https://github.com/bejranonda))
 - **Skill**: https://github.com/bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude/tree/main/skills/fullstack-validation
-- **Tags**: `data-analytics`, `web`
+- **Tags**: `data`, `web`
 
 ---
 
@@ -5908,7 +5908,7 @@ Assist contributors working on the functype library codebase. Use this skill whe
 
 - **Author**: [jordanburke](https://github.com/jordanburke) ([`@jordanburke`](https://github.com/jordanburke))
 - **Skill**: https://github.com/jordanburke/functype/tree/main/.claude/skills/functype-developer
-- **Tags**: `testing`, `development`
+- **Tags**: `development`, `testing`
 
 ---
 
@@ -5930,7 +5930,7 @@ A skill for getting your agent to create funny mock translations.
 - **License**: Public Domain
 - **Skill**: https://gist.github.com/intellectronica/15a9a867f53c04e51dfefcd7ce78c806
 - **Download**: https://gist.github.com/intellectronica/15a9a867f53c04e51dfefcd7ce78c806/raw/703e81da14164e819f385f29cdb2eaf53be73369/funny-translation.zip
-- **Tags**: `comedy`
+- **Tags**: `content`
 
 ---
 
@@ -5982,7 +5982,7 @@ What-if scenario analyzer for sports. Play-calling recommendations, clock manage
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/game-strategy-simulator
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -5993,7 +5993,7 @@ What-if scenario analyzer for sports. Play-calling recommendations, clock manage
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/game-strategy-simulator
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -6004,7 +6004,7 @@ Maintain the skills wiki, ensuring naming consistency and metadata quality acros
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers-skills/tree/main/skills/meta/gardening-skills-wiki
-- **Tags**: `meta`, `documentation`, `maintenance`, `quality`
+- **Tags**: `documentation`, `testing`
 
 ---
 
@@ -6046,7 +6046,7 @@ Guide for implementing Google Gemini API audio capabilities - analyze audio with
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/gemini-audio
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -6066,7 +6066,7 @@ Guide for implementing Google Gemini API image generation - create high-quality 
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/gemini-image-gen
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -6076,7 +6076,7 @@ Analyze videos using Google's Gemini API - describe content, answer questions, t
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/gemini-video-understanding
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -6086,7 +6086,7 @@ Guide for implementing Google Gemini API image understanding - analyze images wi
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/gemini-vision
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -6097,7 +6097,7 @@ Access and utilize the Gene Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/gene-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -6107,7 +6107,7 @@ Perform gene set enrichment analysis using AI research providers. Analyzes lists
 
 - **Author**: [monarch-initiative](https://github.com/monarch-initiative) ([`@monarch-initiative`](https://github.com/monarch-initiative))
 - **Skill**: https://github.com/monarch-initiative/deep-research-client/tree/main/.claude/skills/gene-set-enrichment
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -6117,7 +6117,7 @@ Generates clear commit messages from git diffs. Use when writing commit messages
 
 - **Author**: [mpazaryna](https://github.com/mpazaryna) ([`@mpazaryna`](https://github.com/mpazaryna))
 - **Skill**: https://github.com/mpazaryna/claude-toolkit/tree/main/skills/commit-helper
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -6128,7 +6128,7 @@ Access and utilize the Geo Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/geo-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -6139,7 +6139,7 @@ Access and utilize the Get Available Resources helper utilities for scientific w
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-helpers/get-available-resources
-- **Tags**: `scientific`, `utility`, `helper`, `tools`
+- **Tags**: `llm`, `scientific`
 
 ---
 
@@ -6150,7 +6150,7 @@ Activates when users start a new novel project - guides them through the seven-s
 - **Author**: [wordflowlab](https://github.com/wordflowlab) ([`@wordflowlab`](https://github.com/wordflowlab))
 - **License**: [MIT](https://raw.githubusercontent.com/wordflowlab/novel-writer-skills/main/LICENSE)
 - **Skill**: https://github.com/wordflowlab/novel-writer-skills/tree/main/templates/skills/quality-assurance/getting-started
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -6182,7 +6182,7 @@ Access and utilize the Gget Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/gget
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -6213,7 +6213,7 @@ Generate descriptive commit messages by analyzing git diffs. Use when the user a
 
 - **Author**: [basher83](https://github.com/basher83) ([`@basher83`](https://github.com/basher83))
 - **Skill**: https://github.com/basher83/Zammad-MCP/tree/main/.claude/skills/git-commit-helper
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -6223,7 +6223,7 @@ Automatically documents code changes in a searchable changelog when committing t
 
 - **Author**: [Jonathan Edwards](https://github.com/justfinethanku) ([`@justfinethanku`](https://github.com/justfinethanku))
 - **Skill**: https://github.com/justfinethanku/cc-changelog-plugin/tree/main/skills/commit
-- **Tags**: `documentation`, `development`
+- **Tags**: `development`, `documentation`
 
 ---
 
@@ -6234,7 +6234,7 @@ Automate git operations and repository interactions for streamlined version cont
 - **Author**: [mhattingpete](https://github.com/mhattingpete) ([`@mhattingpete`](https://github.com/mhattingpete))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/mhattingpete/claude-skills-marketplace/main/LICENSE)
 - **Skill**: https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing
-- **Tags**: `git`, `automation`, `version-control`, `workflow`
+- **Tags**: `automation`, `git`, `orchestration`
 
 ---
 
@@ -6254,7 +6254,7 @@ Create production-ready GitHub Actions workflows for automated testing, building
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/cicd-automation/github-actions-templates
-- **Tags**: `testing`, `devops`
+- **Tags**: `devops`, `testing`
 
 ---
 
@@ -6265,7 +6265,7 @@ Create production-ready GitHub Actions workflows for automated testing, building
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/cicd-automation/skills/github-actions-templates
-- **Tags**: `testing`, `devops`
+- **Tags**: `devops`, `testing`
 
 ---
 
@@ -6276,7 +6276,7 @@ Comprehensive GitHub code review with AI-powered swarm coordination
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/github-code-review
-- **Tags**: `development`, `code-review`, `github`, `swarm`, `pr-management`, `automation`
+- **Tags**: `automation`, `code-review`, `development`, `git`, `multi-agent`
 
 ---
 
@@ -6287,7 +6287,7 @@ Comprehensive GitHub code review with AI-powered swarm coordination
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/github-code-review
-- **Tags**: `development`, `code-review`, `github`, `swarm`, `pr-management`, `automation`
+- **Tags**: `automation`, `code-review`, `development`, `git`, `multi-agent`
 
 ---
 
@@ -6297,7 +6297,7 @@ Comprehensive GitHub code review with AI-powered swarm coordination
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/github-code-review
-- **Tags**: `development`, `code-review`, `github`, `swarm`, `pr-management`, `automation`
+- **Tags**: `automation`, `code-review`, `development`, `git`, `multi-agent`
 
 ---
 
@@ -6308,7 +6308,7 @@ Comprehensive GitHub code review with AI-powered swarm coordination
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/github-code-review
-- **Tags**: `development`, `code-review`, `github`, `swarm`, `pr-management`, `automation`
+- **Tags**: `automation`, `code-review`, `development`, `git`, `multi-agent`
 
 ---
 
@@ -6318,7 +6318,7 @@ Use when creating GitHub issues, managing PRs, updating issue states, or searchi
 
 - **Author**: [Braydon McCormick](https://github.com/dbmcco) ([`@dbmcco`](https://github.com/dbmcco))
 - **Skill**: https://github.com/dbmcco/claude-agent-toolkit/tree/main/skills/github
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -6329,7 +6329,7 @@ Multi-repository coordination, synchronization, and architecture management with
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/github-multi-repo
-- **Tags**: `development`, `multi-repo`, `synchronization`, `architecture`, `coordination`, `github`
+- **Tags**: `architecture`, `async`, `development`, `git`, `orchestration`
 
 ---
 
@@ -6340,7 +6340,7 @@ Multi-repository coordination, synchronization, and architecture management with
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/github-multi-repo
-- **Tags**: `development`, `multi-repo`, `synchronization`, `architecture`, `coordination`, `github`
+- **Tags**: `architecture`, `async`, `development`, `git`, `orchestration`
 
 ---
 
@@ -6350,7 +6350,7 @@ Multi-repository coordination, synchronization, and architecture management with
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/github-multi-repo
-- **Tags**: `development`, `multi-repo`, `synchronization`, `architecture`, `coordination`, `github`
+- **Tags**: `architecture`, `async`, `development`, `git`, `orchestration`
 
 ---
 
@@ -6361,7 +6361,7 @@ Multi-repository coordination, synchronization, and architecture management with
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/github-multi-repo
-- **Tags**: `development`, `multi-repo`, `synchronization`, `architecture`, `coordination`, `github`
+- **Tags**: `architecture`, `async`, `development`, `git`, `orchestration`
 
 ---
 
@@ -6372,7 +6372,7 @@ Comprehensive GitHub project management with swarm-coordinated issue tracking, p
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/github-project-management
-- **Tags**: `project-management`, `github`, `issue-tracking`, `project-boards`, `sprint-planning`, `agile`, `swarm-coordination`
+- **Tags**: `agile`, `git`, `multi-agent`, `project-management`
 
 ---
 
@@ -6383,7 +6383,7 @@ Comprehensive GitHub project management with swarm-coordinated issue tracking, p
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/github-project-management
-- **Tags**: `project-management`, `github`, `issue-tracking`, `project-boards`, `sprint-planning`, `agile`, `swarm-coordination`
+- **Tags**: `agile`, `git`, `multi-agent`, `project-management`
 
 ---
 
@@ -6393,7 +6393,7 @@ Comprehensive GitHub project management with swarm-coordinated issue tracking, p
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/github-project-management
-- **Tags**: `project-management`, `github`, `issue-tracking`, `project-boards`, `sprint-planning`, `agile`, `swarm-coordination`
+- **Tags**: `agile`, `git`, `multi-agent`, `project-management`
 
 ---
 
@@ -6404,7 +6404,7 @@ Comprehensive GitHub project management with swarm-coordinated issue tracking, p
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/github-project-management
-- **Tags**: `project-management`, `github`, `issue-tracking`, `project-boards`, `sprint-planning`, `agile`, `swarm-coordination`
+- **Tags**: `agile`, `git`, `multi-agent`, `project-management`
 
 ---
 
@@ -6415,7 +6415,7 @@ Comprehensive GitHub release orchestration with AI swarm coordination for automa
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/github-release-management
-- **Tags**: `ai-automation`, `devops`, `testing`, `release`, `deployment`, `versioning`, `automation`, `ci-cd`, `swarm`, `orchestration`
+- **Tags**: `ai`, `automation`, `ci-cd`, `devops`, `multi-agent`, `orchestration`, `testing`
 
 ---
 
@@ -6426,7 +6426,7 @@ Comprehensive GitHub release orchestration with AI swarm coordination for automa
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/github-release-management
-- **Tags**: `testing`, `release`, `deployment`, `versioning`, `automation`, `ci-cd`, `swarm`, `orchestration`
+- **Tags**: `automation`, `ci-cd`, `multi-agent`, `orchestration`, `testing`
 
 ---
 
@@ -6436,7 +6436,7 @@ Comprehensive GitHub release orchestration with AI swarm coordination for automa
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/github-release-management
-- **Tags**: `testing`, `release`, `deployment`, `versioning`, `automation`, `ci-cd`, `swarm`, `orchestration`
+- **Tags**: `automation`, `ci-cd`, `multi-agent`, `orchestration`, `testing`
 
 ---
 
@@ -6447,7 +6447,7 @@ Comprehensive GitHub release orchestration with AI swarm coordination for automa
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/github-release-management
-- **Tags**: `testing`, `release`, `deployment`, `versioning`, `automation`, `ci-cd`, `swarm`, `orchestration`
+- **Tags**: `automation`, `ci-cd`, `multi-agent`, `orchestration`, `testing`
 
 ---
 
@@ -6457,7 +6457,7 @@ Manage GitHub repositories for Claude Code plugins including issues, pull reques
 
 - **Author**: [Dominik Oswald](https://github.com/d-oit) ([`@d-oit`](https://github.com/d-oit))
 - **Skill**: https://github.com/d-oit/gemini-search-plugin/tree/main/.claude/skills/github-repo-management
-- **Tags**: `devops`, `ai-automation`, `development`
+- **Tags**: `ai`, `development`, `devops`
 
 ---
 
@@ -6478,7 +6478,7 @@ Advanced GitHub Actions workflow automation with AI swarm coordination, intellig
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/github-workflow-automation
-- **Tags**: `ai-automation`, `devops`, `github`, `github-actions`, `ci-cd`, `workflow-automation`, `swarm-coordination`, `deployment`, `security`
+- **Tags**: `ai`, `automation`, `ci-cd`, `devops`, `git`, `multi-agent`, `security`
 
 ---
 
@@ -6489,7 +6489,7 @@ Advanced GitHub Actions workflow automation with AI swarm coordination, intellig
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/github-workflow-automation
-- **Tags**: `devops`, `productivity`, `github`, `github-actions`, `ci-cd`, `workflow-automation`, `swarm-coordination`, `deployment`, `security`
+- **Tags**: `automation`, `ci-cd`, `devops`, `git`, `multi-agent`, `productivity`, `security`
 
 ---
 
@@ -6499,7 +6499,7 @@ Advanced GitHub Actions workflow automation with AI swarm coordination, intellig
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/github-workflow-automation
-- **Tags**: `devops`, `productivity`, `github`, `github-actions`, `ci-cd`, `workflow-automation`, `swarm-coordination`, `deployment`, `security`
+- **Tags**: `automation`, `ci-cd`, `devops`, `git`, `multi-agent`, `productivity`, `security`
 
 ---
 
@@ -6510,7 +6510,7 @@ Advanced GitHub Actions workflow automation with AI swarm coordination, intellig
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/github-workflow-automation
-- **Tags**: `devops`, `productivity`, `github`, `github-actions`, `ci-cd`, `workflow-automation`, `swarm-coordination`, `deployment`, `security`
+- **Tags**: `automation`, `ci-cd`, `devops`, `git`, `multi-agent`, `productivity`, `security`
 
 ---
 
@@ -6520,7 +6520,7 @@ Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distribute
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/cicd-automation/gitlab-ci-patterns
-- **Tags**: `testing`, `devops`
+- **Tags**: `devops`, `testing`
 
 ---
 
@@ -6531,7 +6531,7 @@ Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distribute
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/cicd-automation/skills/gitlab-ci-patterns
-- **Tags**: `testing`, `devops`
+- **Tags**: `devops`, `testing`
 
 ---
 
@@ -6573,7 +6573,7 @@ Go coding standards following idiomatic Go patterns, error handling, concurrency
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/coding-standards/go
-- **Tags**: `testing`, `development`
+- **Tags**: `development`, `testing`
 
 ---
 
@@ -6604,7 +6604,7 @@ Complete guide for Go backend development including concurrency patterns, web se
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-backend-toolkit/skills/golang-backend-development
-- **Tags**: `data-analytics`, `web`, `golang`, `go`, `concurrency`, `web-servers`, `microservices`, `backend`, `goroutines`, `channels`, `grpc`, `rest-api`
+- **Tags**: `api`, `async`, `data`, `event-driven`, `go`, `microservices`, `web`
 
 ---
 
@@ -6614,7 +6614,7 @@ All powerful skills of ClaudeKit.cc!
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/google-adk-python
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -6644,7 +6644,7 @@ Use when automating Google Workspace (Docs, Sheets, Slides) operations - covers 
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/google-gemini-embeddings
-- **Tags**: `ai-automation`, `documentation`, `testing`, `web`
+- **Tags**: `ai`, `documentation`, `testing`, `web`
 
 ---
 
@@ -6696,7 +6696,7 @@ Comprehensive guide for building GraphQL APIs including schema design, queries, 
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-backend-toolkit/skills/graphql-api-development
-- **Tags**: `security`, `writing`, `web`, `graphql`, `api`, `schema`, `queries`, `mutations`, `subscriptions`, `resolvers`, `javascript`, `typescript`, `web-development`, `backend`
+- **Tags**: `api`, `content`, `database`, `event-driven`, `javascript`, `mutation-testing`, `security`
 
 ---
 
@@ -6707,7 +6707,7 @@ Analyze Grasshopper (.ghx/.xml) files to extract workflow, custom scripts, algor
 - **Author**: [sonomirco](https://github.com/sonomirco) ([`@sonomirco`](https://github.com/sonomirco))
 - **License**: [Apache 2.0](https://raw.githubusercontent.com/sonomirco/agents-and-commands/main/LICENSE)
 - **Skill**: https://github.com/sonomirco/agents-and-commands/tree/main/plugins/aec-analysis-toolkit/skills/grasshopper-analyzer
-- **Tags**: `science`, `development`
+- **Tags**: `development`, `scientific`
 
 ---
 
@@ -6718,7 +6718,7 @@ Greeting message
 - **Author**: [rscheiwe](https://github.com/rscheiwe) ([`@rscheiwe`](https://github.com/rscheiwe))
 - **License**: [MIT](https://raw.githubusercontent.com/rscheiwe/open-skills/main/LICENSE)
 - **Skill**: https://github.com/rscheiwe/open-skills/tree/main/examples/hello-world
-- **Tags**: `development`, `example`, `simple`, `greeting`
+- **Tags**: `development`
 
 ---
 
@@ -6728,7 +6728,7 @@ Design RESTful APIs following Grey Haven standards - FastAPI routes, Pydantic sc
 
 - **Author**: [greyhaven-ai](https://github.com/greyhaven-ai) ([`@greyhaven-ai`](https://github.com/greyhaven-ai))
 - **Skill**: https://github.com/greyhaven-ai/claude-code-config/tree/main/grey-haven-plugins/grey-haven-skills/api-design-standards
-- **Tags**: `documentation`, `development`
+- **Tags**: `development`, `documentation`
 
 ---
 
@@ -6748,7 +6748,7 @@ Apply Grey Haven Studio's actual coding standards from cvi-template (TypeScript/
 
 - **Author**: [greyhaven-ai](https://github.com/greyhaven-ai) ([`@greyhaven-ai`](https://github.com/greyhaven-ai))
 - **Skill**: https://github.com/greyhaven-ai/claude-code-config/tree/main/grey-haven-plugins/grey-haven-skills/code-style
-- **Tags**: `data-analytics`, `web`, `development`
+- **Tags**: `data`, `development`, `web`
 
 ---
 
@@ -6768,7 +6768,7 @@ Design database schemas for Grey Haven multi-tenant SaaS - SQLModel models, Driz
 
 - **Author**: [greyhaven-ai](https://github.com/greyhaven-ai) ([`@greyhaven-ai`](https://github.com/greyhaven-ai))
 - **Skill**: https://github.com/greyhaven-ai/claude-code-config/tree/main/grey-haven-plugins/grey-haven-skills/data-modeling
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -6778,7 +6778,7 @@ Apply Grey Haven Studio's database conventions - snake_case fields, multi-tenant
 
 - **Author**: [greyhaven-ai](https://github.com/greyhaven-ai) ([`@greyhaven-ai`](https://github.com/greyhaven-ai))
 - **Skill**: https://github.com/greyhaven-ai/claude-code-config/tree/main/grey-haven-plugins/grey-haven-skills/database-conventions
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -6788,7 +6788,7 @@ Deploy TanStack Start applications to Cloudflare Workers/Pages with GitHub Actio
 
 - **Author**: [greyhaven-ai](https://github.com/greyhaven-ai) ([`@greyhaven-ai`](https://github.com/greyhaven-ai))
 - **Skill**: https://github.com/greyhaven-ai/claude-code-config/tree/main/grey-haven-plugins/grey-haven-skills/deployment-cloudflare
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -6818,7 +6818,7 @@ Create comprehensive ontological documentation for Grey Haven systems - extract 
 
 - **Author**: [greyhaven-ai](https://github.com/greyhaven-ai) ([`@greyhaven-ai`](https://github.com/greyhaven-ai))
 - **Skill**: https://github.com/greyhaven-ai/claude-code-config/tree/main/grey-haven-plugins/grey-haven-skills/ontological-documentation
-- **Tags**: `science`, `documentation`, `development`
+- **Tags**: `development`, `documentation`, `scientific`
 
 ---
 
@@ -6828,7 +6828,7 @@ Optimize Grey Haven applications for performance - React rendering, TanStack Que
 
 - **Author**: [greyhaven-ai](https://github.com/greyhaven-ai) ([`@greyhaven-ai`](https://github.com/greyhaven-ai))
 - **Skill**: https://github.com/greyhaven-ai/claude-code-config/tree/main/grey-haven-plugins/grey-haven-skills/performance-optimization
-- **Tags**: `data-analytics`, `web`
+- **Tags**: `data`, `web`
 
 ---
 
@@ -6838,7 +6838,7 @@ Generate pull request descriptions following Grey Haven Studio standards with cl
 
 - **Author**: [greyhaven-ai](https://github.com/greyhaven-ai) ([`@greyhaven-ai`](https://github.com/greyhaven-ai))
 - **Skill**: https://github.com/greyhaven-ai/claude-code-config/tree/main/grey-haven-plugins/grey-haven-skills/pr-template
-- **Tags**: `testing`, `science`
+- **Tags**: `scientific`, `testing`
 
 ---
 
@@ -6878,7 +6878,7 @@ Grey Haven's testing strategy - Vitest unit/integration/e2e for TypeScript, pyte
 
 - **Author**: [greyhaven-ai](https://github.com/greyhaven-ai) ([`@greyhaven-ai`](https://github.com/greyhaven-ai))
 - **Skill**: https://github.com/greyhaven-ai/claude-code-config/tree/main/grey-haven-plugins/grey-haven-skills/testing-strategy
-- **Tags**: `testing`, `ai-automation`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -6909,7 +6909,7 @@ Access and utilize the Gwas Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/gwas-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -6919,7 +6919,7 @@ Complete guide for Hasura GraphQL Engine including instant GraphQL APIs, permiss
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-devops-suite/skills/hasura-graphql-engine
-- **Tags**: `security`, `web`, `hasura`, `graphql`, `permissions`, `authentication`, `event-triggers`, `actions`, `remote-schemas`, `postgres`, `real-time`, `subscriptions`
+- **Tags**: `api`, `event-driven`, `postgresql`, `security`, `web`
 
 ---
 
@@ -6930,7 +6930,7 @@ HIPAA establishes national standards for protecting patient health information
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/compliance/healthtech
-- **Tags**: `testing`, `ai-automation`, `development`
+- **Tags**: `ai`, `development`, `testing`
 
 ---
 
@@ -6972,7 +6972,7 @@ Generate production-ready Helm charts for Kubernetes applications. Use when user
 - **Author**: [Truong Vu](https://github.com/vukhanhtruong) ([`@vukhanhtruong`](https://github.com/vukhanhtruong))
 - **License**: [MIT](https://raw.githubusercontent.com/vukhanhtruong/claude-rock/main/LICENSE.md)
 - **Skill**: https://github.com/vukhanhtruong/claude-rock/tree/main/plugins/devops/skills/helm-scaffold
-- **Tags**: `science`, `devops`
+- **Tags**: `devops`, `scientific`
 
 ---
 
@@ -6982,7 +6982,7 @@ Create shot lists for highlight videos. Timestamp key plays, music cue suggestio
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/highlight-reel-scripter
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -6993,7 +6993,7 @@ Create shot lists for highlight videos. Timestamp key plays, music cue suggestio
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/highlight-reel-scripter
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -7004,7 +7004,7 @@ Access and utilize the Histolab Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/histolab
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -7015,7 +7015,7 @@ Advanced Hive Mind collective intelligence system for queen-led multi-agent coor
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/hive-mind-advanced
-- **Tags**: `ai-automation`, `hive-mind`, `swarm`, `queen-worker`, `consensus`, `collective-intelligence`, `multi-agent`, `coordination`
+- **Tags**: `ai`, `distributed`, `multi-agent`, `orchestration`
 
 ---
 
@@ -7026,7 +7026,7 @@ Advanced Hive Mind collective intelligence system for queen-led multi-agent coor
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/hive-mind-advanced
-- **Tags**: `development`, `hive-mind`, `swarm`, `queen-worker`, `consensus`, `collective-intelligence`, `multi-agent`, `coordination`
+- **Tags**: `development`, `distributed`, `multi-agent`, `orchestration`
 
 ---
 
@@ -7036,7 +7036,7 @@ Advanced Hive Mind collective intelligence system for queen-led multi-agent coor
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/hive-mind-advanced
-- **Tags**: `development`, `hive-mind`, `swarm`, `queen-worker`, `consensus`, `collective-intelligence`, `multi-agent`, `coordination`
+- **Tags**: `development`, `distributed`, `multi-agent`, `orchestration`
 
 ---
 
@@ -7047,7 +7047,7 @@ Advanced Hive Mind collective intelligence system for queen-led multi-agent coor
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/hive-mind-advanced
-- **Tags**: `development`, `hive-mind`, `swarm`, `queen-worker`, `consensus`, `collective-intelligence`, `multi-agent`, `coordination`
+- **Tags**: `development`, `distributed`, `multi-agent`, `orchestration`
 
 ---
 
@@ -7058,7 +7058,7 @@ Access and utilize the Hmdb Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/hmdb-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -7069,7 +7069,7 @@ Apply the Holistic Testing Model evolved with PACT (Proactive, Autonomous, Colla
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/holistic-testing-pact
-- **Tags**: `testing`, `pact-principles`, `holistic-testing`, `test-strategy`, `whole-team-quality`, `agile-testing`, `quality-culture`
+- **Tags**: `api-testing`, `testing`
 
 ---
 
@@ -7089,7 +7089,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-hook-pipeline
-- **Tags**: `ai-automation`, `devops`
+- **Tags**: `ai`, `devops`
 
 ---
 
@@ -7099,7 +7099,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -7110,7 +7110,7 @@ Automated coordination, formatting, and learning from Claude Code operations usi
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/hooks-automation
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -7121,7 +7121,7 @@ Automated coordination, formatting, and learning from Claude Code operations usi
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/hooks-automation
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -7131,7 +7131,7 @@ Automated coordination, formatting, and learning from Claude Code operations usi
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/hooks-automation
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -7142,7 +7142,7 @@ Automated coordination, formatting, and learning from Claude Code operations usi
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/hooks-automation
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -7194,7 +7194,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-hybrid-routing
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -7205,7 +7205,7 @@ Access and utilize the Hypothesis Generation methodologies for scientific resear
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/hypothesis-generation
-- **Tags**: `scientific`, `methodology`, `workflow`, `analysis`
+- **Tags**: `data`, `orchestration`, `scientific`
 
 ---
 
@@ -7215,7 +7215,7 @@ Take any claim and design + execute a complete research protocol to test it. App
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/hypothesis-testing-engine
-- **Tags**: `ai-automation`, `development`, `testing`
+- **Tags**: `ai`, `development`, `testing`
 
 ---
 
@@ -7226,7 +7226,7 @@ Take any claim and design + execute a complete research protocol to test it. App
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/hypothesis-testing-engine
-- **Tags**: `ai-automation`, `development`, `testing`
+- **Tags**: `ai`, `development`, `testing`
 
 ---
 
@@ -7236,7 +7236,7 @@ Technical reference for using IDA Swarm MCP tools. Covers system constraints, ar
 
 - **Author**: [Andrew Lazuka](https://github.com/shells-above) ([`@shells-above`](https://github.com/shells-above))
 - **Skill**: https://github.com/shells-above/ida-swarm/tree/main/skills/ida-swarm
-- **Tags**: `ai-automation`, `testing`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -7287,7 +7287,7 @@ Improves the quality of images, especially screenshots, by enhancing resolution,
 - **Author**: [ComposioHQ](https://composio.dev) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE)
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer
-- **Tags**: `image`, `enhancement`, `quality`, `screenshots`, `media`
+- **Tags**: `image`, `testing`, `ui-testing`, `video`
 
 ---
 
@@ -7337,7 +7337,7 @@ Fill out the implementation of effects of different attacks, abilities, and trai
 
 - **Author**: [Bryan Collazo](https://github.com/bcollazo) ([`@bcollazo`](https://github.com/bcollazo))
 - **Skill**: https://github.com/bcollazo/deckgym-core/tree/main/.claude/skills/implement-cards
-- **Tags**: `gaming`, `development`
+- **Tags**: `development`, `gaming`
 
 ---
 
@@ -7357,7 +7357,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-improvement-recommender
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -7367,7 +7367,7 @@ Analyze inbound leads (form fills, demo requests) and score based on ICP fit, in
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/inbound-lead-qualifier
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -7378,7 +7378,7 @@ Analyze inbound leads (form fills, demo requests) and score based on ICP fit, in
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/inbound-lead-qualifier
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -7411,7 +7411,7 @@ Basic Resource:
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/devops/infrastructure-as-code
-- **Tags**: `testing`, `ai-automation`, `development`, `terraform`, `infrastructure`, `automation`, `cloud`, `state-management`
+- **Tags**: `ai`, `automation`, `cloud`, `development`, `devops`, `terraform`, `testing`
 
 ---
 
@@ -7431,7 +7431,7 @@ Monitor injury news across leagues. Fantasy impact analysis, backup player analy
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/injury-report-tracker
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -7442,7 +7442,7 @@ Monitor injury news across leagues. Fantasy impact analysis, backup player analy
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/injury-report-tracker
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -7474,7 +7474,7 @@ Integration testing standards for API testing, database testing, and service-to-
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/testing/integration-testing
-- **Tags**: `testing`, `data-analytics`, `devops`
+- **Tags**: `data`, `devops`, `testing`
 
 ---
 
@@ -7484,7 +7484,7 @@ Monitor buyer intent signals across the web including job postings, tech changes
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/intent-signal-aggregator
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -7495,7 +7495,7 @@ Monitor buyer intent signals across the web including job postings, tech changes
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/intent-signal-aggregator
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -7506,7 +7506,7 @@ A set of resources to help me write all kinds of internal communications, using 
 - **Author**: [AgiFlow](https://github.com/AgiFlow) ([`@AgiFlow`](https://github.com/AgiFlow))
 - **License**: [MIT](https://raw.githubusercontent.com/AgiFlow/claude-code-prompt-analysis/main/LICENSE)
 - **Skill**: https://github.com/AgiFlow/claude-code-prompt-analysis/tree/main/.claude/skills/internal-comms
-- **Tags**: `writing`, `business`
+- **Tags**: `business`, `content`
 
 ---
 
@@ -7516,7 +7516,7 @@ A set of resources to help me write all kinds of internal communications, using 
 
 - **Author**: [ComposioHQ](https://github.com/ComposioHQ) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/main/internal-comms
-- **Tags**: `writing`, `business`
+- **Tags**: `business`, `content`
 
 ---
 
@@ -7526,7 +7526,7 @@ A set of resources to help me write all kinds of internal communications, using 
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/official-anthropic-skills/internal-comms
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -7536,7 +7536,7 @@ A set of resources to help me write all kinds of internal communications, using 
 
 - **Author**: [LeastBit](https://github.com/LeastBit) ([`@LeastBit`](https://github.com/LeastBit))
 - **Skill**: https://github.com/LeastBit/Claude_skills_zh-CN/tree/main/internal-comms_内部沟通
-- **Tags**: `writing`, `business`
+- **Tags**: `business`, `content`
 
 ---
 
@@ -7546,7 +7546,7 @@ A set of resources to help me write all kinds of internal communications, using 
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/enterprise-communication/internal-comms
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -7556,7 +7556,7 @@ A set of resources to help me write all kinds of internal communications, using 
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/official-skills/internal-comms
-- **Tags**: `writing`, `business`
+- **Tags**: `business`, `content`
 
 ---
 
@@ -7566,7 +7566,7 @@ A set of resources to help me write all kinds of internal communications, using 
 
 - **Author**: [mpazaryna](https://github.com/mpazaryna) ([`@mpazaryna`](https://github.com/mpazaryna))
 - **Skill**: https://github.com/mpazaryna/claude-toolkit/tree/main/skills/internal-comms
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -7577,7 +7577,7 @@ A set of resources to help me write all kinds of internal communications, using 
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/internal-comms
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -7587,7 +7587,7 @@ A set of resources to help me write all kinds of internal communications, using 
 
 - **Author**: [Prathit](https://github.com/Prat011) ([`@Prat011`](https://github.com/Prat011))
 - **Skill**: https://github.com/Prat011/awesome-llm-skills/tree/main/internal-comms
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -7598,7 +7598,7 @@ A set of resources to help write all kinds of internal communications, using the
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/anthropics/skills/main/internal-comms/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/internal-comms
-- **Tags**: `communication`, `documentation`, `business`, `writing`, `internal`
+- **Tags**: `business`, `collaboration`, `content`, `documentation`
 
 ---
 
@@ -7608,7 +7608,7 @@ Casual but professional tone for team communication. Uses company-specific termi
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/internal-email-composer
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -7619,7 +7619,7 @@ Casual but professional tone for team communication. Uses company-specific termi
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/internal-email-composer
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -7639,7 +7639,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-intervention-detector
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -7649,7 +7649,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-intervention-orchestrator
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -7660,7 +7660,7 @@ Flip assumptions to uncover hidden insights and constraints by thinking about pr
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/inversion-exercise
-- **Tags**: `problem-solving`, `thinking`, `strategy`, `analysis`
+- **Tags**: `business`, `data`
 
 ---
 
@@ -7670,7 +7670,7 @@ Flip core assumptions to reveal hidden constraints and alternative approaches - 
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/problem-solving/inversion-exercise
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -7691,7 +7691,7 @@ Automatically organizes invoices and receipts for tax preparation by reading fil
 - **Author**: [ComposioHQ](https://composio.dev) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE)
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer
-- **Tags**: `invoices`, `finance`, `organization`, `tax`, `receipts`
+- **Tags**: `business`, `project-management`
 
 ---
 
@@ -7722,7 +7722,7 @@ Enable Claude to interact with iOS Simulator for testing and debugging iOS appli
 - **Author**: [Conor Luddy](https://github.com/conorluddy) ([`@conorluddy`](https://github.com/conorluddy))
 - **License**: [MIT](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/LICENSE)
 - **Skill**: https://github.com/conorluddy/ios-simulator-skill
-- **Tags**: `ios`, `simulator`, `testing`, `mobile`, `xcode`, `automation`
+- **Tags**: `automation`, `mobile`, `swift`, `testing`
 
 ---
 
@@ -7732,7 +7732,7 @@ This Claude Skill can be used to build, test, and automate iOS apps. 13 producti
 
 - **Author**: [Conor](https://github.com/conorluddy) ([`@conorluddy`](https://github.com/conorluddy))
 - **Skill**: https://github.com/conorluddy/ios-simulator-skill/tree/main/skill
-- **Tags**: `testing`, `ai-automation`, `development`
+- **Tags**: `ai`, `development`, `testing`
 
 ---
 
@@ -7743,7 +7743,7 @@ Use picocom to interact with IoT device UART consoles for pentesting operations 
 - **Author**: [BrownFineSecurity](https://github.com/BrownFineSecurity) ([`@BrownFineSecurity`](https://github.com/BrownFineSecurity))
 - **License**: [MIT](https://raw.githubusercontent.com/BrownFineSecurity/picocom-claude-skill/master/LICENSE)
 - **Skill**: https://github.com/BrownFineSecurity/picocom-claude-skill/tree/main/.claude/skills/picocom
-- **Tags**: `testing`, `security`
+- **Tags**: `security`, `testing`
 
 ---
 
@@ -7764,7 +7764,7 @@ Efficiently route multi-stop trips with time management. Include transportation,
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/itinerary-optimizer
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -7775,7 +7775,7 @@ Efficiently route multi-stop trips with time management. Include transportation,
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/itinerary-optimizer
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -7797,7 +7797,7 @@ JavaScript/ES6+ coding standards following Airbnb guidelines, modern patterns, R
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/coding-standards/javascript
-- **Tags**: `testing`, `web`, `development`
+- **Tags**: `development`, `testing`, `web`
 
 ---
 
@@ -7807,7 +7807,7 @@ Core JavaScript language features, patterns, and best practices including ES6+ s
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-frontend-essentials/skills/javascript-fundamentals
-- **Tags**: `design`, `javascript`, `es6`, `async`, `closures`, `prototypes`, `programming`
+- **Tags**: `async`, `design`, `development`, `javascript`
 
 ---
 
@@ -7858,7 +7858,7 @@ Optimize job applications by tailoring resumes to job postings, generating custo
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/job-application-optimizer
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -7869,7 +7869,7 @@ Optimize job applications by tailoring resumes to job postings, generating custo
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/job-application-optimizer
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -7890,7 +7890,7 @@ Create production-ready Kubernetes manifests for Deployments, Services, ConfigMa
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/k8s-manifest-generator
-- **Tags**: `science`, `security`, `design`
+- **Tags**: `design`, `scientific`, `security`
 
 ---
 
@@ -7900,7 +7900,7 @@ Create production-ready Kubernetes manifests for Deployments, Services, ConfigMa
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/kubernetes-operations/k8s-manifest-generator
-- **Tags**: `science`, `security`, `design`
+- **Tags**: `design`, `scientific`, `security`
 
 ---
 
@@ -7911,7 +7911,7 @@ Create production-ready Kubernetes manifests for Deployments, Services, ConfigMa
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/k8s-manifest-generator
-- **Tags**: `science`, `security`, `design`
+- **Tags**: `design`, `scientific`, `security`
 
 ---
 
@@ -7921,7 +7921,7 @@ Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolic
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/k8s-security-policies
-- **Tags**: `security`, `devops`
+- **Tags**: `devops`, `security`
 
 ---
 
@@ -7931,7 +7931,7 @@ Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolic
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/kubernetes-operations/k8s-security-policies
-- **Tags**: `security`, `devops`
+- **Tags**: `devops`, `security`
 
 ---
 
@@ -7942,7 +7942,7 @@ Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolic
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/k8s-security-policies
-- **Tags**: `security`, `devops`
+- **Tags**: `devops`, `security`
 
 ---
 
@@ -7952,7 +7952,7 @@ Complete guide for Apache Kafka stream processing including producers, consumers
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-data-engineering/skills/kafka-stream-processing
-- **Tags**: `development`, `kafka`, `streaming`, `event-driven`, `producers`, `consumers`, `kafka-streams`, `connectors`, `real-time`
+- **Tags**: `development`, `event-driven`, `kafka`, `web`
 
 ---
 
@@ -7973,7 +7973,7 @@ Access and utilize the Kegg Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/kegg-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -8005,7 +8005,7 @@ Progressive learning methodology for structured onboarding using time-boxed lear
 - **Author**: [Yale Huang](https://github.com/yaleh) ([`@yaleh`](https://github.com/yaleh))
 - **License**: [MIT](https://raw.githubusercontent.com/yaleh/meta-cc/main/LICENSE)
 - **Skill**: https://github.com/yaleh/meta-cc/tree/main/.claude/skills/knowledge-transfer
-- **Tags**: `writing`, `ai-automation`, `development`
+- **Tags**: `ai`, `content`, `development`
 
 ---
 
@@ -8016,7 +8016,7 @@ Master Kotlin coding standards with null safety, coroutines, and idiomatic patte
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/coding-standards/kotlin
-- **Tags**: `development`, `kotlin`, `android`, `jvm`, `coroutines`, `null-safety`
+- **Tags**: `async`, `development`, `java`, `kotlin`, `mobile`
 
 ---
 
@@ -8027,7 +8027,7 @@ Kubernetes standards for container orchestration, deployments, services, ingress
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/cloud-native/kubernetes
-- **Tags**: `security`, `design`, `devops`
+- **Tags**: `design`, `devops`, `security`
 
 ---
 
@@ -8037,7 +8037,7 @@ Comprehensive guide to Kubernetes container orchestration, covering workloads, n
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-devops-suite/skills/kubernetes-orchestration
-- **Tags**: `security`, `devops`, `ai-automation`, `kubernetes`, `k8s`, `containers`, `orchestration`, `cloud-native`, `deployment`, `microservices`, `infrastructure`, `container-management`
+- **Tags**: `ai`, `ci-cd`, `cloud`, `devops`, `docker`, `kubernetes`, `microservices`
 
 ---
 
@@ -8048,7 +8048,7 @@ Access and utilize the Labarchive Integration integration for laboratory workflo
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/labarchive-integration
-- **Tags**: `scientific`, `integration`, `platform`, `workflow`
+- **Tags**: `integration-testing`, `orchestration`, `scientific`
 
 ---
 
@@ -8058,7 +8058,7 @@ Write high-converting landing page copy using proven frameworks like PAS (Proble
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/landing-page-copywriter
-- **Tags**: `design`, `business`
+- **Tags**: `business`, `design`
 
 ---
 
@@ -8069,7 +8069,7 @@ Write high-converting landing page copy using proven frameworks like PAS (Proble
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/landing-page-copywriter
-- **Tags**: `design`, `business`
+- **Tags**: `business`, `design`
 
 ---
 
@@ -8120,7 +8120,7 @@ Comprehensive guide for building production-grade LLM applications using LangCha
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-ai-integration/skills/langchain-orchestration
-- **Tags**: `design`, `langchain`, `llm`, `chains`, `agents`, `rag`, `memory`, `retrieval`, `orchestration`, `streaming`, `callbacks`, `python`
+- **Tags**: `async`, `design`, `kafka`, `langchain`, `llm`, `multi-agent`, `orchestration`
 
 ---
 
@@ -8130,7 +8130,7 @@ Comprehensive guide for building declarative AI Services with LangChain4j using 
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/langchain4j/langchain4j-ai-services-patterns
-- **Tags**: `design`, `langchain4j`, `ai-services`, `annotations`, `declarative`, `tools`, `memory`, `function-calling`, `llm`, `java`
+- **Tags**: `ai`, `design`, `devops`, `java`, `langchain`, `llm`
 
 ---
 
@@ -8140,7 +8140,7 @@ Model Context Protocol (MCP) server implementation patterns with LangChain4j. Us
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/langchain4j/langchain4j-mcp-server-patterns
-- **Tags**: `design`, `langchain4j`, `mcp`, `model-context-protocol`, `tools`, `ai-services`, `java`, `spring-boot`
+- **Tags**: `ai`, `design`, `java`, `langchain`, `library`, `llm`, `spring`
 
 ---
 
@@ -8150,7 +8150,7 @@ Retrieval-Augmented Generation (RAG) implementation patterns with LangChain4j. R
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/langchain4j/langchain4j-rag-implementation-patterns
-- **Tags**: `design`, `langchain4j`, `rag`, `retrieval-augmented-generation`, `embedding`, `vector-search`, `document-ingestion`, `content-retrieval`, `java`
+- **Tags**: `design`, `embeddings`, `java`, `langchain`, `rag`
 
 ---
 
@@ -8160,7 +8160,7 @@ Integration patterns for LangChain4j with Spring Boot. Auto-configuration, depen
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/langchain4j/langchain4j-spring-boot-integration
-- **Tags**: `ai-automation`, `development`, `langchain4j`, `spring-boot`, `ai`, `llm`, `rag`, `chatbot`, `integration`, `configuration`, `java`
+- **Tags**: `ai`, `development`, `integration-testing`, `java`, `langchain`, `llm`, `rag`
 
 ---
 
@@ -8170,7 +8170,7 @@ Testing strategies for LangChain4j-powered applications. Mock LLM responses, tes
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/langchain4j/langchain4j-testing-strategies
-- **Tags**: `ai-automation`, `development`, `testing`, `langchain4j`, `unit-tests`, `integration-tests`, `testcontainers`, `java`, `ai`, `llm`, `mock`
+- **Tags**: `ai`, `development`, `integration-testing`, `java`, `langchain`, `llm`, `mockito`
 
 ---
 
@@ -8180,7 +8180,7 @@ Tool and function calling patterns with LangChain4j. Define tools, handle functi
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/langchain4j/langchain4j-tool-function-calling-patterns
-- **Tags**: `design`, `langchain4j`, `tools`, `function-calling`, `@Tool`, `ToolProvider`, `ToolExecutor`, `dynamic-tools`, `parameter-descriptions`, `java`
+- **Tags**: `design`, `java`, `langchain`, `llm`
 
 ---
 
@@ -8190,7 +8190,7 @@ Configure LangChain4J vector stores for RAG applications. Use when building sema
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/langchain4j/langchain4j-vector-stores-configuration
-- **Tags**: `ai-automation`, `data-analytics`, `development`, `langchain4j`, `vector-stores`, `embeddings`, `rag`, `semantic-search`, `ai`, `llm`, `java`, `databases`
+- **Tags**: `ai`, `data`, `database`, `development`, `embeddings`, `java`, `langchain`
 
 ---
 
@@ -8200,7 +8200,7 @@ Configure LangChain4J vector stores for RAG applications. Use when building sema
 
 - **Author**: [Interstellar-code](https://github.com/Interstellar-code) ([`@Interstellar-code`](https://github.com/Interstellar-code))
 - **Skill**: https://github.com/Interstellar-code/claud-skills/tree/main/generic-claude-framework/skills/lark-agent
-- **Tags**: `science`, `web`, `ai-automation`
+- **Tags**: `ai`, `scientific`, `web`
 
 ---
 
@@ -8210,7 +8210,7 @@ Configure LangChain4J vector stores for RAG applications. Use when building sema
 
 - **Author**: [Interstellar-code](https://github.com/Interstellar-code) ([`@Interstellar-code`](https://github.com/Interstellar-code))
 - **Skill**: https://github.com/Interstellar-code/claud-skills/tree/main/generic-claude-framework/skills/lark-agent-simple
-- **Tags**: `science`, `web`, `ai-automation`
+- **Tags**: `ai`, `scientific`, `web`
 
 ---
 
@@ -8221,7 +8221,7 @@ Access and utilize the Latchbio Integration integration for laboratory workflows
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/latchbio-integration
-- **Tags**: `scientific`, `integration`, `platform`, `workflow`
+- **Tags**: `integration-testing`, `orchestration`, `scientific`
 
 ---
 
@@ -8241,7 +8241,7 @@ Identifies high-quality leads for your product or service by analyzing your busi
 
 - **Author**: [Prathit](https://github.com/Prat011) ([`@Prat011`](https://github.com/Prat011))
 - **Skill**: https://github.com/Prat011/awesome-llm-skills/tree/main/lead-research-assistant
-- **Tags**: `development`, `science`
+- **Tags**: `development`, `scientific`
 
 ---
 
@@ -8304,7 +8304,7 @@ Use when managing Linear issues, creating tasks from conversations, tracking wor
 
 - **Author**: [Braydon McCormick](https://github.com/dbmcco) ([`@dbmcco`](https://github.com/dbmcco))
 - **Skill**: https://github.com/dbmcco/claude-agent-toolkit/tree/main/skills/linear
-- **Tags**: `data-analytics`, `web`
+- **Tags**: `data`, `web`
 
 ---
 
@@ -8314,7 +8314,7 @@ Accelerate software development with Linear project management and MCP server in
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-specialized-tools/skills/linear-dev-accelerator
-- **Tags**: `web`, `project-management`, `development`
+- **Tags**: `development`, `project-management`, `web`
 
 ---
 
@@ -8324,7 +8324,7 @@ This skill fetches open tasks assigned to the user from the Linear API and gener
 
 - **Author**: [qdhenry](https://github.com/qdhenry) ([`@qdhenry`](https://github.com/qdhenry))
 - **Skill**: https://github.com/qdhenry/Claude-Command-Suite/tree/main/.claude/skills/linear-todo-sync
-- **Tags**: `science`, `project-management`, `productivity`
+- **Tags**: `productivity`, `project-management`, `scientific`
 
 ---
 
@@ -8334,7 +8334,7 @@ Professional narrative style with line breaks, hashtag strategy, and hooks in fi
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/linkedin-post-optimizer
-- **Tags**: `writing`, `business`
+- **Tags**: `business`, `content`
 
 ---
 
@@ -8345,7 +8345,7 @@ Professional narrative style with line breaks, hashtag strategy, and hooks in fi
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/linkedin-post-optimizer
-- **Tags**: `writing`, `business`
+- **Tags**: `business`, `content`
 
 ---
 
@@ -8376,7 +8376,7 @@ Expert assistant for using litdb - a literature and document database for scient
 
 - **Author**: [John Kitchin](https://github.com/jkitchin) ([`@jkitchin`](https://github.com/jkitchin))
 - **Skill**: https://github.com/jkitchin/litdb
-- **Tags**: `data-analytics`, `documentation`, `science`
+- **Tags**: `data`, `documentation`, `scientific`
 
 ---
 
@@ -8387,7 +8387,7 @@ Access and utilize the Literature Review methodologies for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/literature-review
-- **Tags**: `scientific`, `methodology`, `workflow`, `analysis`
+- **Tags**: `data`, `orchestration`, `scientific`
 
 ---
 
@@ -8397,7 +8397,7 @@ Implement comprehensive evaluation strategies for LLM applications using automat
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/llm-evaluation
-- **Tags**: `testing`, `ai-automation`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -8407,7 +8407,7 @@ Implement comprehensive evaluation strategies for LLM applications using automat
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/llm-application-dev/llm-evaluation
-- **Tags**: `testing`, `ai-automation`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -8418,7 +8418,7 @@ Implement comprehensive evaluation strategies for LLM applications using automat
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/llm-evaluation
-- **Tags**: `testing`, `ai-automation`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -8429,7 +8429,7 @@ Internationalization (i18n) and localization (l10n) testing for global products 
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/localization-testing
-- **Tags**: `science`, `testing`, `i18n`, `l10n`, `localization`, `internationalization`, `translations`, `rtl`, `locale`
+- **Tags**: `scientific`, `testing`, `web`
 
 ---
 
@@ -8492,7 +8492,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-loop2-output-processing
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -8502,7 +8502,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-loop3-output-processing
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -8512,7 +8512,7 @@ Scans and refactors deprecated Magento 2 controller patterns to modern HTTP verb
 
 - **Author**: [Lucas van Staden](https://github.com/ProxiBlue) ([`@ProxiBlue`](https://github.com/ProxiBlue))
 - **Skill**: https://github.com/ProxiBlue/claude-skills/tree/main/magento-controller-refactor
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -8544,7 +8544,7 @@ Systematically fix linting issues in markdown files using markdownlint-cli2. Thi
 - **License**: MIT
 - **Skill**: https://github.com/s2005/markdown-linter-fixer-skill
 - **Download**: https://github.com/s2005/markdown-linter-fixer-skill/releases/download/v1.5.4/markdown-linter-fixer-skill.zip
-- **Tags**: `markdown`, `linter`, `markdownlint`, `formatting`, `md029`, `documentation`, `md`
+- **Tags**: `documentation`, `linting`, `markdown`
 
 ---
 
@@ -8598,7 +8598,7 @@ Multi-channel demand generation, paid media optimization, SEO strategy, and part
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/marketing-demand-acquisition
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -8620,7 +8620,7 @@ Access and utilize the Matchms Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/matchms
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -8631,7 +8631,7 @@ Access and utilize the Matplotlib Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/matplotlib
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -8652,7 +8652,7 @@ Guide for creating high-quality MCP (Model Context Protocol) servers that enable
 - **Author**: [AgiFlow](https://github.com/AgiFlow) ([`@AgiFlow`](https://github.com/AgiFlow))
 - **License**: [MIT](https://raw.githubusercontent.com/AgiFlow/claude-code-prompt-analysis/main/LICENSE)
 - **Skill**: https://github.com/AgiFlow/claude-code-prompt-analysis/tree/main/.claude/skills/mcp-builder
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -8662,7 +8662,7 @@ Guide for creating high-quality MCP (Model Context Protocol) servers that enable
 
 - **Author**: [basher83](https://github.com/basher83) ([`@basher83`](https://github.com/basher83))
 - **Skill**: https://github.com/basher83/Zammad-MCP/tree/main/.claude/skills/mcp-builder
-- **Tags**: `science`, `web`
+- **Tags**: `scientific`, `web`
 
 ---
 
@@ -8672,7 +8672,7 @@ Guide for creating high-quality MCP (Model Context Protocol) servers that enable
 
 - **Author**: [ComposioHQ](https://github.com/ComposioHQ) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/main/mcp-builder
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -8682,7 +8682,7 @@ Guide for creating high-quality MCP (Model Context Protocol) servers that enable
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/official-anthropic-skills/mcp-builder
-- **Tags**: `science`, `web`
+- **Tags**: `scientific`, `web`
 
 ---
 
@@ -8692,7 +8692,7 @@ Guide for creating high-quality MCP (Model Context Protocol) servers that enable
 
 - **Author**: [LeastBit](https://github.com/LeastBit) ([`@LeastBit`](https://github.com/LeastBit))
 - **Skill**: https://github.com/LeastBit/Claude_skills_zh-CN/tree/main/mcp-builder_MCP构建器
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -8702,7 +8702,7 @@ Guide for creating high-quality MCP (Model Context Protocol) servers that enable
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/backend-development/mcp-builder
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -8712,7 +8712,7 @@ Guide for creating high-quality MCP (Model Context Protocol) servers that enable
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/uncategorized/mcp-builder
-- **Tags**: `science`, `web`
+- **Tags**: `scientific`, `web`
 
 ---
 
@@ -8723,7 +8723,7 @@ Guide for creating high-quality MCP (Model Context Protocol) servers that enable
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/anthropics/skills/main/mcp-builder/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/mcp-builder
-- **Tags**: `mcp`, `tools`, `server`, `developer`, `integration`
+- **Tags**: `development`, `integration-testing`, `library`, `llm`, `web`
 
 ---
 
@@ -8733,7 +8733,7 @@ Guide for creating high-quality MCP (Model Context Protocol) servers that enable
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mcp-builder
-- **Tags**: `science`, `web`
+- **Tags**: `scientific`, `web`
 
 ---
 
@@ -8744,7 +8744,7 @@ Guide for creating high-quality MCP (Model Context Protocol) servers that enable
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/mcp-builder
-- **Tags**: `ai-automation`, `science`, `web`
+- **Tags**: `ai`, `scientific`, `web`
 
 ---
 
@@ -8754,7 +8754,7 @@ Guide for creating high-quality MCP (Model Context Protocol) servers that enable
 
 - **Author**: [Prathit](https://github.com/Prat011) ([`@Prat011`](https://github.com/Prat011))
 - **Skill**: https://github.com/Prat011/awesome-llm-skills/tree/main/mcp-builder
-- **Tags**: `science`, `web`
+- **Tags**: `scientific`, `web`
 
 ---
 
@@ -8765,7 +8765,7 @@ Guide for creating high-quality MCP (Model Context Protocol) servers that enable
 - **Author**: [Sam](https://github.com/sammcj) ([`@sammcj`](https://github.com/sammcj))
 - **License**: [Apache 2.0](https://raw.githubusercontent.com/sammcj/agentic-coding/main/LICENSE)
 - **Skill**: https://github.com/sammcj/agentic-coding/tree/main/Claude/skills/mcp-builder
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -8776,7 +8776,7 @@ EU MDR 2017/745 regulation specialist and consultant for medical device requirem
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/mdr-745-specialist
-- **Tags**: `security`, `documentation`
+- **Tags**: `documentation`, `security`
 
 ---
 
@@ -8787,7 +8787,7 @@ Access and utilize the Medchem Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/medchem
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -8828,7 +8828,7 @@ Transforms meeting transcripts into actionable insights about communication patt
 - **Author**: [ComposioHQ](https://composio.dev) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE)
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer
-- **Tags**: `meetings`, `analysis`, `communication`, `insights`, `collaboration`
+- **Tags**: `collaboration`, `data`
 
 ---
 
@@ -8838,7 +8838,7 @@ Analyzes meeting transcripts and recordings to uncover behavioral patterns, comm
 
 - **Author**: [Prathit](https://github.com/Prat011) ([`@Prat011`](https://github.com/Prat011))
 - **Skill**: https://github.com/Prat011/awesome-llm-skills/tree/main/meeting-insights-analyzer
-- **Tags**: `data-analytics`, `productivity`
+- **Tags**: `data`, `productivity`
 
 ---
 
@@ -8881,7 +8881,7 @@ Identify patterns across domains to uncover universal principles and transferabl
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/meta-pattern-recognition
-- **Tags**: `patterns`, `analysis`, `thinking`, `insights`
+- **Tags**: `architecture`, `data`
 
 ---
 
@@ -8902,7 +8902,7 @@ Spot patterns appearing in 3+ domains to find universal principles
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/problem-solving/meta-pattern-recognition
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -8913,7 +8913,7 @@ Access and utilize the Metabolomics Workbench Database database for scientific r
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/metabolomics-workbench-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -8986,7 +8986,7 @@ Validates CakePHP migration files and ensures consistency between migrations, fi
 
 - **Author**: [masanao-ohba](https://github.com/masanao-ohba) ([`@masanao-ohba`](https://github.com/masanao-ohba))
 - **Skill**: https://github.com/masanao-ohba/claude-manifests/tree/main/skills/php-cakephp/migration-checker
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -8997,7 +8997,7 @@ Create database migrations from model changes, schema diffs, and migration best 
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/migration-generator
-- **Tags**: `science`, `data-analytics`
+- **Tags**: `data`, `scientific`
 
 ---
 
@@ -9007,7 +9007,7 @@ Create database migrations from model changes, schema diffs, and migration best 
 
 - **Author**: [fleurytian](https://github.com/fleurytian) ([`@fleurytian`](https://github.com/fleurytian))
 - **Skill**: https://github.com/fleurytian/fleurysclaudeskills/tree/main/mimeng-writing
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -9018,7 +9018,7 @@ Maintain and evolve interactive mind maps generated from OPML outlines and XML p
 - **Author**: [Ray Villalobos](https://github.com/planetoftheweb) ([`@planetoftheweb`](https://github.com/planetoftheweb))
 - **License**: [MIT](https://raw.githubusercontent.com/planetoftheweb/mindmap-skill/main/LICENSE.txt)
 - **Skill**: https://github.com/planetoftheweb/mindmap-skill
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -9050,7 +9050,7 @@ MLOps engineering covering ML pipeline design, model versioning, experiment trac
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/ml-ai/mlops
-- **Tags**: `testing`, `ai-automation`, `development`, `mlops`, `machine-learning`, `model-deployment`, `ml-pipelines`, `model-monitoring`, `mlflow`, `kubeflow`
+- **Tags**: `ai`, `development`, `kubernetes`, `mlops`, `testing`
 
 ---
 
@@ -9060,7 +9060,7 @@ Comprehensive MLOps workflows for the complete ML lifecycle - experiment trackin
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-data-engineering/skills/mlops-workflows
-- **Tags**: `testing`, `mlops`, `mlflow`, `experiment-tracking`, `model-registry`, `deployment`, `monitoring`, `ml-lifecycle`, `feature-stores`, `ci-cd`, `model-versioning`, `a-b-testing`, `production-ml`
+- **Tags**: `ci-cd`, `mlops`, `monitoring`, `testing`
 
 ---
 
@@ -9070,7 +9070,7 @@ EARS (Easy Approach to Requirements Syntax) authoring with 5 statement patterns 
 
 - **Author**: [modu-ai](https://github.com/modu-ai) ([`@modu-ai`](https://github.com/modu-ai))
 - **Skill**: https://github.com/modu-ai/moai-adk/tree/main/.claude/skills/moai-alfred-ears-authoring
-- **Tags**: `security`, `writing`
+- **Tags**: `content`, `security`
 
 ---
 
@@ -9150,7 +9150,7 @@ Authoring CLAUDE.md Project Instructions. Design project-specific AI guidance, d
 
 - **Author**: [modu-ai](https://github.com/modu-ai) ([`@modu-ai`](https://github.com/modu-ai))
 - **Skill**: https://github.com/modu-ai/moai-adk/tree/main/.claude/skills/moai-cc-claude-md
-- **Tags**: `security`, `writing`, `ai-automation`
+- **Tags**: `ai`, `content`, `security`
 
 ---
 
@@ -9180,7 +9180,7 @@ Configuring MCP Servers & Plugins for Claude Code. Set up Model Context Protocol
 
 - **Author**: [modu-ai](https://github.com/modu-ai) ([`@modu-ai`](https://github.com/modu-ai))
 - **Skill**: https://github.com/modu-ai/moai-adk/tree/main/.claude/skills/moai-cc-mcp-plugins
-- **Tags**: `security`, `data-analytics`, `ai-automation`
+- **Tags**: `ai`, `data`, `security`
 
 ---
 
@@ -9200,7 +9200,7 @@ Configuring Claude Code settings.json & Security. Set up permissions (allow/deny
 
 - **Author**: [modu-ai](https://github.com/modu-ai) ([`@modu-ai`](https://github.com/modu-ai))
 - **Skill**: https://github.com/modu-ai/moai-adk/tree/main/.claude/skills/moai-cc-settings
-- **Tags**: `security`, `ai-automation`, `development`
+- **Tags**: `ai`, `development`, `security`
 
 ---
 
@@ -9250,7 +9250,7 @@ Database design, schema optimization, indexing strategies, and migration managem
 
 - **Author**: [modu-ai](https://github.com/modu-ai) ([`@modu-ai`](https://github.com/modu-ai))
 - **Skill**: https://github.com/modu-ai/moai-adk/tree/main/.claude/skills/moai-domain-database
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -9570,7 +9570,7 @@ SQL best practices with pgTAP, sqlfluff 3.2, query optimization, and migration m
 
 - **Author**: [modu-ai](https://github.com/modu-ai) ([`@modu-ai`](https://github.com/modu-ai))
 - **Skill**: https://github.com/modu-ai/moai-adk/tree/main/.claude/skills/moai-lang-sql
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -9610,7 +9610,7 @@ SPEC 문서 작성 가이드 - YAML 메타데이터, EARS 문법, 검증 체크�
 
 - **Author**: [modu-ai](https://github.com/modu-ai) ([`@modu-ai`](https://github.com/modu-ai))
 - **Skill**: https://github.com/modu-ai/moai-adk/tree/main/.claude/skills/moai-spec-authoring
-- **Tags**: `security`, `writing`
+- **Tags**: `content`, `security`
 
 ---
 
@@ -9631,7 +9631,7 @@ Mobile UX patterns, touch interactions, gesture design, mobile-first principles,
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-frontend-essentials/skills/mobile-design
-- **Tags**: `development`, `mobile`, `ux`, `touch`, `gestures`, `navigation`, `mobile-first`, `ios`, `android`
+- **Tags**: `design`, `development`, `mobile`, `web`
 
 ---
 
@@ -9653,7 +9653,7 @@ Comprehensive mobile testing for iOS and Android platforms including gestures, s
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/mobile-testing
-- **Tags**: `testing`, `web`, `mobile-testing`, `ios`, `android`, `appium`, `device-fragmentation`, `mobile-performance`, `gestures`
+- **Tags**: `mobile`, `selenium`, `testing`, `web`
 
 ---
 
@@ -9706,7 +9706,7 @@ Master ES6+ features including async/await, destructuring, spread operators, arr
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/modern-javascript-patterns
-- **Tags**: `science`, `development`
+- **Tags**: `development`, `scientific`
 
 ---
 
@@ -9716,7 +9716,7 @@ Master ES6+ features including async/await, destructuring, spread operators, arr
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/javascript-typescript/modern-javascript-patterns
-- **Tags**: `science`, `development`
+- **Tags**: `development`, `scientific`
 
 ---
 
@@ -9727,7 +9727,7 @@ Master ES6+ features including async/await, destructuring, spread operators, arr
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/javascript-typescript/skills/modern-javascript-patterns
-- **Tags**: `science`, `development`
+- **Tags**: `development`, `scientific`
 
 ---
 
@@ -9738,7 +9738,7 @@ Access and utilize the Molfeat Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/molfeat
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -9748,7 +9748,7 @@ Guide for implementing MongoDB - a document database platform with CRUD operatio
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mongodb
-- **Tags**: `data-analytics`, `devops`, `documentation`, `security`
+- **Tags**: `data`, `devops`, `documentation`, `security`
 
 ---
 
@@ -9770,7 +9770,7 @@ Master monitoring and observability for distributed systems
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/devops/monitoring-observability
-- **Tags**: `development`, `monitoring`, `observability`, `prometheus`, `grafana`, `elk`, `opentelemetry`, `metrics`, `logging`, `tracing`
+- **Tags**: `development`, `monitoring`
 
 ---
 
@@ -9802,7 +9802,7 @@ Analyzes Move language packages against the official Move Book Code Quality Chec
 - **Author**: [Nick Pappas](https://github.com/1NickPappas) ([`@1NickPappas`](https://github.com/1NickPappas))
 - **License**: [MIT](https://raw.githubusercontent.com/1NickPappas/move-code-quality-skill/main/LICENSE)
 - **Skill**: https://github.com/1NickPappas/move-code-quality-skill
-- **Tags**: `move`, `blockchain`, `code-quality`, `linting`, `best-practices`
+- **Tags**: `blockchain`, `clean-code`, `linting`, `rust`
 
 ---
 
@@ -9823,7 +9823,7 @@ Design multi-cloud architectures using a decision framework to select and integr
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/multi-cloud-architecture
-- **Tags**: `devops`, `ai-automation`
+- **Tags**: `ai`, `devops`
 
 ---
 
@@ -9833,7 +9833,7 @@ Design multi-cloud architectures using a decision framework to select and integr
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/cloud-infrastructure/multi-cloud-architecture
-- **Tags**: `devops`, `ai-automation`
+- **Tags**: `ai`, `devops`
 
 ---
 
@@ -9844,7 +9844,7 @@ Design multi-cloud architectures using a decision framework to select and integr
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/multi-cloud-architecture
-- **Tags**: `devops`, `ai-automation`
+- **Tags**: `ai`, `devops`
 
 ---
 
@@ -9854,7 +9854,7 @@ Handles multi-tenant database connections and operations for CakePHP projects us
 
 - **Author**: [masanao-ohba](https://github.com/masanao-ohba) ([`@masanao-ohba`](https://github.com/masanao-ohba))
 - **Skill**: https://github.com/masanao-ohba/claude-manifests/tree/main/skills/php-cakephp/multi-tenant-db-handler
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -9865,7 +9865,7 @@ Test quality validation through mutation testing, assessing test suite effective
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/mutation-testing
-- **Tags**: `testing`, `mutation-testing`, `test-quality`, `mutation-score`, `stryker`, `test-effectiveness`
+- **Tags**: `mutation-testing`, `testing`
 
 ---
 
@@ -9875,7 +9875,7 @@ Construct statistical arguments for MVP/awards. Narrative framing, comparison to
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/mvp-case-builder
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -9886,7 +9886,7 @@ Construct statistical arguments for MVP/awards. Narrative framing, comparison to
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/mvp-case-builder
-- **Tags**: `ai-automation`, `data-analytics`
+- **Tags**: `ai`, `data`
 
 ---
 
@@ -9897,7 +9897,7 @@ Use when user mentions mystery, detective, crime, or suspense-focused narrative 
 - **Author**: [wordflowlab](https://github.com/wordflowlab) ([`@wordflowlab`](https://github.com/wordflowlab))
 - **License**: [MIT](https://raw.githubusercontent.com/wordflowlab/novel-writer-skills/main/LICENSE)
 - **Skill**: https://github.com/wordflowlab/novel-writer-skills/tree/main/templates/skills/genre-knowledge/mystery
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -9908,7 +9908,7 @@ Use when user mentions mystery, detective, crime, or suspense-focused narrative 
 - **Author**: [wordflowlab](https://github.com/wordflowlab) ([`@wordflowlab`](https://github.com/wordflowlab))
 - **License**: [Apache 2.0](https://raw.githubusercontent.com/wordflowlab/novelweave/main/LICENSE)
 - **Skill**: https://github.com/wordflowlab/novelweave/tree/main/templates/skills/genre-knowledge/mystery
-- **Tags**: `gaming`, `writing`
+- **Tags**: `content`, `gaming`
 
 ---
 
@@ -10071,7 +10071,7 @@ Create Standard Operating Procedures after solving novel issues, establishing pa
 
 - **Author**: [Aleks Petrov](https://github.com/alekspetrov) ([`@alekspetrov`](https://github.com/alekspetrov))
 - **Skill**: https://github.com/alekspetrov/navigator/tree/main/skills/nav-sop
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -10111,7 +10111,7 @@ Automates Navigator plugin updates. Detects current version, updates plugin, ver
 
 - **Author**: [Aleks Petrov](https://github.com/alekspetrov) ([`@alekspetrov`](https://github.com/alekspetrov))
 - **Skill**: https://github.com/alekspetrov/navigator/tree/main/skills/nav-upgrade
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -10122,7 +10122,7 @@ Access and utilize the Neurokit2 Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/neurokit2
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -10132,7 +10132,7 @@ Access and utilize the Neurokit2 Python package for scientific computing.
 
 - **Author**: [Toy](https://github.com/cfrs2005) ([`@cfrs2005`](https://github.com/cfrs2005))
 - **Skill**: https://github.com/cfrs2005/claude-init/tree/main/templates/.claude/skills/news
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -10142,7 +10142,7 @@ Guide for implementing Next.js - a React framework for production with server-si
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/nextjs
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -10152,7 +10152,7 @@ Comprehensive Next.js development skill covering App Router, Server Components, 
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-frontend-essentials/skills/nextjs-development
-- **Tags**: `web`, `nextjs`, `react`, `app-router`, `server-components`, `data-fetching`, `routing`, `api-routes`, `middleware`, `full-stack`
+- **Tags**: `api`, `react`, `web`
 
 ---
 
@@ -10162,7 +10162,7 @@ Use when user wants to create a new Next.js 15 project (Todo/Blog/Dashboard/E-co
 
 - **Author**: [suji-father](https://github.com/bear2u) ([`@bear2u`](https://github.com/bear2u))
 - **Skill**: https://github.com/bear2u/my-skills/tree/main/.claude/skills/nextjs15-init
-- **Tags**: `ai-automation`, `data-analytics`
+- **Tags**: `ai`, `data`
 
 ---
 
@@ -10172,7 +10172,7 @@ Use when user wants to create a new Next.js 15 project (Todo/Blog/Dashboard/E-co
 
 - **Author**: [suji-father](https://github.com/bear2u) ([`@bear2u`](https://github.com/bear2u))
 - **Skill**: https://github.com/bear2u/my-skills/tree/main/skills/nextjs15-init
-- **Tags**: `ai-automation`, `data-analytics`
+- **Tags**: `ai`, `data`
 
 ---
 
@@ -10235,7 +10235,7 @@ Build production-ready Node.js backend services with Express/Fastify, implementi
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/nodejs-backend-patterns
-- **Tags**: `security`, `data-analytics`, `web`
+- **Tags**: `data`, `security`, `web`
 
 ---
 
@@ -10245,7 +10245,7 @@ Build production-ready Node.js backend services with Express/Fastify, implementi
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/javascript-typescript/nodejs-backend-patterns
-- **Tags**: `security`, `data-analytics`, `web`
+- **Tags**: `data`, `security`, `web`
 
 ---
 
@@ -10256,7 +10256,7 @@ Build production-ready Node.js backend services with Express/Fastify, implementi
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/javascript-typescript/skills/nodejs-backend-patterns
-- **Tags**: `security`, `data-analytics`, `web`
+- **Tags**: `data`, `security`, `web`
 
 ---
 
@@ -10266,7 +10266,7 @@ Comprehensive Node.js development skill covering event loop, async patterns, str
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-backend-toolkit/skills/nodejs-development
-- **Tags**: `development`, `nodejs`, `javascript`, `backend`, `async`, `streams`, `http`, `api`, `server`
+- **Tags**: `api`, `async`, `development`, `javascript`, `kafka`, `web`
 
 ---
 
@@ -10277,7 +10277,7 @@ Nosql standards for nosql in Database environments. Covers best practices,
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/database/nosql
-- **Tags**: `data-analytics`, `productivity`
+- **Tags**: `data`, `productivity`
 
 ---
 
@@ -10288,7 +10288,7 @@ Enable Claude Code to communicate directly with Google NotebookLM notebooks. Que
 - **Author**: [PleasePrompto](https://github.com/PleasePrompto) ([`@PleasePrompto`](https://github.com/PleasePrompto))
 - **License**: [MIT](https://raw.githubusercontent.com/PleasePrompto/notebooklm-skill/main/LICENSE)
 - **Skill**: https://github.com/PleasePrompto/notebooklm-skill
-- **Tags**: `notebooklm`, `integration`, `research`, `knowledge-base`, `gemini`
+- **Tags**: `ai`, `integration-testing`, `knowledge-base`, `llm`, `scientific`
 
 ---
 
@@ -10298,7 +10298,7 @@ Turns discussions into durable knowledge in Notion. Captures insights and decisi
 
 - **Author**: [Notion Devs](https://notiondevs.notion.site/notion-skills-for-claude)
 - **Skill**: https://notiondevs.notion.site/notion-skills-for-claude
-- **Tags**: `notion`, `knowledge-management`, `documentation`, `wiki`, `database`
+- **Tags**: `database`, `documentation`, `knowledge-base`, `productivity`
 
 ---
 
@@ -10308,7 +10308,7 @@ Prepares meeting materials by gathering context from Notion, enriching with Clau
 
 - **Author**: [Notion Devs](https://notiondevs.notion.site/notion-skills-for-claude)
 - **Skill**: https://notiondevs.notion.site/notion-skills-for-claude
-- **Tags**: `notion`, `meetings`, `preparation`, `documentation`, `research`
+- **Tags**: `collaboration`, `documentation`, `productivity`, `scientific`
 
 ---
 
@@ -10318,7 +10318,7 @@ Searches across your Notion workspace, synthesizes findings from multiple pages,
 
 - **Author**: [Notion Devs](https://notiondevs.notion.site/notion-skills-for-claude)
 - **Skill**: https://notiondevs.notion.site/notion-skills-for-claude
-- **Tags**: `notion`, `research`, `documentation`, `synthesis`, `reports`
+- **Tags**: `analytics`, `documentation`, `productivity`, `scientific`
 
 ---
 
@@ -10328,7 +10328,7 @@ Turns product or tech specs into concrete Notion tasks that Claude Code can impl
 
 - **Author**: [Notion Devs](https://notiondevs.notion.site/notion-skills-for-claude)
 - **Skill**: https://notiondevs.notion.site/notion-skills-for-claude
-- **Tags**: `notion`, `implementation`, `planning`, `tasks`, `development`, `specifications`
+- **Tags**: `development`, `documentation`, `multi-agent`, `productivity`
 
 ---
 
@@ -10339,7 +10339,7 @@ Use when user starts a novel project or asks how to organize their writing - gui
 - **Author**: [wordflowlab](https://github.com/wordflowlab) ([`@wordflowlab`](https://github.com/wordflowlab))
 - **License**: [MIT](https://raw.githubusercontent.com/wordflowlab/novel-writer-skills/main/LICENSE)
 - **Skill**: https://github.com/wordflowlab/novel-writer-skills/tree/main/templates/skills/quality-assurance/workflow-guide
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -10350,7 +10350,7 @@ Use when user starts a novel project or asks how to organize their writing - gui
 - **Author**: [wordflowlab](https://github.com/wordflowlab) ([`@wordflowlab`](https://github.com/wordflowlab))
 - **License**: [Apache 2.0](https://raw.githubusercontent.com/wordflowlab/novelweave/main/LICENSE)
 - **Skill**: https://github.com/wordflowlab/novelweave/tree/main/templates/skills/quality-assurance/workflow-guide
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -10361,7 +10361,7 @@ Use when user starts a novel project or asks how to organize their writing - gui
 - **Author**: [wordflowlab](https://github.com/wordflowlab) ([`@wordflowlab`](https://github.com/wordflowlab))
 - **License**: [Apache 2.0](https://raw.githubusercontent.com/wordflowlab/novelweave/main/LICENSE)
 - **Skill**: https://github.com/wordflowlab/novelweave/tree/main/src/templates/skills/novelweave-workflow
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -10372,7 +10372,7 @@ Use when user starts a novel project or asks how to organize their writing - gui
 - **Author**: [wordflowlab](https://github.com/wordflowlab) ([`@wordflowlab`](https://github.com/wordflowlab))
 - **License**: [Apache 2.0](https://raw.githubusercontent.com/wordflowlab/novelweave/main/LICENSE)
 - **Skill**: https://github.com/wordflowlab/novelweave/tree/main/templates/skills/novelweave-workflow
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -10393,7 +10393,7 @@ Comprehensive OAuth2 authentication skill covering authorization flows, token ma
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-backend-toolkit/skills/oauth2-authentication
-- **Tags**: `security`, `writing`
+- **Tags**: `content`, `security`
 
 ---
 
@@ -10466,7 +10466,7 @@ Access and utilize the Omero Integration integration for laboratory workflows.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/omero-integration
-- **Tags**: `scientific`, `integration`, `platform`, `workflow`
+- **Tags**: `integration-testing`, `orchestration`, `scientific`
 
 ---
 
@@ -10477,7 +10477,7 @@ Generate comprehensive onboarding documentation and guides for new developers jo
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/onboarding-helper
-- **Tags**: `science`, `documentation`, `development`
+- **Tags**: `development`, `documentation`, `scientific`
 
 ---
 
@@ -10507,7 +10507,7 @@ Build OpenAI Apps SDK applications - interactive ChatGPT apps with MCP servers, 
 
 - **Author**: [Prompt Circle](https://github.com/hollaugo) ([`@hollaugo`](https://github.com/hollaugo))
 - **Skill**: https://github.com/hollaugo/tutorials/tree/main/claude-skills/custom-skills/openai-apps-sdk/openai-apps-sdk-builder
-- **Tags**: `web`, `ai-automation`
+- **Tags**: `ai`, `web`
 
 ---
 
@@ -10517,7 +10517,7 @@ Build OpenAI Apps SDK applications - interactive ChatGPT apps with MCP servers, 
 
 - **Author**: [Prompt Circle](https://github.com/hollaugo) ([`@hollaugo`](https://github.com/hollaugo))
 - **Skill**: https://github.com/hollaugo/tutorials/tree/main/claude-skills/custom-skills/openai-apps-sdk/openai-apps-sdk-skill-package
-- **Tags**: `web`, `ai-automation`
+- **Tags**: `ai`, `web`
 
 ---
 
@@ -10537,7 +10537,7 @@ Build OpenAI Apps SDK applications - interactive ChatGPT apps with MCP servers, 
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/openai-responses
-- **Tags**: `ai-automation`, `data-analytics`, `science`, `web`
+- **Tags**: `ai`, `data`, `scientific`, `web`
 
 ---
 
@@ -10548,7 +10548,7 @@ Generate comprehensive OpenAPI/Swagger specifications from existing code and API
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/openapi-generator
-- **Tags**: `science`, `development`
+- **Tags**: `development`, `scientific`
 
 ---
 
@@ -10559,7 +10559,7 @@ Access and utilize the Opentargets Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/opentargets-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -10570,7 +10570,7 @@ Access and utilize the Opentrons Integration integration for laboratory workflow
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/opentrons-integration
-- **Tags**: `scientific`, `integration`, `platform`, `workflow`
+- **Tags**: `integration-testing`, `orchestration`, `scientific`
 
 ---
 
@@ -10580,7 +10580,7 @@ Standard Operating Procedure for /optimize phase. Covers performance benchmarkin
 
 - **Author**: [Marcus Gollahon](https://github.com/marcusgoll) ([`@marcusgoll`](https://github.com/marcusgoll))
 - **Skill**: https://github.com/marcusgoll/Spec-Flow/tree/main/.claude/skills/optimization-phase
-- **Tags**: `security`, `development`
+- **Tags**: `development`, `security`
 
 ---
 
@@ -10590,7 +10590,7 @@ Optimize performance with profiling, caching strategies, database query optimiza
 
 - **Author**: [Jean Luciano](https://github.com/jeanluciano) ([`@jeanluciano`](https://github.com/jeanluciano))
 - **Skill**: https://github.com/jeanluciano/quaestor/tree/main/src/quaestor/skills/optimizing-performance
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -10600,7 +10600,7 @@ Orchestrate multiple AI instances (claude/codex CLIs) in tmux panes. Self-discov
 
 - **Author**: [Braydon McCormick](https://github.com/dbmcco) ([`@dbmcco`](https://github.com/dbmcco))
 - **Skill**: https://github.com/dbmcco/claude-agent-toolkit/tree/main/skills/orchestrating-tmux-claudes
-- **Tags**: `ai-automation`, `development`, `devops`, `testing`
+- **Tags**: `ai`, `development`, `devops`, `testing`
 
 ---
 
@@ -10632,7 +10632,7 @@ AI-assisted pair programming with multiple modes (driver/navigator/switch), real
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/pair-programming
-- **Tags**: `ai-automation`, `security`, `testing`
+- **Tags**: `ai`, `security`, `testing`
 
 ---
 
@@ -10643,7 +10643,7 @@ AI-assisted pair programming with multiple modes (driver/navigator/switch), real
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/pair-programming
-- **Tags**: `testing`, `development`
+- **Tags**: `development`, `testing`
 
 ---
 
@@ -10653,7 +10653,7 @@ AI-assisted pair programming with multiple modes (driver/navigator/switch), real
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/pair-programming
-- **Tags**: `testing`, `development`
+- **Tags**: `development`, `testing`
 
 ---
 
@@ -10664,7 +10664,7 @@ AI-assisted pair programming with multiple modes (driver/navigator/switch), real
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/pair-programming
-- **Tags**: `testing`, `development`
+- **Tags**: `development`, `testing`
 
 ---
 
@@ -10674,7 +10674,7 @@ Expert data analysis and manipulation for customer support operations using pand
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-database-pro/skills/pandas
-- **Tags**: `data-analytics`, `python`, `data-analysis`, `customer-support`, `analytics`, `etl`, `postgresql`, `reporting`, `metrics`
+- **Tags**: `analytics`, `business`, `data`, `monitoring`, `postgresql`, `python`
 
 ---
 
@@ -10685,7 +10685,7 @@ Access and utilize the Paper 2 Web Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/paper-2-web
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -10696,7 +10696,7 @@ Access and utilize the Pathml Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pathml
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -10727,7 +10727,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-pattern-extraction
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -10779,7 +10779,7 @@ Integrate PayPal payment processing with support for express checkout, subscript
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/paypal-integration
-- **Tags**: `web`, `business`
+- **Tags**: `business`, `web`
 
 ---
 
@@ -10789,7 +10789,7 @@ Integrate PayPal payment processing with support for express checkout, subscript
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/payment-processing/paypal-integration
-- **Tags**: `web`, `business`
+- **Tags**: `business`, `web`
 
 ---
 
@@ -10800,7 +10800,7 @@ Integrate PayPal payment processing with support for express checkout, subscript
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/payment-processing/skills/paypal-integration
-- **Tags**: `web`, `business`
+- **Tags**: `business`, `web`
 
 ---
 
@@ -10810,7 +10810,7 @@ Implement PCI DSS compliance requirements for secure handling of payment card da
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/pci-compliance
-- **Tags**: `security`, `business`
+- **Tags**: `business`, `security`
 
 ---
 
@@ -10820,7 +10820,7 @@ Implement PCI DSS compliance requirements for secure handling of payment card da
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/payment-processing/pci-compliance
-- **Tags**: `security`, `business`
+- **Tags**: `business`, `security`
 
 ---
 
@@ -10831,7 +10831,7 @@ Implement PCI DSS compliance requirements for secure handling of payment card da
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/payment-processing/skills/pci-compliance
-- **Tags**: `security`, `business`
+- **Tags**: `business`, `security`
 
 ---
 
@@ -10842,7 +10842,7 @@ Access and utilize the Pdb Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/pdb-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -10935,7 +10935,7 @@ Comprehensive PDF manipulation toolkit for extracting text and tables, creating 
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Proprietary](https://raw.githubusercontent.com/anthropics/skills/main/document-skills/pdf/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/document-skills/pdf
-- **Tags**: `pdf`, `documents`, `forms`, `extraction`
+- **Tags**: `pdf`, `web`
 
 ---
 
@@ -10967,7 +10967,7 @@ Access and utilize the Pdf methodologies for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/document-skills/pdf
-- **Tags**: `scientific`, `methodology`, `workflow`, `analysis`
+- **Tags**: `data`, `orchestration`, `scientific`
 
 ---
 
@@ -11009,7 +11009,7 @@ Access and utilize the Peer Review methodologies for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/peer-review
-- **Tags**: `scientific`, `methodology`, `workflow`, `analysis`
+- **Tags**: `data`, `orchestration`, `scientific`
 
 ---
 
@@ -11020,7 +11020,7 @@ Comprehensive performance analysis, bottleneck detection, and optimization recom
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/performance-analysis
-- **Tags**: `data-analytics`, `performance`, `bottleneck`, `optimization`, `profiling`, `metrics`, `analysis`
+- **Tags**: `data`, `monitoring`, `performance-testing`
 
 ---
 
@@ -11031,7 +11031,7 @@ Comprehensive performance analysis, bottleneck detection, and optimization recom
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/performance-analysis
-- **Tags**: `data-analytics`, `performance`, `bottleneck`, `optimization`, `profiling`, `metrics`, `analysis`
+- **Tags**: `data`, `monitoring`, `performance-testing`
 
 ---
 
@@ -11041,7 +11041,7 @@ Comprehensive performance analysis, bottleneck detection, and optimization recom
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/performance-analysis
-- **Tags**: `data-analytics`, `performance`, `bottleneck`, `optimization`, `profiling`, `metrics`, `analysis`
+- **Tags**: `data`, `monitoring`, `performance-testing`
 
 ---
 
@@ -11052,7 +11052,7 @@ Comprehensive performance analysis, bottleneck detection, and optimization recom
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/performance-analysis
-- **Tags**: `data-analytics`, `performance`, `bottleneck`, `optimization`, `profiling`, `metrics`, `analysis`
+- **Tags**: `data`, `monitoring`, `performance-testing`
 
 ---
 
@@ -11072,7 +11072,7 @@ Performance benchmarking expertise for shell tools, covering benchmark design, s
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-design-toolkit/skills/performance-benchmark-specialist
-- **Tags**: `testing`, `science`
+- **Tags**: `scientific`, `testing`
 
 ---
 
@@ -11104,7 +11104,7 @@ Test application performance, scalability, and resilience. Use when planning loa
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/performance-testing
-- **Tags**: `testing`, `performance`, `load-testing`, `stress-testing`, `scalability`, `optimization`, `monitoring`
+- **Tags**: `architecture`, `monitoring`, `performance-testing`, `testing`
 
 ---
 
@@ -11115,7 +11115,7 @@ Performance Test Types:
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/testing/performance-testing
-- **Tags**: `testing`, `ai-automation`, `development`, `performance`, `load-testing`, `stress-testing`, `k6`, `jmeter`, `monitoring`
+- **Tags**: `ai`, `development`, `monitoring`, `performance-testing`, `testing`
 
 ---
 
@@ -11136,7 +11136,7 @@ Use when conducting web research with Perplexity API - covers authentication, se
 
 - **Author**: [Braydon McCormick](https://github.com/dbmcco) ([`@dbmcco`](https://github.com/dbmcco))
 - **Skill**: https://github.com/dbmcco/claude-agent-toolkit/tree/main/skills/perplexity-research
-- **Tags**: `science`, `security`, `web`
+- **Tags**: `scientific`, `security`, `web`
 
 ---
 
@@ -11146,7 +11146,7 @@ Generate unique personalized first lines for hundreds of prospects using company
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/personalization-at-scale
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -11157,7 +11157,7 @@ Generate unique personalized first lines for hundreds of prospects using company
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/personalization-at-scale
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -11228,7 +11228,7 @@ Analyze pipeline health, identify stalled deals, predict close probability, and 
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/pipeline-health-analyzer
-- **Tags**: `ai-automation`, `devops`
+- **Tags**: `ai`, `devops`
 
 ---
 
@@ -11324,7 +11324,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-playbook-auto-update
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -11334,7 +11334,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-playbook
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -11344,7 +11344,7 @@ Side-by-side stat comparisons with context. Adjust for era, pace of play, league
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/player-comparison-tool
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -11355,7 +11355,7 @@ Side-by-side stat comparisons with context. Adjust for era, pace of play, league
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/player-comparison-tool
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -11365,7 +11365,7 @@ Complete browser automation with Playwright. Auto-detects dev servers, writes cl
 
 - **Author**: [Bryan Lackey](https://github.com/lackeyjb) ([`@lackeyjb`](https://github.com/lackeyjb))
 - **Skill**: https://github.com/lackeyjb/playwright-skill/tree/main/skills/playwright-skill
-- **Tags**: `testing`, `automation`, `browser`, `e2e`, `playwright`, `web-testing`
+- **Tags**: `automation`, `e2e-testing`, `playwright`, `testing`
 
 ---
 
@@ -11376,7 +11376,7 @@ Model-invoked Playwright automation for browser testing and validation. Claude a
 - **Author**: [Bryan Lackey](https://github.com/lackeyjb) ([`@lackeyjb`](https://github.com/lackeyjb))
 - **License**: [MIT](https://raw.githubusercontent.com/lackeyjb/playwright-skill/main/LICENSE)
 - **Skill**: https://github.com/lackeyjb/playwright-skill
-- **Tags**: `playwright`, `automation`, `testing`, `browser`, `web`, `e2e`
+- **Tags**: `automation`, `e2e-testing`, `playwright`, `testing`, `web`
 
 ---
 
@@ -11416,7 +11416,7 @@ Generate new Navigator slash commands following project conventions. Use when us
 
 - **Author**: [Aleks Petrov](https://github.com/alekspetrov) ([`@alekspetrov`](https://github.com/alekspetrov))
 - **Skill**: https://github.com/alekspetrov/navigator/tree/main/skills/plugin-slash-command
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -11436,7 +11436,7 @@ Generate podcast scripts from text content. Use Tone.js and Howler.js for audio 
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/podcast-studio
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -11447,7 +11447,7 @@ Generate podcast scripts from text content. Use Tone.js and Howler.js for audio 
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/podcast-studio
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -11457,7 +11457,7 @@ Transform podcast transcripts into comprehensive content marketing suites includ
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/podcast-content-suite
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -11468,7 +11468,7 @@ Transform podcast transcripts into comprehensive content marketing suites includ
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/podcast-content-suite
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -11479,7 +11479,7 @@ Access and utilize the Polars Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/polars
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -11489,7 +11489,7 @@ Simple Pomodoro timer for focused work sessions with session tracking and produc
 
 - **Author**: [Jake Dahn](https://github.com/jakedahn) ([`@jakedahn`](https://github.com/jakedahn))
 - **Skill**: https://github.com/jakedahn/pomodoro/tree/main/dist/skills/pomodoro
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -11499,7 +11499,7 @@ Simple Pomodoro timer for focused work sessions with session tracking and produc
 
 - **Author**: [Jake Dahn](https://github.com/jakedahn) ([`@jakedahn`](https://github.com/jakedahn))
 - **Skill**: https://github.com/jakedahn/pomodoro/tree/main/src
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -11509,7 +11509,7 @@ Review investment portfolios for risk, diversification, fees. Asset allocation r
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/portfolio-analyzer
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -11520,7 +11520,7 @@ Review investment portfolios for risk, diversification, fees. Asset allocation r
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/portfolio-analyzer
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -11541,7 +11541,7 @@ Generate realistic coach/player interview responses for wins, losses, controvers
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/post-game-press-conference-simulator
-- **Tags**: `ai-automation`, `security`
+- **Tags**: `ai`, `security`
 
 ---
 
@@ -11551,7 +11551,7 @@ Comprehensive PostgreSQL database administration skill for customer support tech
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-database-pro/skills/postgresql
-- **Tags**: `data-analytics`, `postgresql`, `database`, `sql`, `customer-support`, `performance-tuning`, `backup-recovery`, `indexing`, `optimization`, `analytics`, `data-curation`
+- **Tags**: `analytics`, `business`, `data`, `database`, `devops`, `performance-testing`, `postgresql`
 
 ---
 
@@ -11561,7 +11561,7 @@ Comprehensive PostgreSQL database engineering skill covering indexing strategies
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-database-pro/skills/postgresql-database-engineering
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -11571,7 +11571,7 @@ Comprehensive guide for PostgreSQL psql - the interactive terminal client for Po
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/postgresql-psql
-- **Tags**: `data-analytics`, `development`
+- **Tags**: `data`, `development`
 
 ---
 
@@ -11664,7 +11664,7 @@ Presentation creation, editing, and analysis. When Claude needs to work with pre
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Proprietary](https://raw.githubusercontent.com/anthropics/skills/main/document-skills/pptx/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/document-skills/pptx
-- **Tags**: `presentation`, `powerpoint`, `slides`, `pptx`
+- **Tags**: `presentation`
 
 ---
 
@@ -11696,7 +11696,7 @@ Access and utilize the Pptx methodologies for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/document-skills/pptx
-- **Tags**: `scientific`, `methodology`, `workflow`, `analysis`
+- **Tags**: `data`, `orchestration`, `scientific`
 
 ---
 
@@ -11707,7 +11707,7 @@ Generate comprehensive pull request descriptions that help reviewers understand 
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/pr-template-generator
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -11749,7 +11749,7 @@ Activates automatically before chapter writing to enforce the 9-item mandatory f
 - **Author**: [wordflowlab](https://github.com/wordflowlab) ([`@wordflowlab`](https://github.com/wordflowlab))
 - **License**: [MIT](https://raw.githubusercontent.com/wordflowlab/novel-writer-skills/main/LICENSE)
 - **Skill**: https://github.com/wordflowlab/novel-writer-skills/tree/main/templates/skills/quality-assurance/pre-write-checklist
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -11770,7 +11770,7 @@ Specialized Preact development skill for standards-based web applications with n
 
 - **Author**: [Oskar Austegard](https://github.com/oaustegard) ([`@oaustegard`](https://github.com/oaustegard))
 - **Skill**: https://github.com/oaustegard/claude-skills/tree/main/preact-developer
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -11780,7 +11780,7 @@ Transform text-heavy slides into visual storytelling. Suggest layout improvement
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/presentation-design-enhancer
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -11791,7 +11791,7 @@ Transform text-heavy slides into visual storytelling. Suggest layout improvement
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/presentation-design-enhancer
-- **Tags**: `ai-automation`, `data-analytics`
+- **Tags**: `ai`, `data`
 
 ---
 
@@ -11802,7 +11802,7 @@ Manage architectural decisions by preserving competing viewpoints to balance inn
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers-skills/tree/main/skills/architecture/preserving-productive-tensions
-- **Tags**: `architecture`, `design`, `decisions`, `patterns`
+- **Tags**: `architecture`, `business`, `design`
 
 ---
 
@@ -11822,7 +11822,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-process-lifecycle
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -11873,7 +11873,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-product-owner-decision
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -11884,7 +11884,7 @@ Strategic product leadership toolkit for Head of Product including OKR cascade g
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/product-team/product-strategist
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -11924,7 +11924,7 @@ Comprehensive project planning and documentation generator for software projects
 
 - **Author**: [agpro](https://github.com/adrianpuiu) ([`@adrianpuiu`](https://github.com/adrianpuiu))
 - **Skill**: https://github.com/adrianpuiu/claude-skills-marketplace/tree/main/project-planner-skill
-- **Tags**: `science`, `documentation`, `development`
+- **Tags**: `development`, `documentation`, `scientific`
 
 ---
 
@@ -11934,7 +11934,7 @@ Comprehensive project planning and documentation generator for software projects
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/project-planning
-- **Tags**: `data-analytics`, `documentation`, `web`
+- **Tags**: `data`, `documentation`, `web`
 
 ---
 
@@ -12028,7 +12028,7 @@ Transform vague prompts into actionable specs using intelligent analysis and ses
 
 - **Author**: [catlog22](https://github.com/catlog22) ([`@catlog22`](https://github.com/catlog22))
 - **Skill**: https://github.com/catlog22/Claude-Code-Workflow/tree/main/.claude/skills/prompt-enhancer
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -12039,7 +12039,7 @@ World-class prompt powerhouse that generates production-ready mega-prompts for a
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-code-skill-factory/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-code-skill-factory/tree/main/generated-skills/prompt-factory
-- **Tags**: `ai-automation`, `science`, `testing`
+- **Tags**: `ai`, `scientific`, `testing`
 
 ---
 
@@ -12049,7 +12049,7 @@ Prompt engineering standards and context engineering principles for AI agents ba
 
 - **Author**: [Daniel Miessler 🛡️](https://github.com/danielmiessler) ([`@danielmiessler`](https://github.com/danielmiessler))
 - **Skill**: https://github.com/danielmiessler/Personal_AI_Infrastructure/tree/main/.claude/skills/prompting
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -12059,7 +12059,7 @@ Aggregate prospect intelligence from multiple sources including news, social med
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/prospect-research-compiler
-- **Tags**: `data-analytics`, `science`, `web`
+- **Tags**: `data`, `scientific`, `web`
 
 ---
 
@@ -12070,7 +12070,7 @@ Aggregate prospect intelligence from multiple sources including news, social med
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/prospect-research-compiler
-- **Tags**: `ai-automation`, `data-analytics`, `science`, `web`
+- **Tags**: `ai`, `data`, `scientific`, `web`
 
 ---
 
@@ -12081,7 +12081,7 @@ Access and utilize the Protocolsio Integration integration for laboratory workfl
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-integrations/protocolsio-integration
-- **Tags**: `scientific`, `integration`, `platform`, `workflow`
+- **Tags**: `integration-testing`, `orchestration`, `scientific`
 
 ---
 
@@ -12091,7 +12091,7 @@ PostgreSQL adapter for Python - customer support tech enablement for database op
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-database-pro/skills/psycopg
-- **Tags**: `data-analytics`, `postgresql`, `database`, `psycopg3`, `async`, `connection-pooling`, `data-migration`, `customer-support`, `backend`, `python`
+- **Tags**: `async`, `business`, `data`, `database`, `postgresql`, `python`, `web`
 
 ---
 
@@ -12102,7 +12102,7 @@ Access and utilize the Pubchem Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/pubchem-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -12113,7 +12113,7 @@ Access and utilize the Pubmed Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/pubmed-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -12124,7 +12124,7 @@ Sync and pull the latest skill updates from repositories to keep your skill coll
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers-skills/tree/main/skills/meta/pulling-updates-from-skills-repository
-- **Tags**: `meta`, `sync`, `updates`, `maintenance`
+- **Tags**: `development`
 
 ---
 
@@ -12134,7 +12134,7 @@ Comprehensive Pydantic data validation skill for customer support tech enablemen
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-specialized-tools/skills/pydantic
-- **Tags**: `development`, `python`, `validation`, `data-modeling`, `customer-support`, `fastapi`, `backend`, `api`, `type-safety`, `pydantic-v2`, `settings-management`
+- **Tags**: `ai`, `api`, `business`, `data`, `development`, `fastapi`, `python`
 
 ---
 
@@ -12145,7 +12145,7 @@ Access and utilize the Pydeseq2 Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pydeseq2
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -12156,7 +12156,7 @@ Access and utilize the Pydicom Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pydicom
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -12167,7 +12167,7 @@ Access and utilize the Pyhealth Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pyhealth
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -12178,7 +12178,7 @@ Access and utilize the Pylabrobot Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pylabrobot
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -12189,7 +12189,7 @@ Access and utilize the Pymatgen Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pymatgen
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -12200,7 +12200,7 @@ Access and utilize the Pymc Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pymc
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -12211,7 +12211,7 @@ Access and utilize the Pymoo Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pymoo
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -12222,7 +12222,7 @@ Access and utilize the Pyopenms Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pyopenms
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -12233,7 +12233,7 @@ Design comprehensive test cases using PICT (Pairwise Independent Combinatorial T
 - **Author**: [omkamal](https://github.com/omkamal) ([`@omkamal`](https://github.com/omkamal))
 - **License**: Unknown
 - **Skill**: https://github.com/omkamal/pypict-claude-skill
-- **Tags**: `testing`, `test-cases`, `pict`, `pairwise`, `combinatorial`
+- **Tags**: `testing`
 
 ---
 
@@ -12244,7 +12244,7 @@ Access and utilize the Pysam Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pysam
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -12255,7 +12255,7 @@ Access and utilize the Pytdc Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pytdc
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -12265,7 +12265,7 @@ Advanced Python unit testing framework for customer support tech enablement, cov
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-testing-essentials/skills/pytest
-- **Tags**: `testing`, `data-analytics`, `web`, `python`, `pytest`, `unit-testing`, `fastapi`, `sqlalchemy`, `postgresql`, `mocking`, `fixtures`, `async`, `customer-support`, `backend`, `data-curation`, `coverage`, `ci-cd`, `integration-testing`, `parametrization`
+- **Tags**: `async`, `business`, `ci-cd`, `data`, `fastapi`, `integration-testing`, `mockito`
 
 ---
 
@@ -12286,7 +12286,7 @@ Python coding standards following PEP 8, type hints, testing best practices, and
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/coding-standards/python
-- **Tags**: `testing`, `development`
+- **Tags**: `development`, `testing`
 
 ---
 
@@ -12371,7 +12371,7 @@ Access and utilize the Pytorch Lightning Python package for scientific computing
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/pytorch-lightning
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -12381,7 +12381,7 @@ Qdrant vector database integration patterns with LangChain4j. Store embeddings, 
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/langchain4j/qdrant
-- **Tags**: `ai-automation`, `data-analytics`, `development`, `qdrant`, `java`, `spring-boot`, `langchain4j`, `vector-search`, `ai`, `machine-learning`
+- **Tags**: `ai`, `data`, `development`, `embeddings`, `java`, `langchain`, `spring`
 
 ---
 
@@ -12425,7 +12425,7 @@ ISO 13485 Quality Management System specialist for medical device companies. Pro
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/ra-qm-team/quality-manager-qms-iso13485
-- **Tags**: `security`, `documentation`
+- **Tags**: `documentation`, `security`
 
 ---
 
@@ -12436,7 +12436,7 @@ Measure quality effectively with actionable metrics. Use when establishing quali
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/quality-metrics
-- **Tags**: `testing`, `metrics`, `kpis`, `quality-dashboards`, `dora-metrics`, `measurement`, `continuous-improvement`
+- **Tags**: `analytics`, `monitoring`, `testing`
 
 ---
 
@@ -12446,7 +12446,7 @@ Defines code quality benchmarks, standards compliance, and best practices for ma
 
 - **Author**: [ART.gineering - Werapol Bejranonda](https://github.com/bejranonda) ([`@bejranonda`](https://github.com/bejranonda))
 - **Skill**: https://github.com/bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude/tree/main/skills/quality-standards
-- **Tags**: `security`, `development`
+- **Tags**: `development`, `security`
 
 ---
 
@@ -12467,7 +12467,7 @@ Interactive database query builder for generating optimized SQL and NoSQL querie
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/query-builder
-- **Tags**: `science`, `data-analytics`
+- **Tags**: `data`, `scientific`
 
 ---
 
@@ -12478,7 +12478,7 @@ Analyze and optimize SQL queries for better performance and efficiency.
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/query-optimizer
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -12509,7 +12509,7 @@ Top-down vs bottom-up quota models. Historical attainment, market growth assumpt
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/quota-setting-calculator
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -12520,7 +12520,7 @@ Top-down vs bottom-up quota models. Historical attainment, market growth assumpt
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/quota-setting-calculator
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -12530,7 +12530,7 @@ Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, r
 
 - **Author**: [ComposioHQ](https://github.com/ComposioHQ) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/main/raffle-winner-picker
-- **Tags**: `testing`, `data-analytics`
+- **Tags**: `data`, `testing`
 
 ---
 
@@ -12540,7 +12540,7 @@ Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, r
 
 - **Author**: [Prathit](https://github.com/Prat011) ([`@Prat011`](https://github.com/Prat011))
 - **Skill**: https://github.com/Prat011/awesome-llm-skills/tree/main/raffle-winner-picker
-- **Tags**: `ai-automation`, `testing`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -12551,7 +12551,7 @@ Randomly selects winners from lists, spreadsheets, or Google Sheets for giveaway
 - **Author**: [ComposioHQ](https://composio.dev) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE)
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/raffle-winner-picker
-- **Tags**: `random`, `raffle`, `contest`, `utility`, `selection`
+- **Tags**: `development`
 
 ---
 
@@ -12561,7 +12561,7 @@ Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vec
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/rag-implementation
-- **Tags**: `science`, `data-analytics`, `ai-automation`
+- **Tags**: `ai`, `data`, `scientific`
 
 ---
 
@@ -12571,7 +12571,7 @@ Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vec
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/llm-application-dev/rag-implementation
-- **Tags**: `science`, `data-analytics`, `ai-automation`
+- **Tags**: `ai`, `data`, `scientific`
 
 ---
 
@@ -12582,7 +12582,7 @@ Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vec
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/rag-implementation
-- **Tags**: `science`, `data-analytics`, `ai-automation`
+- **Tags**: `ai`, `data`, `scientific`
 
 ---
 
@@ -12604,7 +12604,7 @@ REST API specialist for Rails applications. Use when building API endpoints, imp
 - **Author**: [Alexey Poimtsev](https://github.com/alec-c4) ([`@alec-c4`](https://github.com/alec-c4))
 - **License**: [MIT](https://raw.githubusercontent.com/alec-c4/claude-skills-rails-dev/master/LICENSE)
 - **Skill**: https://github.com/alec-c4/claude-skills-rails-dev/tree/main/rails-api
-- **Tags**: `security`, `web`, `documentation`
+- **Tags**: `documentation`, `security`, `web`
 
 ---
 
@@ -12615,7 +12615,7 @@ Specialized skill for Rails background jobs with Solid Queue. Use when creating 
 - **Author**: [Alexey Poimtsev](https://github.com/alec-c4) ([`@alec-c4`](https://github.com/alec-c4))
 - **License**: [MIT](https://raw.githubusercontent.com/alec-c4/claude-skills-rails-dev/master/LICENSE)
 - **Skill**: https://github.com/alec-c4/claude-skills-rails-dev/tree/main/rails-background-jobs
-- **Tags**: `testing`, `productivity`
+- **Tags**: `productivity`, `testing`
 
 ---
 
@@ -12681,7 +12681,7 @@ Specialized skill for Rails security, authorization, and data protection. Use wh
 - **Author**: [Alexey Poimtsev](https://github.com/alec-c4) ([`@alec-c4`](https://github.com/alec-c4))
 - **License**: [MIT](https://raw.githubusercontent.com/alec-c4/claude-skills-rails-dev/master/LICENSE)
 - **Skill**: https://github.com/alec-c4/claude-skills-rails-dev/tree/main/rails-security
-- **Tags**: `security`, `writing`
+- **Tags**: `content`, `security`
 
 ---
 
@@ -12692,7 +12692,7 @@ Technical documentation specialist for Rails projects. Use when writing README f
 - **Author**: [Alexey Poimtsev](https://github.com/alec-c4) ([`@alec-c4`](https://github.com/alec-c4))
 - **License**: [MIT](https://raw.githubusercontent.com/alec-c4/claude-skills-rails-dev/master/LICENSE)
 - **Skill**: https://github.com/alec-c4/claude-skills-rails-dev/tree/main/rails-technical-writer
-- **Tags**: `documentation`, `development`
+- **Tags**: `development`, `documentation`
 
 ---
 
@@ -12703,7 +12703,7 @@ Specialized skill for Rails testing with RSpec, FactoryBot, and TDD workflows. U
 - **Author**: [Alexey Poimtsev](https://github.com/alec-c4) ([`@alec-c4`](https://github.com/alec-c4))
 - **License**: [MIT](https://raw.githubusercontent.com/alec-c4/claude-skills-rails-dev/master/LICENSE)
 - **Skill**: https://github.com/alec-c4/claude-skills-rails-dev/tree/main/rails-testing
-- **Tags**: `testing`, `ai-automation`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -12724,7 +12724,7 @@ Market salary research, accomplishment quantification, negotiation scripts, tota
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/raise-negotiation-prep
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -12735,7 +12735,7 @@ Market salary research, accomplishment quantification, negotiation scripts, tota
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/raise-negotiation-prep
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -12745,7 +12745,7 @@ Market salary research, accomplishment quantification, negotiation scripts, tota
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/ramping-rep-tracker
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -12756,7 +12756,7 @@ Market salary research, accomplishment quantification, negotiation scripts, tota
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/ramping-rep-tracker
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -12778,7 +12778,7 @@ Creates minimal working prototypes for quick idea validation. Single-file when p
 - **Author**: [Toowiredd](https://github.com/Toowiredd) ([`@Toowiredd`](https://github.com/Toowiredd))
 - **License**: [MIT](https://raw.githubusercontent.com/Toowiredd/claude-skills-automation/master/LICENSE)
 - **Skill**: https://github.com/Toowiredd/claude-skills-automation/tree/main/skills/rapid-prototyper
-- **Tags**: `testing`, `design`
+- **Tags**: `design`, `testing`
 
 ---
 
@@ -12789,7 +12789,7 @@ Access and utilize the Rdkit Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/rdkit
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -12799,7 +12799,7 @@ Comprehensive React development with hooks, components, state management, contex
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-frontend-essentials/skills/react-development
-- **Tags**: `web`, `documentation`, `react`, `hooks`, `components`, `state-management`, `context`, `effects`, `jsx`
+- **Tags**: `documentation`, `react`, `web`
 
 ---
 
@@ -12810,7 +12810,7 @@ React frontend standards covering hooks (useState, useEffect, useContext, custom
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/frontend/react
-- **Tags**: `testing`, `web`, `development`, `frontend`, `react`, `hooks`, `state-management`, `performance`, `accessibility`
+- **Tags**: `accessibility`, `development`, `performance-testing`, `react`, `testing`, `web`
 
 ---
 
@@ -12830,7 +12830,7 @@ Upgrade React applications to latest versions, migrate from class components to 
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/react-modernization
-- **Tags**: `testing`, `web`, `development`
+- **Tags**: `development`, `testing`, `web`
 
 ---
 
@@ -12841,7 +12841,7 @@ Upgrade React applications to latest versions, migrate from class components to 
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/react-modernization
-- **Tags**: `testing`, `web`, `development`
+- **Tags**: `development`, `testing`, `web`
 
 ---
 
@@ -12852,7 +12852,7 @@ React Native mobile development covering iOS and Android cross-platform apps, na
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/frontend/mobile-react-native
-- **Tags**: `testing`, `web`, `ai-automation`, `react-native`, `mobile`, `ios`, `android`, `cross-platform`
+- **Tags**: `ai`, `mobile`, `testing`, `web`
 
 ---
 
@@ -12873,7 +12873,7 @@ Access and utilize the Reactome Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/reactome-database/reactome-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -12927,7 +12927,7 @@ Implement ReasoningBank adaptive learning with AgentDB's 150x faster vector data
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/reasoningbank-agentdb
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -12938,7 +12938,7 @@ Implement ReasoningBank adaptive learning with AgentDB's 150x faster vector data
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/reasoningbank-agentdb
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -12948,7 +12948,7 @@ Implement ReasoningBank adaptive learning with AgentDB's 150x faster vector data
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/reasoningbank-agentdb
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -12959,7 +12959,7 @@ Implement ReasoningBank adaptive learning with AgentDB's 150x faster vector data
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/reasoningbank-agentdb
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -12981,7 +12981,7 @@ Use when receiving code review feedback, before implementing suggestions, especi
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/receiving-code-review
-- **Tags**: `code-review`, `collaboration`, `feedback`, `quality`
+- **Tags**: `code-review`, `collaboration`, `testing`
 
 ---
 
@@ -13001,7 +13001,7 @@ Analyze Reddit threads for sentiment, consensus opinions, top arguments, and dis
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/reddit-analyzer
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -13012,7 +13012,7 @@ Analyze Reddit threads for sentiment, consensus opinions, top arguments, and dis
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/reddit-analyzer
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -13022,7 +13022,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-redis-coordination
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -13032,7 +13032,7 @@ Comprehensive guide for Redis state management including caching strategies, ses
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-database-pro/skills/redis-state-management
-- **Tags**: `development`, `redis`, `state-management`, `caching`, `pub-sub`, `distributed-systems`, `sessions`
+- **Tags**: `development`, `distributed`, `event-driven`, `redis`, `web`
 
 ---
 
@@ -13064,7 +13064,7 @@ Apply safe refactoring patterns to improve code structure without changing behav
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/refactoring-patterns
-- **Tags**: `development`, `refactoring`, `clean-code`, `technical-debt`, `code-quality`, `patterns`, `design`
+- **Tags**: `architecture`, `clean-code`, `design`, `development`
 
 ---
 
@@ -13074,7 +13074,7 @@ Debug regex patterns with visual breakdowns, plain English explanations, test ca
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/regex-debugger
-- **Tags**: `ai-automation`, `testing`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -13085,7 +13085,7 @@ Debug regex patterns with visual breakdowns, plain English explanations, test ca
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/regex-debugger
-- **Tags**: `ai-automation`, `testing`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -13096,7 +13096,7 @@ Strategic regression testing with test selection, impact analysis, and continuou
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/regression-testing
-- **Tags**: `testing`, `regression-testing`, `test-selection`, `impact-analysis`, `change-based-testing`, `continuous-testing`, `test-optimization`
+- **Tags**: `ci-cd`, `testing`
 
 ---
 
@@ -13118,7 +13118,7 @@ Recall facts, insights, and context from past Claude Code sessions to maintain c
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers-skills/tree/main/skills/collaboration/remembering-conversations
-- **Tags**: `memory`, `context`, `collaboration`, `continuity`
+- **Tags**: `business`, `collaboration`, `web`
 
 ---
 
@@ -13138,7 +13138,7 @@ Guide for implementing RemixIcon - an open-source neutral-style icon library wit
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/remix-icon
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -13180,7 +13180,7 @@ Guide for using Repomix - a powerful tool that packs entire repositories into si
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/repomix
-- **Tags**: `ai-automation`, `security`
+- **Tags**: `ai`, `security`
 
 ---
 
@@ -13191,7 +13191,7 @@ Generate professional markdown and HTML reports from data with charts, tables, a
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/report-generator
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -13202,7 +13202,7 @@ Access and utilize the Reportlab Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/reportlab
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -13213,7 +13213,7 @@ Analyzes codebases to generate comprehensive documentation including structure, 
 - **Author**: [Toowiredd](https://github.com/Toowiredd) ([`@Toowiredd`](https://github.com/Toowiredd))
 - **License**: [MIT](https://raw.githubusercontent.com/Toowiredd/claude-skills-automation/master/LICENSE)
 - **Skill**: https://github.com/Toowiredd/claude-skills-automation/tree/main/skills/repository-analyzer
-- **Tags**: `science`, `documentation`, `development`
+- **Tags**: `development`, `documentation`, `scientific`
 
 ---
 
@@ -13224,7 +13224,7 @@ Use when completing tasks, implementing major features, or before merging to ver
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/requesting-code-review
-- **Tags**: `code-review`, `collaboration`, `quality`, `validation`
+- **Tags**: `ai`, `code-review`, `collaboration`, `testing`
 
 ---
 
@@ -13244,7 +13244,7 @@ Extends generic requirement analysis with PHP/CakePHP specific considerations an
 
 - **Author**: [masanao-ohba](https://github.com/masanao-ohba) ([`@masanao-ohba`](https://github.com/masanao-ohba))
 - **Skill**: https://github.com/masanao-ohba/claude-manifests/tree/main/skills/php-cakephp/requirement-analyzer
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -13286,7 +13286,7 @@ Multi-source comprehensive research using perplexity-researcher, claude-research
 
 - **Author**: [Daniel Miessler 🛡️](https://github.com/danielmiessler) ([`@danielmiessler`](https://github.com/danielmiessler))
 - **Skill**: https://github.com/danielmiessler/Personal_AI_Infrastructure/tree/main/.claude/skills/research
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -13296,7 +13296,7 @@ Research methodology and best practices for finding existing patterns
 
 - **Author**: [Andrew Kaszubski](https://github.com/akaszubski) ([`@akaszubski`](https://github.com/akaszubski))
 - **Skill**: https://github.com/akaszubski/autonomous-dev/tree/main/plugins/autonomous-dev/skills/research-patterns
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -13327,7 +13327,7 @@ Mobile-first responsive design covering fluid layouts, media queries, flexbox, g
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-frontend-essentials/skills/responsive-design
-- **Tags**: `development`, `css`, `responsive`, `mobile-first`, `flexbox`, `grid`, `media-queries`
+- **Tags**: `css`, `development`, `mobile`
 
 ---
 
@@ -13337,7 +13337,7 @@ Comprehensive guide for designing RESTful APIs including resource modeling, vers
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-backend-toolkit/skills/rest-api-design-patterns
-- **Tags**: `development`, `rest-api`, `api-design`, `http`, `resource-modeling`, `versioning`, `best-practices`
+- **Tags**: `api`, `clean-code`, `development`, `web`
 
 ---
 
@@ -13348,7 +13348,7 @@ Leverage Retrieval Augmented Generation to retrieve relevant information from a 
 - **Author**: [run-llama](https://github.com/run-llama) ([`@run-llama`](https://github.com/run-llama))
 - **License**: [MIT](https://raw.githubusercontent.com/run-llama/vibe-llama/main/LICENSE)
 - **Skill**: https://github.com/run-llama/vibe-llama/tree/main/documentation/skills/information-retrieval
-- **Tags**: `science`, `ai-automation`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -13358,7 +13358,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-retrospective-report
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -13380,7 +13380,7 @@ Evaluate code implementation plans and align with specifications to ensure requi
 - **Author**: [mhattingpete](https://github.com/mhattingpete) ([`@mhattingpete`](https://github.com/mhattingpete))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/mhattingpete/claude-skills-marketplace/main/LICENSE)
 - **Skill**: https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing
-- **Tags**: `code-review`, `planning`, `quality`, `validation`
+- **Tags**: `ai`, `code-review`, `multi-agent`, `testing`
 
 ---
 
@@ -13401,7 +13401,7 @@ Focus testing effort on highest-risk areas using risk assessment and prioritizat
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/risk-based-testing
-- **Tags**: `testing`, `ai-automation`, `risk-assessment`, `test-strategy`, `prioritization`, `quality-management`, `decision-making`, `resource-allocation`
+- **Tags**: `ai`, `business`, `testing`
 
 ---
 
@@ -13433,7 +13433,7 @@ Use when user mentions romance, love story, or relationship-focused narrative - 
 - **Author**: [wordflowlab](https://github.com/wordflowlab) ([`@wordflowlab`](https://github.com/wordflowlab))
 - **License**: [MIT](https://raw.githubusercontent.com/wordflowlab/novel-writer-skills/main/LICENSE)
 - **Skill**: https://github.com/wordflowlab/novel-writer-skills/tree/main/templates/skills/genre-knowledge/romance
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -13444,7 +13444,7 @@ Use when user mentions romance, love story, or relationship-focused narrative - 
 - **Author**: [wordflowlab](https://github.com/wordflowlab) ([`@wordflowlab`](https://github.com/wordflowlab))
 - **License**: [Apache 2.0](https://raw.githubusercontent.com/wordflowlab/novelweave/main/LICENSE)
 - **Skill**: https://github.com/wordflowlab/novelweave/tree/main/templates/skills/genre-knowledge/romance
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -13475,7 +13475,7 @@ Use when errors occur deep in execution and you need to trace back to find the o
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing
-- **Tags**: `debugging`, `tracing`, `investigation`, `analysis`
+- **Tags**: `data`, `debugging`, `monitoring`
 
 ---
 
@@ -13486,7 +13486,7 @@ Rails skills router and knowledge base. Routes your request to the appropriate s
 - **Author**: [Alexey Poimtsev](https://github.com/alec-c4) ([`@alec-c4`](https://github.com/alec-c4))
 - **License**: [MIT](https://raw.githubusercontent.com/alec-c4/claude-skills-rails-dev/master/LICENSE)
 - **Skill**: https://github.com/alec-c4/claude-skills-rails-dev/tree/main/ruby-on-rails-development
-- **Tags**: `science`, `documentation`
+- **Tags**: `documentation`, `scientific`
 
 ---
 
@@ -13496,7 +13496,7 @@ Toolkit for performing deep research on complex topics using multiple AI researc
 
 - **Author**: [monarch-initiative](https://github.com/monarch-initiative) ([`@monarch-initiative`](https://github.com/monarch-initiative))
 - **Skill**: https://github.com/monarch-initiative/deep-research-client/tree/main/.claude/skills/run-deep-research
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -13506,7 +13506,7 @@ Tools for conducting social research with LLMs
 
 - **Author**: [Mattie Niznik](https://github.com/niznik-dev) ([`@niznik-dev`](https://github.com/niznik-dev))
 - **Skill**: https://github.com/niznik-dev/cruijff_kit/tree/main/.claude/skills/run-experiment
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -13528,7 +13528,7 @@ Cargo build system, crate management, and Rust project configuration assistance.
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/coding-standards/rust
-- **Tags**: `testing`, `ai-automation`, `development`, `rust`, `ownership`, `borrowing`, `memory-safety`, `performance`
+- **Tags**: `ai`, `development`, `performance-testing`, `rust`, `testing`
 
 ---
 
@@ -13538,7 +13538,7 @@ Complete guide for Rust systems programming including ownership, borrowing, conc
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-backend-toolkit/skills/rust-systems-programming
-- **Tags**: `development`, `rust`, `systems-programming`, `ownership`, `concurrency`, `async`, `memory-safety`, `performance`
+- **Tags**: `async`, `development`, `performance-testing`, `rust`
 
 ---
 
@@ -13548,7 +13548,7 @@ Generate pre-call research briefs with company news, stakeholder backgrounds, an
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/sales-call-prep-assistant
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -13559,7 +13559,7 @@ Generate pre-call research briefs with company news, stakeholder backgrounds, an
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/sales-call-prep-assistant
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -13622,7 +13622,7 @@ Weighted pipeline forecast by probability. Historical accuracy tracking, commit 
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/sales-forecast-builder
-- **Tags**: `ai-automation`, `devops`
+- **Tags**: `ai`, `devops`
 
 ---
 
@@ -13663,7 +13663,7 @@ Configure Static Application Security Testing (SAST) tools for automated vulnera
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/sast-configuration
-- **Tags**: `testing`, `security`, `development`
+- **Tags**: `development`, `security`, `testing`
 
 ---
 
@@ -13674,7 +13674,7 @@ Configure Static Application Security Testing (SAST) tools for automated vulnera
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/sast-configuration
-- **Tags**: `testing`, `security`, `development`
+- **Tags**: `development`, `security`, `testing`
 
 ---
 
@@ -13684,7 +13684,7 @@ Tools for conducting social research with LLMs
 
 - **Author**: [Mattie Niznik](https://github.com/niznik-dev) ([`@niznik-dev`](https://github.com/niznik-dev))
 - **Skill**: https://github.com/niznik-dev/cruijff_kit/tree/main/.claude/skills/scaffold-experiment
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -13705,7 +13705,7 @@ Stress-test ideas at extreme scales to expose hidden weaknesses or truths that o
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/scale-game
-- **Tags**: `scaling`, `stress-testing`, `problem-solving`, `thinking`
+- **Tags**: `architecture`, `business`, `performance-testing`
 
 ---
 
@@ -13716,7 +13716,7 @@ Access and utilize the Scanpy Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scanpy
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -13759,7 +13759,7 @@ Generate database schema diagrams, ERDs, and documentation from database schemas
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/schema-visualizer
-- **Tags**: `science`, `data-analytics`, `documentation`
+- **Tags**: `data`, `documentation`, `scientific`
 
 ---
 
@@ -13770,7 +13770,7 @@ Access and utilize the Scientific Brainstorming methodologies for scientific res
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/scientific-brainstorming
-- **Tags**: `scientific`, `methodology`, `workflow`, `analysis`
+- **Tags**: `data`, `orchestration`, `scientific`
 
 ---
 
@@ -13781,7 +13781,7 @@ Access and utilize the Scientific Context Initialization helper utilities for sc
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-helpers/scientific-context-initialization
-- **Tags**: `scientific`, `utility`, `helper`, `tools`
+- **Tags**: `llm`, `scientific`
 
 ---
 
@@ -13792,7 +13792,7 @@ Access and utilize the Scientific Critical Thinking methodologies for scientific
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/scientific-critical-thinking
-- **Tags**: `scientific`, `methodology`, `workflow`, `analysis`
+- **Tags**: `data`, `orchestration`, `scientific`
 
 ---
 
@@ -13803,7 +13803,7 @@ Access and utilize the Scientific Visualization methodologies for scientific res
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/scientific-visualization
-- **Tags**: `scientific`, `methodology`, `workflow`, `analysis`
+- **Tags**: `data`, `orchestration`, `scientific`
 
 ---
 
@@ -13814,7 +13814,7 @@ Access and utilize the Scientific Writing methodologies for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/scientific-writing
-- **Tags**: `scientific`, `methodology`, `workflow`, `analysis`
+- **Tags**: `data`, `orchestration`, `scientific`
 
 ---
 
@@ -13825,7 +13825,7 @@ Access and utilize the Scikit Bio Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scikit-bio
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -13836,7 +13836,7 @@ Access and utilize the Scikit Learn Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scikit-learn
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -13847,7 +13847,7 @@ Access and utilize the Scikit Survival Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scikit-survival
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -13857,7 +13857,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-scope-simplifier
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -13888,7 +13888,7 @@ Convert UI screenshots into working HTML/CSS/React/Vue code. Detects design patt
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/screenshot-to-code
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -13899,7 +13899,7 @@ Convert UI screenshots into working HTML/CSS/React/Vue code. Detects design patt
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/screenshot-to-code
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -13910,7 +13910,7 @@ Access and utilize the Scvi Tools Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/scvi-tools
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -13921,7 +13921,7 @@ Access and utilize the Seaborn Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/seaborn
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -14015,7 +14015,7 @@ Incorporating security at every step of software development – writing code th
 
 - **Author**: [baz-scm](https://github.com/baz-scm) ([`@baz-scm`](https://github.com/baz-scm))
 - **Skill**: https://github.com/baz-scm/awesome-reviewers/tree/main/_skills/secure-coding
-- **Tags**: `security`, `development`
+- **Tags**: `development`, `security`
 
 ---
 
@@ -14025,7 +14025,7 @@ Guide for conducting comprehensive security audits of code to identify vulnerabi
 
 - **Author**: [Charles Jones](https://github.com/charlesjones-dev) ([`@charlesjones-dev`](https://github.com/charlesjones-dev))
 - **Skill**: https://github.com/charlesjones-dev/claude-code-plugins-dev/tree/main/plugins/ai-security/skills/security-audit
-- **Tags**: `security`, `development`
+- **Tags**: `development`, `security`
 
 ---
 
@@ -14035,7 +14035,7 @@ Audit security with vulnerability scanning, input validation checks, and auth/au
 
 - **Author**: [Jean Luciano](https://github.com/jeanluciano) ([`@jeanluciano`](https://github.com/jeanluciano))
 - **Skill**: https://github.com/jeanluciano/quaestor/tree/main/src/quaestor/skills/security-auditing
-- **Tags**: `security`, `development`
+- **Tags**: `development`, `security`
 
 ---
 
@@ -14046,7 +14046,7 @@ Comprehensive security checklist covering OWASP Top 10, SQL injection, XSS, CSRF
 - **Author**: [Jason Brashear (AKA SEM)](https://github.com/webdevtodayjason) ([`@webdevtodayjason`](https://github.com/webdevtodayjason))
 - **License**: [MIT](https://raw.githubusercontent.com/webdevtodayjason/titanium-plugins/main/LICENSE)
 - **Skill**: https://github.com/webdevtodayjason/titanium-plugins/tree/main/plugins/titanium-toolkit/skills/security-checklist
-- **Tags**: `security`, `data-analytics`, `writing`
+- **Tags**: `content`, `data`, `security`
 
 ---
 
@@ -14068,7 +14068,7 @@ Security Operations Center (SOC) practices, incident response, SIEM management, 
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/security/security-operations
-- **Tags**: `security`, `soc`, `incident-response`, `siem`, `threat-hunting`, `forensics`, `nist-800-61`
+- **Tags**: `compliance`, `security`
 
 ---
 
@@ -14088,7 +14088,7 @@ Comprehensive OWASP security guidelines, secure coding patterns, vulnerability p
 
 - **Author**: [ART.gineering - Werapol Bejranonda](https://github.com/bejranonda) ([`@bejranonda`](https://github.com/bejranonda))
 - **Skill**: https://github.com/bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude/tree/main/skills/security-patterns
-- **Tags**: `security`, `development`
+- **Tags**: `development`, `security`
 
 ---
 
@@ -14120,7 +14120,7 @@ Test for security vulnerabilities using OWASP principles and security testing te
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/security-testing
-- **Tags**: `testing`, `security`, `writing`, `owasp`, `penetration-testing`, `vulnerability-scanning`, `authentication`, `authorization`
+- **Tags**: `content`, `security`, `security-testing`, `testing`
 
 ---
 
@@ -14131,7 +14131,7 @@ Generate realistic test data for database development, testing, and demos.
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/seed-data-generator
-- **Tags**: `testing`, `science`, `data-analytics`
+- **Tags**: `data`, `scientific`, `testing`
 
 ---
 
@@ -14142,7 +14142,7 @@ Comprehensive software architecture skill for designing scalable, maintainable s
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-architect
-- **Tags**: `science`, `data-analytics`, `web`
+- **Tags**: `data`, `scientific`, `web`
 
 ---
 
@@ -14153,7 +14153,7 @@ Comprehensive backend development skill for building scalable backend systems us
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-backend
-- **Tags**: `security`, `data-analytics`, `web`
+- **Tags**: `data`, `security`, `web`
 
 ---
 
@@ -14175,7 +14175,7 @@ World-class data engineering skill for building scalable data pipelines, ETL/ELT
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-data-engineer
-- **Tags**: `data-analytics`, `devops`
+- **Tags**: `data`, `devops`
 
 ---
 
@@ -14186,7 +14186,7 @@ World-class data science skill for statistical modeling, experimentation, causal
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-data-scientist
-- **Tags**: `testing`, `data-analytics`
+- **Tags**: `data`, `testing`
 
 ---
 
@@ -14197,7 +14197,7 @@ Comprehensive DevOps skill for CI/CD, infrastructure automation, containerizatio
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-devops
-- **Tags**: `devops`, `development`
+- **Tags**: `development`, `devops`
 
 ---
 
@@ -14219,7 +14219,7 @@ Comprehensive fullstack development skill for building complete web applications
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-fullstack
-- **Tags**: `data-analytics`, `web`, `development`
+- **Tags**: `data`, `development`, `web`
 
 ---
 
@@ -14252,7 +14252,7 @@ Comprehensive QA and testing skill for quality assurance, test automation, and t
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-qa
-- **Tags**: `testing`, `science`, `web`
+- **Tags**: `scientific`, `testing`, `web`
 
 ---
 
@@ -14274,7 +14274,7 @@ Comprehensive security engineering skill for application security, penetration t
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/engineering-team/senior-security
-- **Tags**: `testing`, `security`
+- **Tags**: `security`, `testing`
 
 ---
 
@@ -14284,7 +14284,7 @@ Optimize content for search engines with keyword analysis, readability scoring, 
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/seo-optimizer
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -14295,7 +14295,7 @@ Optimize content for search engines with keyword analysis, readability scoring, 
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/seo-optimizer
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -14305,7 +14305,7 @@ Group related keywords into topic clusters. Create content hub architecture reco
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/seo-keyword-cluster-builder
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -14316,7 +14316,7 @@ Group related keywords into topic clusters. Create content hub architecture reco
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/seo-keyword-cluster-builder
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -14327,7 +14327,7 @@ Benefits:
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/cloud-native/serverless
-- **Tags**: `testing`, `ai-automation`, `development`, `aws-lambda`, `serverless`, `cloud-functions`, `faas`, `event-driven`
+- **Tags**: `ai`, `aws`, `development`, `event-driven`, `gcp`, `serverless`, `testing`
 
 ---
 
@@ -14338,7 +14338,7 @@ A service mesh is an infrastructure layer that provides transparent service-to-s
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/cloud-native/service-mesh
-- **Tags**: `testing`, `ai-automation`, `development`, `istio`, `linkerd`, `envoy`, `mtls`, `traffic-management`, `observability`
+- **Tags**: `ai`, `development`, `microservices`, `monitoring`, `security`, `testing`
 
 ---
 
@@ -14360,7 +14360,7 @@ Automatically detects story settings (genres, time periods, themes) based on key
 - **Author**: [wordflowlab](https://github.com/wordflowlab) ([`@wordflowlab`](https://github.com/wordflowlab))
 - **License**: [MIT](https://raw.githubusercontent.com/wordflowlab/novel-writer-skills/main/LICENSE)
 - **Skill**: https://github.com/wordflowlab/novel-writer-skills/tree/main/templates/skills/quality-assurance/setting-detector
-- **Tags**: `writing`, `documentation`
+- **Tags**: `content`, `documentation`
 
 ---
 
@@ -14411,7 +14411,7 @@ Configure Prettier for any JavaScript/TypeScript project with recommended settin
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/setting-up-prettier
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -14421,7 +14421,7 @@ Guide for implementing shadcn/ui - a collection of beautifully-designed, accessi
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/shadcn-ui
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -14432,7 +14432,7 @@ Access and utilize the Shap Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/shap
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -14443,7 +14443,7 @@ Use when you've developed a broadly useful skill and want to contribute it upstr
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/sharing-skills
-- **Tags**: `meta`, `contribution`, `git`, `collaboration`
+- **Tags**: `collaboration`, `git`
 
 ---
 
@@ -14464,7 +14464,7 @@ Essential patterns for immediate use - portable shebangs, error handling,
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/coding-standards/shell
-- **Tags**: `testing`, `ai-automation`, `development`, `bash`, `shell`, `scripting`, `automation`, `shellcheck`
+- **Tags**: `ai`, `automation`, `bash`, `development`, `linting`, `testing`
 
 ---
 
@@ -14474,7 +14474,7 @@ Shell script testing expertise using bash test framework patterns from unix-goto
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-testing-essentials/skills/shell-testing-framework
-- **Tags**: `testing`, `ai-automation`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -14496,7 +14496,7 @@ Move testing activities earlier (left) in software development lifecycle - unit 
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/shift-left-testing
-- **Tags**: `development`, `devops`, `testing`, `shift-left`, `tdd`, `bdd`, `cicd`, `early-testing`, `design-for-testability`
+- **Tags**: `bdd`, `ci-cd`, `development`, `devops`, `tdd`, `testing`
 
 ---
 
@@ -14507,7 +14507,7 @@ Testing in production with feature flags, canary deployments, synthetic monitori
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/shift-right-testing
-- **Tags**: `devops`, `testing`, `shift-right`, `testing-in-production`, `feature-flags`, `canary-deployment`, `synthetic-monitoring`, `chaos-engineering`, `production-testing`
+- **Tags**: `ci-cd`, `devops`, `testing`
 
 ---
 
@@ -14528,7 +14528,7 @@ Transform passive learning content (transcripts, articles, tutorials) into actio
 - **Author**: [Michal Parkola](https://github.com/michalparkola) ([`@michalparkola`](https://github.com/michalparkola))
 - **License**: [MIT](https://raw.githubusercontent.com/michalparkola/tapestry-skills-for-claude-code/main/LICENSE)
 - **Skill**: https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next
-- **Tags**: `learning`, `planning`, `productivity`, `action`, `workflow`
+- **Tags**: `education`, `multi-agent`, `orchestration`, `productivity`
 
 ---
 
@@ -14538,7 +14538,7 @@ Shipany AI-powered SaaS boilerplate documentation. Use when working with Shipany
 
 - **Author**: [littleben](https://github.com/littleben) ([`@littleben`](https://github.com/littleben))
 - **Skill**: https://github.com/littleben/awesomeAgentskills/tree/main/shipany
-- **Tags**: `security`, `business`, `documentation`
+- **Tags**: `business`, `documentation`, `security`
 
 ---
 
@@ -14548,7 +14548,7 @@ Guide for implementing Shopify apps, extensions, themes, and integrations using 
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/shopify
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -14558,7 +14558,7 @@ Find one insight that eliminates multiple components - "if this is true, we don'
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/problem-solving/simplification-cascades
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -14569,7 +14569,7 @@ Reduce complexity by discovering insights that simplify multiple elements at onc
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/simplification-cascades
-- **Tags**: `simplification`, `refactoring`, `design`, `patterns`
+- **Tags**: `architecture`, `clean-code`, `design`
 
 ---
 
@@ -14580,7 +14580,7 @@ Access and utilize the Simpy Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/simpy
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -14622,7 +14622,7 @@ Create new Claude Code Skills with proper YAML frontmatter, progressive disclosu
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/skill-builder
-- **Tags**: `science`, `ai-automation`, `development`
+- **Tags**: `ai`, `development`, `scientific`
 
 ---
 
@@ -14632,7 +14632,7 @@ Create new Claude Code Skills with proper YAML frontmatter, progressive disclosu
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/skill-builder
-- **Tags**: `science`, `ai-automation`, `development`
+- **Tags**: `ai`, `development`, `scientific`
 
 ---
 
@@ -14643,7 +14643,7 @@ Create new Claude Code Skills with proper YAML frontmatter, progressive disclosu
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/skill-builder
-- **Tags**: `science`, `ai-automation`, `development`
+- **Tags**: `ai`, `development`, `scientific`
 
 ---
 
@@ -14675,7 +14675,7 @@ Guide for creating effective skills. This skill should be used when users want t
 - **Author**: [AgiFlow](https://github.com/AgiFlow) ([`@AgiFlow`](https://github.com/AgiFlow))
 - **License**: [MIT](https://raw.githubusercontent.com/AgiFlow/claude-code-prompt-analysis/main/LICENSE)
 - **Skill**: https://github.com/AgiFlow/claude-code-prompt-analysis/tree/main/.claude/skills/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14685,7 +14685,7 @@ Guide for creating effective skills. This skill should be used when users want t
 
 - **Author**: [Arman08](https://github.com/armanzeroeight) ([`@armanzeroeight`](https://github.com/armanzeroeight))
 - **Skill**: https://github.com/armanzeroeight/agents-skills/tree/main/skills/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14695,7 +14695,7 @@ Guide for creating effective skills. This skill should be used when users want t
 
 - **Author**: [basher83](https://github.com/basher83) ([`@basher83`](https://github.com/basher83))
 - **Skill**: https://github.com/basher83/Zammad-MCP/tree/main/.claude/skills/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14705,7 +14705,7 @@ Guide for creating effective skills. This skill should be used when users want t
 
 - **Author**: [ComposioHQ](https://github.com/ComposioHQ) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/main/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14715,7 +14715,7 @@ Guide for creating effective skills. This skill should be used when users want t
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/official-anthropic-skills/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14725,7 +14725,7 @@ Guide for creating effective skills. This skill should be used when users want t
 
 - **Author**: [Interstellar-code](https://github.com/Interstellar-code) ([`@Interstellar-code`](https://github.com/Interstellar-code))
 - **Skill**: https://github.com/Interstellar-code/claud-skills/tree/main/.claude/skills/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14735,7 +14735,7 @@ Guide for creating effective skills. This skill should be used when users want t
 
 - **Author**: [Interstellar-code](https://github.com/Interstellar-code) ([`@Interstellar-code`](https://github.com/Interstellar-code))
 - **Skill**: https://github.com/Interstellar-code/claud-skills/tree/main/generic-claude-framework/skills/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14745,7 +14745,7 @@ Guide for creating effective skills. This skill should be used when users want t
 
 - **Author**: [LeastBit](https://github.com/LeastBit) ([`@LeastBit`](https://github.com/LeastBit))
 - **Skill**: https://github.com/LeastBit/Claude_skills_zh-CN/tree/main/skill-creator_技能创建器
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14755,7 +14755,7 @@ Guide for creating effective skills. This skill should be used when users want t
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/official-skills/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14765,7 +14765,7 @@ Guide for creating effective skills. This skill should be used when users want t
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/uncategorized/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14775,7 +14775,7 @@ Guide for creating effective skills. This skill should be used when users want t
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14786,7 +14786,7 @@ Guide for creating effective skills. This skill should be used when users want t
 - **Author**: [Oleksii Nikiforov](https://github.com/NikiforovAll) ([`@NikiforovAll`](https://github.com/NikiforovAll))
 - **License**: [Apache 2.0](https://raw.githubusercontent.com/NikiforovAll/claude-code-rules/main/LICENSE)
 - **Skill**: https://github.com/NikiforovAll/claude-code-rules/tree/main/plugins/cc-handbook/skills/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14797,7 +14797,7 @@ Guide for creating effective skills. This skill should be used when users want t
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14807,7 +14807,7 @@ Guide for creating effective skills. This skill should be used when users want t
 
 - **Author**: [Prathit](https://github.com/Prat011) ([`@Prat011`](https://github.com/Prat011))
 - **Skill**: https://github.com/Prat011/awesome-llm-skills/tree/main/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14818,7 +14818,7 @@ Guide for creating effective skills. This skill should be used when users want t
 - **Author**: [Sam](https://github.com/sammcj) ([`@sammcj`](https://github.com/sammcj))
 - **License**: [Apache 2.0](https://raw.githubusercontent.com/sammcj/agentic-coding/main/LICENSE)
 - **Skill**: https://github.com/sammcj/agentic-coding/tree/main/Claude/skills/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14829,7 +14829,7 @@ Guide for creating effective skills. This skill should be used when users want t
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/anthropics/skills/main/skill-creator/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/skill-creator
-- **Tags**: `scaffold`, `generator`, `template`, `meta`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -14839,7 +14839,7 @@ Guide for creating effective skills. This skill should be used when users want t
 
 - **Author**: [Yan Yu Lin](https://github.com/Yan-Yu-Lin) ([`@Yan-Yu-Lin`](https://github.com/Yan-Yu-Lin))
 - **Skill**: https://github.com/Yan-Yu-Lin/plugin-factory/tree/main/skills/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -14850,7 +14850,7 @@ Guide for creating effective skills. This skill should be used when users want t
 - **Author**: [Kay](https://github.com/ykayz) ([`@ykayz`](https://github.com/ykayz))
 - **License**: [MIT](https://raw.githubusercontent.com/ykayz/ClaudeSkills/main/LICENSE)
 - **Skill**: https://github.com/ykayz/ClaudeSkills/tree/main/.claude/skills/skill-creator
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -15006,7 +15006,7 @@ Toolkit for creating animated GIFs optimized for Slack, with validators for size
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/anthropics/skills/main/slack-gif-creator/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/slack-gif-creator
-- **Tags**: `slack`, `gif`, `animation`, `media`, `emoji`
+- **Tags**: `collaboration`, `content`, `image`, `video`
 
 ---
 
@@ -15068,7 +15068,7 @@ Condense messages to 160 characters without losing meaning. Remove unnecessary w
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/sms-text-optimizer
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -15079,7 +15079,7 @@ Condense messages to 160 characters without losing meaning. Remove unnecessary w
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/sms-text-optimizer
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -15101,7 +15101,7 @@ Analyzes social media campaign performance across platforms with engagement metr
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-code-skill-factory/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-code-skill-factory/tree/main/generated-skills-test/social-media-analyzer
-- **Tags**: `ai-automation`, `data-analytics`, `testing`
+- **Tags**: `ai`, `data`, `testing`
 
 ---
 
@@ -15111,7 +15111,7 @@ Convert content between platforms (blog to Twitter thread, article to LinkedIn p
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/social-repurposer
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -15122,7 +15122,7 @@ Convert content between platforms (blog to Twitter thread, article to LinkedIn p
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/social-repurposer
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -15132,7 +15132,7 @@ Generate optimized social media posts for Threads, X (Twitter), and LinkedIn. An
 
 - **Author**: [Aleks Petrov](https://github.com/alekspetrov) ([`@alekspetrov`](https://github.com/alekspetrov))
 - **Skill**: https://github.com/alekspetrov/navigator/tree/main/skills-local/social-media-post
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -15142,7 +15142,7 @@ Generate 30+ LinkedIn posts that attract your target prospects. Creates industry
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/social-selling-content-generator
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -15153,7 +15153,7 @@ Generate 30+ LinkedIn posts that attract your target prospects. Creates industry
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/social-selling-content-generator
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -15206,7 +15206,7 @@ SPARC (Specification, Pseudocode, Architecture, Refinement, Completion) comprehe
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/sparc-methodology
-- **Tags**: `development`, `sparc`, `tdd`, `architecture`, `orchestration`, `methodology`, `multi-agent`
+- **Tags**: `architecture`, `development`, `multi-agent`, `orchestration`, `tdd`
 
 ---
 
@@ -15217,7 +15217,7 @@ SPARC (Specification, Pseudocode, Architecture, Refinement, Completion) comprehe
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/sparc-methodology
-- **Tags**: `development`, `sparc`, `tdd`, `architecture`, `orchestration`, `methodology`, `multi-agent`
+- **Tags**: `architecture`, `development`, `multi-agent`, `orchestration`, `tdd`
 
 ---
 
@@ -15227,7 +15227,7 @@ SPARC (Specification, Pseudocode, Architecture, Refinement, Completion) comprehe
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/sparc-methodology
-- **Tags**: `development`, `sparc`, `tdd`, `architecture`, `orchestration`, `methodology`, `multi-agent`
+- **Tags**: `architecture`, `development`, `multi-agent`, `orchestration`, `tdd`
 
 ---
 
@@ -15238,7 +15238,7 @@ SPARC (Specification, Pseudocode, Architecture, Refinement, Completion) comprehe
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/sparc-methodology
-- **Tags**: `development`, `sparc`, `tdd`, `architecture`, `orchestration`, `methodology`, `multi-agent`
+- **Tags**: `architecture`, `development`, `multi-agent`, `orchestration`, `tdd`
 
 ---
 
@@ -15258,7 +15258,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-specialist-injection
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -15310,7 +15310,7 @@ Generate sport-specific memes from games/moments. Current event reactive content
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/sports-meme-creator
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -15321,7 +15321,7 @@ Generate sport-specific memes from games/moments. Current event reactive content
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/sports-meme-creator
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -15331,7 +15331,7 @@ Create structured podcast episodes. Segment timing, debate points, hot takes, li
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/sports-podcast-outline-generator
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -15342,7 +15342,7 @@ Create structured podcast episodes. Segment timing, debate points, hot takes, li
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/sports-podcast-outline-generator
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -15373,7 +15373,7 @@ Expert knowledge on Spring Boot Actuator for production-ready monitoring, health
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/spring-boot/spring-boot-actuator
-- **Tags**: `development`, `devops`, `spring-boot`, `actuator`, `monitoring`, `health-checks`, `metrics`, `production`
+- **Tags**: `development`, `devops`, `monitoring`, `spring`
 
 ---
 
@@ -15383,7 +15383,7 @@ Caching strategies with Spring Cache abstraction using @Cacheable, @CachePut, @C
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/spring-boot/spring-boot-cache
-- **Tags**: `development`, `spring-boot`, `caching`, `performance`, `cacheable`, `cache-managers`
+- **Tags**: `development`, `performance-testing`, `redis`, `spring`
 
 ---
 
@@ -15393,7 +15393,7 @@ CRUD operation patterns with Spring Data JPA repositories. Standard patterns for
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/spring-boot/spring-boot-crud-patterns
-- **Tags**: `data-analytics`, `development`, `productivity`, `spring-boot`, `java`, `ddd`, `lombok`, `rest-api`, `crud`, `jpa`, `feature-architecture`
+- **Tags**: `api`, `architecture`, `data`, `ddd`, `development`, `java`, `orm`
 
 ---
 
@@ -15403,7 +15403,7 @@ Dependency Injection best practices in Spring Boot with constructor injection, s
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/spring-boot/spring-boot-dependency-injection
-- **Tags**: `development`, `testing`, `spring-boot`, `dependency-injection`, `constructor-injection`, `autowiring`, `best-practices`, `java`
+- **Tags**: `architecture`, `clean-code`, `development`, `java`, `spring`, `testing`
 
 ---
 
@@ -15413,7 +15413,7 @@ Comprehensive Spring Boot development skill covering auto-configuration, depende
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-backend-toolkit/skills/spring-boot-development
-- **Tags**: `security`, `web`, `spring-boot`, `java`, `rest-api`, `spring-data`, `jpa`, `microservices`, `enterprise`
+- **Tags**: `api`, `java`, `microservices`, `orm`, `security`, `spring`, `web`
 
 ---
 
@@ -15423,7 +15423,7 @@ Event-driven architecture patterns in Spring Boot using ApplicationEvent, Applic
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/spring-boot/spring-boot-event-driven-patterns
-- **Tags**: `development`, `web`, `spring-boot`, `java`, `event-driven`, `eda`, `kafka`, `messaging`, `domain-events`, `microservices`, `spring-cloud-stream`
+- **Tags**: `ddd`, `development`, `event-driven`, `java`, `kafka`, `microservices`, `spring`
 
 ---
 
@@ -15433,7 +15433,7 @@ Integration testing patterns with Testcontainers for Spring Boot applications. D
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/spring-boot/spring-boot-test-patterns
-- **Tags**: `ai-automation`, `data-analytics`, `development`, `science`, `testing`, `spring-boot`, `java`, `integration-testing`, `testcontainers`, `junit5`, `spring-test`, `testing-best-practices`, `mocking`, `test-slices`
+- **Tags**: `ai`, `data`, `development`, `integration-testing`, `java`, `junit`, `mockito`
 
 ---
 
@@ -15443,7 +15443,7 @@ Expert in documenting Spring Boot REST APIs using SpringDoc OpenAPI 3.0 and Swag
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/spring-boot/spring-boot-openapi-documentation
-- **Tags**: `development`, `documentation`, `security`, `web`, `spring-boot`, `openapi`, `swagger`, `api-documentation`
+- **Tags**: `api`, `development`, `documentation`, `security`, `spring`, `web`
 
 ---
 
@@ -15453,7 +15453,7 @@ Implement fault tolerance and resilience patterns in Spring Boot applications us
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/spring-boot/spring-boot-resilience4j
-- **Tags**: `ai-automation`, `development`, `science`, `spring-boot`, `resilience4j`, `circuit-breaker`, `fault-tolerance`, `retry`
+- **Tags**: `ai`, `architecture`, `development`, `scientific`, `spring`
 
 ---
 
@@ -15463,7 +15463,7 @@ REST API design standards and best practices for Spring Boot projects. Use this 
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/spring-boot/spring-boot-rest-api-standards
-- **Tags**: `development`, `security`, `web`, `spring-boot`, `rest-api`, `dto`, `validation`, `error-handling`, `pagination`, `hateoas`, `architecture`, `java`
+- **Tags**: `ai`, `api`, `architecture`, `development`, `java`, `security`, `spring`
 
 ---
 
@@ -15473,7 +15473,7 @@ Implement distributed transactions using the Saga Pattern in Spring Boot microse
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/spring-boot/spring-boot-saga-pattern
-- **Tags**: `development`, `web`, `spring-boot`, `saga`, `distributed-transactions`, `choreography`, `orchestration`
+- **Tags**: `ddd`, `development`, `distributed`, `orchestration`, `spring`, `web`
 
 ---
 
@@ -15483,7 +15483,7 @@ Spring Data JPA expertise for building persistence layers. Use when implementing
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/spring-boot/spring-data-jpa
-- **Tags**: `data-analytics`, `development`, `spring-data`, `jpa`, `database`, `hibernate`, `orm`
+- **Tags**: `data`, `database`, `development`, `orm`, `spring`
 
 ---
 
@@ -15493,7 +15493,7 @@ Expert in Spring Data Neo4j integration patterns for graph database development.
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/spring-boot/spring-data-neo4j
-- **Tags**: `data-analytics`, `development`, `testing`, `spring-data`, `neo4j`, `graph-database`, `database`
+- **Tags**: `data`, `database`, `development`, `neo4j`, `spring`, `testing`
 
 ---
 
@@ -15524,7 +15524,7 @@ Sql standards for sql in Database environments. Covers best practices,
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/database/sql
-- **Tags**: `data-analytics`, `productivity`
+- **Tags**: `data`, `productivity`
 
 ---
 
@@ -15534,7 +15534,7 @@ Token-efficient MySQL/PostgreSQL operations using mycli and native CLI tools (Wi
 
 - **Author**: [Interstellar-code](https://github.com/Interstellar-code) ([`@Interstellar-code`](https://github.com/Interstellar-code))
 - **Skill**: https://github.com/Interstellar-code/claud-skills/tree/main/generic-claude-framework/skills/sql-cli
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -15545,7 +15545,7 @@ Master SQL query optimization, indexing strategies, and EXPLAIN analysis to dram
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/sql-optimization-patterns
-- **Tags**: `ai-automation`, `data-analytics`, `development`, `testing`
+- **Tags**: `ai`, `data`, `development`, `testing`
 
 ---
 
@@ -15555,7 +15555,7 @@ Comprehensive SQLAlchemy skill for customer support tech enablement, covering OR
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-database-pro/skills/sqlalchemy
-- **Tags**: `data-analytics`, `python`, `sqlalchemy`, `orm`, `postgresql`, `database`, `customer-support`, `backend`, `fastapi`, `async`, `testing`, `data-curation`
+- **Tags**: `async`, `business`, `data`, `database`, `fastapi`, `orm`, `postgresql`
 
 ---
 
@@ -15565,7 +15565,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-sqlite-memory
-- **Tags**: `ai-automation`, `data-analytics`
+- **Tags**: `ai`, `data`
 
 ---
 
@@ -15575,7 +15575,7 @@ Advanced query strategies for multi-level access control in distributed memory s
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/legacy/v1/docs/skills
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -15605,7 +15605,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-standardized-error-handling
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -15616,7 +15616,7 @@ Access and utilize the Statistical Analysis methodologies for scientific researc
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/statistical-analysis
-- **Tags**: `scientific`, `methodology`, `workflow`, `analysis`
+- **Tags**: `data`, `orchestration`, `scientific`
 
 ---
 
@@ -15627,7 +15627,7 @@ Statistics about the text
 - **Author**: [rscheiwe](https://github.com/rscheiwe) ([`@rscheiwe`](https://github.com/rscheiwe))
 - **License**: [MIT](https://raw.githubusercontent.com/rscheiwe/open-skills/main/LICENSE)
 - **Skill**: https://github.com/rscheiwe/open-skills/tree/main/examples/text-summarizer
-- **Tags**: `development`, `nlp`, `summarization`, `text`, `processing`
+- **Tags**: `development`, `nlp`
 
 ---
 
@@ -15638,7 +15638,7 @@ Access and utilize the Statsmodels Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/statsmodels
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -15648,7 +15648,7 @@ Provides comprehensive technical analysis for stocks and ETFs using RSI, MACD, B
 
 - **Author**: [Francy Lisboa](https://github.com/FrancyJGLisboa) ([`@FrancyJGLisboa`](https://github.com/FrancyJGLisboa))
 - **Skill**: https://github.com/FrancyJGLisboa/agent-skill-creator/tree/main/references/examples/stock-analyzer-cskill
-- **Tags**: `data-analytics`
+- **Tags**: `data`
 
 ---
 
@@ -15680,7 +15680,7 @@ Use during chapter writing to automatically check character behavior, world rule
 - **Author**: [wordflowlab](https://github.com/wordflowlab) ([`@wordflowlab`](https://github.com/wordflowlab))
 - **License**: [MIT](https://raw.githubusercontent.com/wordflowlab/novel-writer-skills/main/LICENSE)
 - **Skill**: https://github.com/wordflowlab/novel-writer-skills/tree/main/templates/skills/quality-assurance/consistency-checker
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -15691,7 +15691,7 @@ Use during chapter writing to automatically check character behavior, world rule
 - **Author**: [wordflowlab](https://github.com/wordflowlab) ([`@wordflowlab`](https://github.com/wordflowlab))
 - **License**: [Apache 2.0](https://raw.githubusercontent.com/wordflowlab/novelweave/main/LICENSE)
 - **Skill**: https://github.com/wordflowlab/novelweave/tree/main/templates/skills/quality-assurance/consistency-checker
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -15702,7 +15702,7 @@ Stream-JSON chaining for multi-agent pipelines, data transformation, and sequent
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/stream-chain
-- **Tags**: `ai-automation`, `data-analytics`, `devops`, `streaming`, `pipeline`, `chaining`, `multi-agent`, `workflow`
+- **Tags**: `ai`, `data`, `devops`, `kafka`, `multi-agent`, `orchestration`
 
 ---
 
@@ -15713,7 +15713,7 @@ Stream-JSON chaining for multi-agent pipelines, data transformation, and sequent
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/stream-chain
-- **Tags**: `devops`, `streaming`, `pipeline`, `chaining`, `multi-agent`, `workflow`
+- **Tags**: `devops`, `kafka`, `multi-agent`, `orchestration`
 
 ---
 
@@ -15723,7 +15723,7 @@ Stream-JSON chaining for multi-agent pipelines, data transformation, and sequent
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/stream-chain
-- **Tags**: `devops`, `streaming`, `pipeline`, `chaining`, `multi-agent`, `workflow`
+- **Tags**: `devops`, `kafka`, `multi-agent`, `orchestration`
 
 ---
 
@@ -15734,7 +15734,7 @@ Stream-JSON chaining for multi-agent pipelines, data transformation, and sequent
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/stream-chain
-- **Tags**: `devops`, `streaming`, `pipeline`, `chaining`, `multi-agent`, `workflow`
+- **Tags**: `devops`, `kafka`, `multi-agent`, `orchestration`
 
 ---
 
@@ -15745,7 +15745,7 @@ Access and utilize the String Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/string-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -15755,7 +15755,7 @@ Implement Stripe payment processing for robust, PCI-compliant payment flows incl
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/stripe-integration
-- **Tags**: `security`, `business`
+- **Tags**: `business`, `security`
 
 ---
 
@@ -15765,7 +15765,7 @@ Implement Stripe payment processing for robust, PCI-compliant payment flows incl
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/payment-processing/stripe-integration
-- **Tags**: `security`, `business`
+- **Tags**: `business`, `security`
 
 ---
 
@@ -15776,7 +15776,7 @@ Implement Stripe payment processing for robust, PCI-compliant payment flows incl
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/payment-processing/skills/stripe-integration
-- **Tags**: `security`, `business`
+- **Tags**: `business`, `security`
 
 ---
 
@@ -15831,7 +15831,7 @@ Use when executing implementation plans with independent tasks in the current se
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/subagent-driven-development
-- **Tags**: `workflow`, `agents`, `development`, `quality`
+- **Tags**: `development`, `multi-agent`, `orchestration`, `testing`
 
 ---
 
@@ -15862,7 +15862,7 @@ Comprehensive Svelte development skill covering reactivity runes, components, st
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-frontend-essentials/skills/svelte-development
-- **Tags**: `web`, `svelte`, `reactivity`, `runes`, `components`, `stores`, `transitions`, `animations`
+- **Tags**: `css`, `svelte`, `vue`, `web`
 
 ---
 
@@ -15872,7 +15872,7 @@ Comprehensive Svelte development skill covering reactivity runes, components, st
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/sveltia-cms
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -15883,7 +15883,7 @@ Advanced swarm orchestration patterns for research, development, testing, and co
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/swarm-advanced
-- **Tags**: `development`, `science`, `testing`, `swarm`, `distributed`, `parallel`, `research`, `coordination`
+- **Tags**: `async`, `development`, `distributed`, `multi-agent`, `orchestration`, `scientific`, `testing`
 
 ---
 
@@ -15894,7 +15894,7 @@ Advanced swarm orchestration patterns for research, development, testing, and co
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/swarm-advanced
-- **Tags**: `testing`, `swarm`, `distributed`, `parallel`, `research`, `development`, `coordination`
+- **Tags**: `async`, `development`, `distributed`, `multi-agent`, `orchestration`, `scientific`, `testing`
 
 ---
 
@@ -15904,7 +15904,7 @@ Advanced swarm orchestration patterns for research, development, testing, and co
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/swarm-advanced
-- **Tags**: `testing`, `swarm`, `distributed`, `parallel`, `research`, `development`, `coordination`
+- **Tags**: `async`, `development`, `distributed`, `multi-agent`, `orchestration`, `scientific`, `testing`
 
 ---
 
@@ -15915,7 +15915,7 @@ Advanced swarm orchestration patterns for research, development, testing, and co
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/swarm-advanced
-- **Tags**: `testing`, `swarm`, `distributed`, `parallel`, `research`, `development`, `coordination`
+- **Tags**: `async`, `development`, `distributed`, `multi-agent`, `orchestration`, `scientific`, `testing`
 
 ---
 
@@ -15980,7 +15980,7 @@ Master Swift coding standards with Apple's guidelines, protocol-oriented design,
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/coding-standards/swift
-- **Tags**: `development`, `swift`, `ios`, `macos`, `mobile`, `apple`
+- **Tags**: `development`, `mobile`, `swift`
 
 ---
 
@@ -16032,7 +16032,7 @@ Use when encountering any bug, test failure, or unexpected behavior, before prop
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/systematic-debugging
-- **Tags**: `debugging`, `methodology`, `investigation`, `analysis`
+- **Tags**: `data`, `debugging`
 
 ---
 
@@ -16052,7 +16052,7 @@ Utility-first CSS framework for rapid UI development with responsive design, com
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/tailwind-v4-shadcn
-- **Tags**: `ai-automation`, `testing`, `web`
+- **Tags**: `ai`, `testing`, `web`
 
 ---
 
@@ -16093,7 +16093,7 @@ Master skill that orchestrates content extraction from YouTube, articles, and PD
 - **Author**: [Michal Parkola](https://github.com/michalparkola) ([`@michalparkola`](https://github.com/michalparkola))
 - **License**: [MIT](https://raw.githubusercontent.com/michalparkola/tapestry-skills-for-claude-code/main/LICENSE)
 - **Skill**: https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry
-- **Tags**: `productivity`, `learning`, `content`, `automation`, `workflow`
+- **Tags**: `automation`, `content`, `education`, `orchestration`, `productivity`
 
 ---
 
@@ -16123,7 +16123,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-complexity-estimator
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -16134,7 +16134,7 @@ Expert at analyzing requirement changes, understanding what changed in specifica
 - **Author**: [reqvire-org](https://github.com/reqvire-org) ([`@reqvire-org`](https://github.com/reqvire-org))
 - **License**: [Apache 2.0](https://raw.githubusercontent.com/reqvire-org/reqvire/main/LICENSE)
 - **Skill**: https://github.com/reqvire-org/reqvire/tree/main/reqvire-claude-plugin/skills/task-master
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -16144,7 +16144,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-task-classifier
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -16154,7 +16154,7 @@ Comprehensive PRD generation with full taskmaster integration. Generates detaile
 
 - **Author**: [Hayden](https://github.com/anombyte93) ([`@anombyte93`](https://github.com/anombyte93))
 - **Skill**: https://github.com/anombyte93/prd-taskmaster
-- **Tags**: `science`, `ai-automation`, `development`
+- **Tags**: `ai`, `development`, `scientific`
 
 ---
 
@@ -16164,7 +16164,7 @@ Pre-tax vs Roth analysis, charitable giving optimization, capital gains timing, 
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/tax-strategy-optimizer
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -16175,7 +16175,7 @@ Pre-tax vs Roth analysis, charitable giving optimization, capital gains timing, 
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/tax-strategy-optimizer
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -16186,7 +16186,7 @@ Apply both London and Chicago school TDD approaches. Use when practicing test-dr
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/tdd-london-chicago
-- **Tags**: `testing`, `tdd`, `test-driven-development`, `london-school`, `chicago-school`, `mocking`, `red-green-refactor`
+- **Tags**: `mockito`, `tdd`, `testing`
 
 ---
 
@@ -16196,7 +16196,7 @@ Analyze roster fit and personality dynamics. Leadership assessment, role clarity
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/team-chemistry-evaluator
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -16207,7 +16207,7 @@ Analyze roster fit and personality dynamics. Leadership assessment, role clarity
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/team-chemistry-evaluator
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -16228,7 +16228,7 @@ Systematic technical debt quantification and management using SQALE methodology 
 - **Author**: [Yale Huang](https://github.com/yaleh) ([`@yaleh`](https://github.com/yaleh))
 - **License**: [MIT](https://raw.githubusercontent.com/yaleh/meta-cc/main/LICENSE)
 - **Skill**: https://github.com/yaleh/meta-cc/tree/main/.claude/skills/technical-debt-management
-- **Tags**: `testing`, `project-management`
+- **Tags**: `project-management`, `testing`
 
 ---
 
@@ -16238,7 +16238,7 @@ Create stunning, interactive HTML technical documentation with code blocks, API 
 
 - **Author**: [mhattingpete](https://github.com/mhattingpete) ([`@mhattingpete`](https://github.com/mhattingpete))
 - **Skill**: https://github.com/mhattingpete/claude-skills-marketplace/tree/main/visual-documentation-plugin/skills/technical-doc-creator
-- **Tags**: `documentation`, `education`, `development`
+- **Tags**: `development`, `documentation`, `education`
 
 ---
 
@@ -16270,7 +16270,7 @@ Write clear, engaging technical content from real experience. Use when writing b
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/technical-writing
-- **Tags**: `writing`, `documentation`, `blogging`, `tutorials`, `content-creation`, `clarity`, `audience-awareness`
+- **Tags**: `content`, `documentation`, `education`
 
 ---
 
@@ -16404,7 +16404,7 @@ Replace with description of the skill and when Claude should use it.
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/anthropics/skills/main/template-skill/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/template-skill
-- **Tags**: `template`, `starter`, `example`, `boilerplate`
+- **Tags**: `web`
 
 ---
 
@@ -16414,7 +16414,7 @@ Comprehensive Terraform infrastructure-as-code skill covering providers, resourc
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-devops-suite/skills/terraform-infrastructure
-- **Tags**: `devops`, `development`
+- **Tags**: `development`, `devops`
 
 ---
 
@@ -16424,7 +16424,7 @@ Comprehensive Terraform Infrastructure as Code skill covering resources, modules
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-devops-suite/skills/terraform-infrastructure-as-code
-- **Tags**: `devops`, `development`, `terraform`, `infrastructure-as-code`, `cloud`, `automation`, `aws`, `azure`, `gcp`, `state-management`, `modules`
+- **Tags**: `automation`, `aws`, `azure`, `cloud`, `development`, `devops`, `gcp`
 
 ---
 
@@ -16434,7 +16434,7 @@ Build reusable Terraform modules for AWS, Azure, and GCP infrastructure followin
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/terraform-module-library
-- **Tags**: `devops`, `development`
+- **Tags**: `development`, `devops`
 
 ---
 
@@ -16444,7 +16444,7 @@ Build reusable Terraform modules for AWS, Azure, and GCP infrastructure followin
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/cloud-infrastructure/terraform-module-library
-- **Tags**: `devops`, `development`
+- **Tags**: `development`, `devops`
 
 ---
 
@@ -16455,7 +16455,7 @@ Build reusable Terraform modules for AWS, Azure, and GCP infrastructure followin
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/terraform-module-library
-- **Tags**: `devops`, `development`
+- **Tags**: `development`, `devops`
 
 ---
 
@@ -16476,7 +16476,7 @@ Account assignment by revenue potential, geography, relationship. Workload balan
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/territory-planning-optimizer
-- **Tags**: `ai-automation`, `testing`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -16487,7 +16487,7 @@ Build effective test automation strategy using the test pyramid and practical pa
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/test-automation-strategy
-- **Tags**: `testing`, `test-automation`, `test-pyramid`, `ci-cd`, `automation-strategy`, `unit-testing`, `integration-testing`
+- **Tags**: `automation`, `ci-cd`, `integration-testing`, `test-automation`, `testing`, `unit-testing`
 
 ---
 
@@ -16497,7 +16497,7 @@ Designs comprehensive test cases for PHP/CakePHP applications, categorizing them
 
 - **Author**: [masanao-ohba](https://github.com/masanao-ohba) ([`@masanao-ohba`](https://github.com/masanao-ohba))
 - **Skill**: https://github.com/masanao-ohba/claude-manifests/tree/main/skills/php-cakephp/test-case-designer
-- **Tags**: `testing`, `documentation`
+- **Tags**: `documentation`, `testing`
 
 ---
 
@@ -16508,7 +16508,7 @@ Strategic test data generation, management, and privacy compliance. Use when cre
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/test-data-management
-- **Tags**: `data-analytics`, `security`, `testing`, `test-data`, `data-generation`, `data-privacy`, `gdpr-compliance`, `synthetic-data`, `data-masking`, `test-fixtures`
+- **Tags**: `compliance`, `data`, `security`, `testing`
 
 ---
 
@@ -16519,7 +16519,7 @@ Systematic test design with boundary value analysis, equivalence partitioning, d
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/test-design-techniques
-- **Tags**: `testing`, `test-design`, `bva`, `equivalence-partitioning`, `decision-tables`, `combinatorial-testing`, `pairwise`
+- **Tags**: `testing`
 
 ---
 
@@ -16530,7 +16530,7 @@ Test environment provisioning, infrastructure as code for testing, Docker/Kubern
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/test-environment-management
-- **Tags**: `testing`, `test-environments`, `docker`, `kubernetes`, `infrastructure-as-code`, `service-virtualization`, `environment-parity`
+- **Tags**: `devops`, `docker`, `kubernetes`, `terraform`, `testing`
 
 ---
 
@@ -16540,7 +16540,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-test-execution
-- **Tags**: `ai-automation`, `testing`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -16551,7 +16551,7 @@ Detect failing tests and propose patches or fixes to get test suites passing aga
 - **Author**: [mhattingpete](https://github.com/mhattingpete) ([`@mhattingpete`](https://github.com/mhattingpete))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/mhattingpete/claude-skills-marketplace/main/LICENSE)
 - **Skill**: https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing
-- **Tags**: `testing`, `debugging`, `automation`, `fixes`
+- **Tags**: `automation`, `debugging`, `testing`
 
 ---
 
@@ -16562,7 +16562,7 @@ Generate unit tests based on existing code patterns and testing frameworks.
 - **Author**: [CuriousLearner](https://github.com/CuriousLearner) ([`@CuriousLearner`](https://github.com/CuriousLearner))
 - **License**: [MIT](https://raw.githubusercontent.com/CuriousLearner/devkit/main/LICENSE)
 - **Skill**: https://github.com/CuriousLearner/devkit/tree/main/skills/test-generator
-- **Tags**: `testing`, `science`, `development`
+- **Tags**: `development`, `scientific`, `testing`
 
 ---
 
@@ -16573,7 +16573,7 @@ Advanced test reporting, quality dashboards, predictive analytics, trend analysi
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/test-reporting-analytics
-- **Tags**: `data-analytics`, `testing`, `test-reporting`, `analytics`, `dashboards`, `metrics`, `kpis`, `executive-reporting`
+- **Tags**: `analytics`, `data`, `monitoring`, `testing`
 
 ---
 
@@ -16593,7 +16593,7 @@ Validates PHP test files for CakePHP projects, ensuring compliance with testing 
 
 - **Author**: [masanao-ohba](https://github.com/masanao-ohba) ([`@masanao-ohba`](https://github.com/masanao-ohba))
 - **Skill**: https://github.com/masanao-ohba/claude-manifests/tree/main/skills/php-cakephp/test-validator
-- **Tags**: `testing`, `security`, `documentation`
+- **Tags**: `documentation`, `security`, `testing`
 
 ---
 
@@ -16604,7 +16604,7 @@ Use when implementing any feature or bugfix, before writing implementation code 
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/test-driven-development
-- **Tags**: `testing`, `tdd`, `methodology`, `quality`
+- **Tags**: `tdd`, `testing`
 
 ---
 
@@ -16615,7 +16615,7 @@ Comprehensive testing standards including unit, integration, security, and prope
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/testing
-- **Tags**: `testing`, `security`
+- **Tags**: `security`, `testing`
 
 ---
 
@@ -16626,7 +16626,7 @@ Use when writing or changing tests, adding mocks, or tempted to add test-only me
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/testing-anti-patterns
-- **Tags**: `testing`, `patterns`, `quality`, `best-practices`
+- **Tags**: `architecture`, `clean-code`, `testing`
 
 ---
 
@@ -16637,7 +16637,7 @@ Automatically generates comprehensive test suites (unit, integration, E2E) based
 - **Author**: [Toowiredd](https://github.com/Toowiredd) ([`@Toowiredd`](https://github.com/Toowiredd))
 - **License**: [MIT](https://raw.githubusercontent.com/Toowiredd/claude-skills-automation/master/LICENSE)
 - **Skill**: https://github.com/Toowiredd/claude-skills-automation/tree/main/skills/testing-builder
-- **Tags**: `testing`, `science`, `ai-automation`
+- **Tags**: `ai`, `scientific`, `testing`
 
 ---
 
@@ -16647,7 +16647,7 @@ Ensuring software correctness and reliability by writing automated tests, using 
 
 - **Author**: [baz-scm](https://github.com/baz-scm) ([`@baz-scm`](https://github.com/baz-scm))
 - **Skill**: https://github.com/baz-scm/awesome-reviewers/tree/main/_skills/testing-debugging
-- **Tags**: `testing`, `development`
+- **Tags**: `development`, `testing`
 
 ---
 
@@ -16668,7 +16668,7 @@ Use when creating or editing skills, before deployment, to verify they work unde
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/testing-skills-with-subagents
-- **Tags**: `meta`, `testing`, `validation`, `quality`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -16688,7 +16688,7 @@ Provides test design patterns, coverage strategies, and best practices for compr
 
 - **Author**: [ART.gineering - Werapol Bejranonda](https://github.com/bejranonda) ([`@bejranonda`](https://github.com/bejranonda))
 - **Skill**: https://github.com/bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude/tree/main/skills/testing-strategies
-- **Tags**: `testing`, `ai-automation`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -16699,7 +16699,7 @@ Comprehensive testing strategies including test pyramid, TDD methodology, testin
 - **Author**: [Jason Brashear (AKA SEM)](https://github.com/webdevtodayjason) ([`@webdevtodayjason`](https://github.com/webdevtodayjason))
 - **License**: [MIT](https://raw.githubusercontent.com/webdevtodayjason/titanium-plugins/main/LICENSE)
 - **Skill**: https://github.com/webdevtodayjason/titanium-plugins/tree/main/plugins/titanium-toolkit/skills/testing-strategy
-- **Tags**: `testing`, `devops`, `ai-automation`
+- **Tags**: `ai`, `devops`, `testing`
 
 ---
 
@@ -16710,7 +16710,7 @@ Systematic testing methodology for Go projects using TDD, coverage-driven gap cl
 - **Author**: [Yale Huang](https://github.com/yaleh) ([`@yaleh`](https://github.com/yaleh))
 - **License**: [MIT](https://raw.githubusercontent.com/yaleh/meta-cc/main/LICENSE)
 - **Skill**: https://github.com/yaleh/meta-cc/tree/main/.claude/skills/testing-strategy
-- **Tags**: `testing`, `ai-automation`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -16721,7 +16721,7 @@ Toolkit for styling artifacts with a theme. These artifacts can be slides, docs,
 - **Author**: [AgiFlow](https://github.com/AgiFlow) ([`@AgiFlow`](https://github.com/AgiFlow))
 - **License**: [MIT](https://raw.githubusercontent.com/AgiFlow/claude-code-prompt-analysis/main/LICENSE)
 - **Skill**: https://github.com/AgiFlow/claude-code-prompt-analysis/tree/main/.claude/skills/theme-factory
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -16731,7 +16731,7 @@ Toolkit for styling artifacts with a theme. These artifacts can be slides, docs,
 
 - **Author**: [ComposioHQ](https://github.com/ComposioHQ) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/main/theme-factory
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -16741,7 +16741,7 @@ Toolkit for styling artifacts with a theme. These artifacts can be slides, docs,
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/official-anthropic-skills/theme-factory
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -16761,7 +16761,7 @@ Toolkit for styling artifacts with a theme. These artifacts can be slides, docs,
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/official-skills/theme-factory
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -16771,7 +16771,7 @@ Toolkit for styling artifacts with a theme. These artifacts can be slides, docs,
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/uncategorized/theme-factory
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -16782,7 +16782,7 @@ Toolkit for styling artifacts with a theme. These artifacts can be slides, docs,
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/theme-factory
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -16792,7 +16792,7 @@ Toolkit for styling artifacts with a theme. These artifacts can be slides, docs,
 
 - **Author**: [Prathit](https://github.com/Prat011) ([`@Prat011`](https://github.com/Prat011))
 - **Skill**: https://github.com/Prat011/awesome-llm-skills/tree/main/theme-factory
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -16803,7 +16803,7 @@ Toolkit for styling artifacts with a theme. These artifacts can be slides, docs,
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/anthropics/skills/main/theme-factory/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/theme-factory
-- **Tags**: `theme`, `design`, `styling`, `colors`, `fonts`
+- **Tags**: `css`, `design`
 
 ---
 
@@ -16813,7 +16813,7 @@ Toolkit for styling artifacts with a theme. These artifacts can be slides, docs,
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/thesys-generative-ui
-- **Tags**: `ai-automation`, `data-analytics`, `devops`, `web`
+- **Tags**: `ai`, `data`, `devops`, `web`
 
 ---
 
@@ -16824,7 +16824,7 @@ Toolkit for styling artifacts with a theme. These artifacts can be slides, docs,
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/security/threat-modeling
-- **Tags**: `testing`, `ai-automation`, `development`, `stride`, `risk-assessment`, `attack-trees`, `dfd`, `threat-analysis`
+- **Tags**: `ai`, `development`, `security`, `testing`
 
 ---
 
@@ -16844,7 +16844,7 @@ Create stunning, interactive HTML timelines and project roadmaps with Gantt char
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/tinacms
-- **Tags**: `web`, `development`
+- **Tags**: `development`, `web`
 
 ---
 
@@ -16854,7 +16854,7 @@ Create stunning, interactive HTML timelines and project roadmaps with Gantt char
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/templates/skill-skeleton
-- **Tags**: `web`, `ai-automation`, `development`
+- **Tags**: `ai`, `development`, `web`
 
 ---
 
@@ -16865,7 +16865,7 @@ Access and utilize the Tooluniverse Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/tooluniverse
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -16876,7 +16876,7 @@ Access and utilize the Torch_Geometric Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/torch_geometric
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -16887,7 +16887,7 @@ Access and utilize the Torchdrug Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/torchdrug
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -16898,7 +16898,7 @@ Track how ideas evolve across iterations and influences to understand the develo
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers-skills/tree/main/skills/research/tracing-knowledge-lineages
-- **Tags**: `research`, `knowledge`, `history`, `analysis`
+- **Tags**: `data`, `knowledge-base`, `scientific`
 
 ---
 
@@ -16940,7 +16940,7 @@ Access and utilize the Transformers Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/transformers
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -16950,7 +16950,7 @@ Translates English technical articles (engineering blogs, documentation) to Japa
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/translate-article
-- **Tags**: `writing`, `documentation`
+- **Tags**: `content`, `documentation`
 
 ---
 
@@ -16960,7 +16960,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-transparency-middleware
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -16970,7 +16970,7 @@ Create clever, non-offensive trash talk. Rivalry-specific references, historical
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/trash-talk-generator
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -16981,7 +16981,7 @@ Create clever, non-offensive trash talk. Rivalry-specific references, historical
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/trash-talk-generator
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -17012,7 +17012,7 @@ Refactor codebases using Design by Typed Holes methodology - iterative, test-dri
 - **Author**: [Rand Arete](https://github.com/rand) ([`@rand`](https://github.com/rand))
 - **License**: [MIT](https://raw.githubusercontent.com/rand/cc-polymath/main/LICENSE)
 - **Skill**: https://github.com/rand/cc-experiments/tree/main/skills/typed-holes-refactor
-- **Tags**: `ai-automation`, `development`, `testing`
+- **Tags**: `ai`, `development`, `testing`
 
 ---
 
@@ -17022,7 +17022,7 @@ Master TypeScript's advanced type system including generics, conditional types, 
 
 - **Author**: [kaishu aoyama](https://github.com/camoneart) ([`@camoneart`](https://github.com/camoneart))
 - **Skill**: https://github.com/camoneart/claude-code/tree/main/skills/typescript-advanced-types
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -17032,7 +17032,7 @@ Master TypeScript's advanced type system including generics, conditional types, 
 
 - **Author**: [lifangda](https://github.com/lifangda) ([`@lifangda`](https://github.com/lifangda))
 - **Skill**: https://github.com/lifangda/claude-plugins/tree/main/cli-tool/skills-library/javascript-typescript/typescript-advanced-types
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -17043,7 +17043,7 @@ Master TypeScript's advanced type system including generics, conditional types, 
 - **Author**: [Seth Hobson](https://github.com/wshobson) ([`@wshobson`](https://github.com/wshobson))
 - **License**: [MIT](https://raw.githubusercontent.com/wshobson/agents/main/LICENSE)
 - **Skill**: https://github.com/wshobson/agents/tree/main/plugins/javascript-typescript/skills/typescript-advanced-types
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -17054,7 +17054,7 @@ TypeScript coding standards covering strict type system, advanced types, decorat
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/coding-standards/typescript
-- **Tags**: `science`, `development`
+- **Tags**: `development`, `scientific`
 
 ---
 
@@ -17064,7 +17064,7 @@ Common interface patterns, navigation patterns, form patterns, data display patt
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-frontend-essentials/skills/ui-design-patterns
-- **Tags**: `development`, `ui`, `patterns`, `components`, `navigation`, `forms`, `accessibility`, `interaction-design`
+- **Tags**: `accessibility`, `architecture`, `design`, `development`, `web`
 
 ---
 
@@ -17075,7 +17075,7 @@ UI design system toolkit for Senior UI Designer including design token generatio
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/product-team/ui-design-system
-- **Tags**: `science`, `design`, `documentation`
+- **Tags**: `design`, `documentation`, `scientific`
 
 ---
 
@@ -17096,7 +17096,7 @@ Access and utilize the Umap Learn Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/umap-learn
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -17107,7 +17107,7 @@ Access and utilize the Uniprot Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/uniprot-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -17117,7 +17117,7 @@ Testing Spring application events (ApplicationEvent) with @EventListener and App
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-application-events
-- **Tags**: `development`, `testing`, `junit-5`, `application-events`, `event-driven`, `listeners`, `publishers`
+- **Tags**: `development`, `event-driven`, `junit`, `testing`
 
 ---
 
@@ -17127,7 +17127,7 @@ Unit testing Jakarta Bean Validation (@Valid, @NotNull, @Min, @Max, etc.) with c
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-bean-validation
-- **Tags**: `ai-automation`, `data-analytics`, `development`, `testing`, `junit-5`, `validation`, `bean-validation`, `jakarta-validation`, `constraints`
+- **Tags**: `ai`, `data`, `development`, `java`, `junit`, `testing`
 
 ---
 
@@ -17137,7 +17137,7 @@ Edge case and boundary testing patterns for unit tests. Testing minimum/maximum 
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-boundary-conditions
-- **Tags**: `development`, `testing`, `junit-5`, `boundary-testing`, `edge-cases`, `parameterized-test`
+- **Tags**: `development`, `junit`, `testing`
 
 ---
 
@@ -17147,7 +17147,7 @@ Unit tests for caching behavior using Spring Cache annotations (@Cacheable, @Cac
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-caching
-- **Tags**: `development`, `testing`, `junit-5`, `caching`, `cacheable`, `cache-evict`, `cache-put`
+- **Tags**: `development`, `junit`, `redis`, `testing`
 
 ---
 
@@ -17157,7 +17157,7 @@ Unit tests for @ConfigurationProperties classes with @ConfigurationPropertiesTes
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-config-properties
-- **Tags**: `development`, `testing`, `junit-5`, `configuration-properties`, `spring-profiles`, `property-binding`
+- **Tags**: `angular`, `development`, `junit`, `spring`, `testing`
 
 ---
 
@@ -17167,7 +17167,7 @@ Unit tests for REST controllers using MockMvc and @WebMvcTest. Test request/resp
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-controller-layer
-- **Tags**: `development`, `testing`, `web`, `junit-5`, `mockito`, `unit-testing`, `controller`, `rest`, `mockmvc`
+- **Tags**: `api`, `development`, `junit`, `mockito`, `testing`, `unit-testing`, `web`
 
 ---
 
@@ -17177,7 +17177,7 @@ Unit tests for @ExceptionHandler and @ControllerAdvice for global exception hand
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-exception-handler
-- **Tags**: `development`, `testing`, `junit-5`, `exception-handler`, `controller-advice`, `error-handling`, `mockmvc`
+- **Tags**: `development`, `junit`, `mockito`, `testing`
 
 ---
 
@@ -17187,7 +17187,7 @@ Unit tests for JSON serialization/deserialization with Jackson and @JsonTest. Us
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-json-serialization
-- **Tags**: `development`, `testing`, `junit-5`, `json-test`, `jackson`, `serialization`, `deserialization`
+- **Tags**: `api`, `development`, `java`, `junit`, `testing`
 
 ---
 
@@ -17197,7 +17197,7 @@ Unit tests for mappers and converters (MapStruct, custom mappers). Test object t
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-mapper-converter
-- **Tags**: `ai-automation`, `data-analytics`, `development`, `testing`, `junit-5`, `mapstruct`, `mapper`, `dto`, `entity`, `converter`
+- **Tags**: `ai`, `api`, `data`, `database`, `development`, `java`, `junit`
 
 ---
 
@@ -17207,7 +17207,7 @@ Parameterized testing patterns with @ParameterizedTest, @ValueSource, @CsvSource
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-parameterized
-- **Tags**: `development`, `testing`, `junit-5`, `parameterized-test`, `value-source`, `csv-source`, `method-source`
+- **Tags**: `development`, `junit`, `testing`
 
 ---
 
@@ -17217,7 +17217,7 @@ Unit tests for scheduled and async tasks using @Scheduled and @Async. Mock task 
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-scheduled-async
-- **Tags**: `development`, `testing`, `junit-5`, `scheduled`, `async`, `concurrency`, `completablefuture`
+- **Tags**: `async`, `development`, `junit`, `testing`
 
 ---
 
@@ -17227,7 +17227,7 @@ Unit tests for Spring Security with @PreAuthorize, @Secured, @RolesAllowed. Test
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-security-authorization
-- **Tags**: `development`, `security`, `testing`, `junit-5`, `spring-security`, `authorization`, `roles`, `preauthorize`, `mockmvc`
+- **Tags**: `development`, `junit`, `mockito`, `security`, `spring`, `testing`
 
 ---
 
@@ -17237,7 +17237,7 @@ Unit tests for service layer with Mockito. Test business logic in isolation by m
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-service-layer
-- **Tags**: `data-analytics`, `development`, `science`, `testing`, `junit-5`, `mockito`, `unit-testing`, `service-layer`, `business-logic`
+- **Tags**: `architecture`, `business`, `data`, `development`, `junit`, `mockito`, `scientific`
 
 ---
 
@@ -17247,7 +17247,7 @@ Unit tests for utility/helper classes and static methods. Test pure functions an
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-utility-methods
-- **Tags**: `development`, `testing`, `junit-5`, `unit-testing`, `utility`, `static-methods`, `pure-functions`
+- **Tags**: `development`, `junit`, `testing`, `unit-testing`
 
 ---
 
@@ -17257,7 +17257,7 @@ Unit tests for external REST APIs using WireMock to mock HTTP endpoints. Use whe
 
 - **Author**: [Giuseppe Trisciuoglio](https://github.com/giuseppe-trisciuoglio) ([`@giuseppe-trisciuoglio`](https://github.com/giuseppe-trisciuoglio))
 - **Skill**: https://github.com/giuseppe-trisciuoglio/developer-kit/tree/main/skills/junit-test/unit-test-wiremock-rest-api
-- **Tags**: `development`, `science`, `testing`, `web`, `junit-5`, `wiremock`, `unit-testing`, `rest-api`, `mocking`, `http-stubbing`
+- **Tags**: `api`, `development`, `junit`, `mockito`, `scientific`, `testing`, `unit-testing`
 
 ---
 
@@ -17268,7 +17268,7 @@ Unit testing standards following TDD methodology, test pyramid principles, and c
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/testing/unit-testing
-- **Tags**: `testing`, `ai-automation`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -17279,7 +17279,7 @@ Detect and resolve Unity C# compilation errors using VSCode diagnostics. Use thi
 - **Author**: [DevGOM](https://github.com/Dev-GOM) ([`@Dev-GOM`](https://github.com/Dev-GOM))
 - **License**: [MIT](https://raw.githubusercontent.com/Dev-GOM/claude-code-marketplace/main/LICENSE)
 - **Skill**: https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/unity-dev-toolkit/skills/unity-compile-fixer
-- **Tags**: `gaming`, `development`
+- **Tags**: `development`, `gaming`
 
 ---
 
@@ -17301,7 +17301,7 @@ Validates C# scripts for best practices, performance, and Unity patterns. Use wh
 - **Author**: [DevGOM](https://github.com/Dev-GOM) ([`@Dev-GOM`](https://github.com/Dev-GOM))
 - **License**: [MIT](https://raw.githubusercontent.com/Dev-GOM/claude-code-marketplace/main/LICENSE)
 - **Skill**: https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/unity-dev-toolkit/skills/unity-script-validator
-- **Tags**: `gaming`, `development`
+- **Tags**: `development`, `gaming`
 
 ---
 
@@ -17312,7 +17312,7 @@ Generates production-ready C# script templates (MonoBehaviour, ScriptableObject,
 - **Author**: [DevGOM](https://github.com/Dev-GOM) ([`@Dev-GOM`](https://github.com/Dev-GOM))
 - **License**: [MIT](https://raw.githubusercontent.com/Dev-GOM/claude-code-marketplace/main/LICENSE)
 - **Skill**: https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/unity-dev-toolkit/skills/unity-template-generator
-- **Tags**: `testing`, `science`, `gaming`
+- **Tags**: `gaming`, `scientific`, `testing`
 
 ---
 
@@ -17323,7 +17323,7 @@ Execute and analyze Unity Test Framework tests from the command line. This skill
 - **Author**: [DevGOM](https://github.com/Dev-GOM) ([`@Dev-GOM`](https://github.com/Dev-GOM))
 - **License**: [MIT](https://raw.githubusercontent.com/Dev-GOM/claude-code-marketplace/main/LICENSE)
 - **Skill**: https://github.com/Dev-GOM/claude-code-marketplace/tree/main/plugins/unity-dev-toolkit/skills/unity-test-runner
-- **Tags**: `testing`, `gaming`
+- **Tags**: `gaming`, `testing`
 
 ---
 
@@ -17355,7 +17355,7 @@ Expert guidance for unix-goto shell navigation tool development, including archi
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-specialized-tools/skills/unix-goto-development
-- **Tags**: `testing`, `ai-automation`, `project-management`
+- **Tags**: `ai`, `project-management`, `testing`
 
 ---
 
@@ -17366,7 +17366,7 @@ This skill should be used when the user wants to add components (commands, agent
 - **Author**: [Oleksii Nikiforov](https://github.com/NikiforovAll) ([`@NikiforovAll`](https://github.com/NikiforovAll))
 - **License**: [Apache 2.0](https://raw.githubusercontent.com/NikiforovAll/claude-code-rules/main/LICENSE)
 - **Skill**: https://github.com/NikiforovAll/claude-code-rules/tree/main/.claude/skills/update-component-reference
-- **Tags**: `development`, `ai-automation`
+- **Tags**: `ai`, `development`
 
 ---
 
@@ -17428,7 +17428,7 @@ Use when starting feature work that needs isolation from current workspace or be
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees
-- **Tags**: `git`, `workflow`, `isolation`, `development`
+- **Tags**: `development`, `git`, `orchestration`
 
 ---
 
@@ -17449,7 +17449,7 @@ Use when starting any conversation - establishes mandatory workflows for finding
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/using-superpowers
-- **Tags**: `meta`, `workflow`, `introduction`, `getting-started`
+- **Tags**: `orchestration`
 
 ---
 
@@ -17470,7 +17470,7 @@ Access and utilize the Uspto Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/uspto-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -17480,7 +17480,7 @@ Create standardized UTM tracking for all campaigns. Ensure consistent naming con
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/utm-parameter-generator
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -17491,7 +17491,7 @@ Create standardized UTM tracking for all campaigns. Ensure consistent naming con
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/utm-parameter-generator
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
@@ -17543,7 +17543,7 @@ User research, usability heuristics, user psychology, accessibility, inclusive d
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-design-toolkit/skills/ux-principles
-- **Tags**: `testing`, `ux`, `user-research`, `usability`, `accessibility`, `design-thinking`, `user-testing`
+- **Tags**: `accessibility`, `design`, `testing`
 
 ---
 
@@ -17554,7 +17554,7 @@ UX research and design toolkit for Senior UX Designer/Researcher including data-
 - **Author**: [Alireza Rezvani](https://github.com/alirezarezvani) ([`@alirezarezvani`](https://github.com/alirezarezvani))
 - **License**: [MIT](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/alirezarezvani/claude-skills/tree/main/product-team/ux-researcher-designer
-- **Tags**: `testing`, `science`, `design`
+- **Tags**: `design`, `scientific`, `testing`
 
 ---
 
@@ -17584,7 +17584,7 @@ Comprehensive guide for managing vector databases including Pinecone, Weaviate, 
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-database-pro/skills/vector-database-management
-- **Tags**: `data-analytics`, `ai-automation`, `vector-database`, `embeddings`, `semantic-search`, `rag`, `pinecone`, `weaviate`, `chroma`, `similarity-search`, `machine-learning`, `ai`
+- **Tags**: `ai`, `data`, `embeddings`, `rag`, `vector-database`
 
 ---
 
@@ -17605,7 +17605,7 @@ Comprehensive truth scoring, code quality verification, and automatic rollback s
 - **Author**: [agenticsorg](https://github.com/agenticsorg) ([`@agenticsorg`](https://github.com/agenticsorg))
 - **License**: [MIT](https://raw.githubusercontent.com/agenticsorg/lean-agentic/main/LICENSE)
 - **Skill**: https://github.com/agenticsorg/lean-agentic/tree/main/.claude/skills/verification-quality
-- **Tags**: `development`, `verification`, `truth-scoring`, `quality`, `rollback`, `metrics`, `ci-cd`
+- **Tags**: `ci-cd`, `development`, `monitoring`, `testing`
 
 ---
 
@@ -17616,7 +17616,7 @@ Comprehensive truth scoring, code quality verification, and automatic rollback s
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/verification-quality
-- **Tags**: `development`, `verification`, `truth-scoring`, `quality`, `rollback`, `metrics`, `ci-cd`
+- **Tags**: `ci-cd`, `development`, `monitoring`, `testing`
 
 ---
 
@@ -17626,7 +17626,7 @@ Comprehensive truth scoring, code quality verification, and automatic rollback s
 
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **Skill**: https://github.com/ruvnet/agentic-flow/tree/main/.claude/skills/verification-quality
-- **Tags**: `development`, `verification`, `truth-scoring`, `quality`, `rollback`, `metrics`, `ci-cd`
+- **Tags**: `ci-cd`, `development`, `monitoring`, `testing`
 
 ---
 
@@ -17637,7 +17637,7 @@ Comprehensive truth scoring, code quality verification, and automatic rollback s
 - **Author**: [rUv](https://github.com/ruvnet) ([`@ruvnet`](https://github.com/ruvnet))
 - **License**: [MIT](https://raw.githubusercontent.com/ruvnet/claude-flow/main/LICENSE)
 - **Skill**: https://github.com/ruvnet/claude-flow/tree/main/.claude/skills/verification-quality
-- **Tags**: `development`, `verification`, `truth-scoring`, `quality`, `rollback`, `metrics`, `ci-cd`
+- **Tags**: `ci-cd`, `development`, `monitoring`, `testing`
 
 ---
 
@@ -17647,7 +17647,7 @@ Run verification commands and confirm output before claiming success
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/debugging/verification-before-completion
-- **Tags**: `ai-automation`, `testing`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -17658,7 +17658,7 @@ Use when about to claim work is complete, fixed, or passing, before committing o
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/verification-before-completion
-- **Tags**: `validation`, `quality`, `verification`, `completion`
+- **Tags**: `ai`, `testing`
 
 ---
 
@@ -17699,7 +17699,7 @@ Downloads videos from YouTube and other platforms for offline viewing, editing, 
 
 - **Author**: [Prathit](https://github.com/Prat011) ([`@Prat011`](https://github.com/Prat011))
 - **Skill**: https://github.com/Prat011/awesome-llm-skills/tree/main/video-downloader
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -17710,7 +17710,7 @@ Downloads videos from YouTube and other platforms for offline viewing, editing, 
 - **Author**: [ComposioHQ](https://composio.dev) ([`@ComposioHQ`](https://github.com/ComposioHQ))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/LICENSE)
 - **Skill**: https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader
-- **Tags**: `video`, `download`, `youtube`, `media`, `archival`
+- **Tags**: `video`
 
 ---
 
@@ -17731,7 +17731,7 @@ Advanced visual regression testing with pixel-perfect comparison, AI-powered dif
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/visual-testing-advanced
-- **Tags**: `ai-automation`, `testing`, `visual-testing`, `visual-regression`, `pixel-perfect`, `screenshot-testing`, `ui-testing`
+- **Tags**: `ai`, `testing`, `ui-testing`
 
 ---
 
@@ -17742,7 +17742,7 @@ Composition API vs Options API
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/frontend/vue
-- **Tags**: `testing`, `web`, `ai-automation`
+- **Tags**: `ai`, `testing`, `web`
 
 ---
 
@@ -17752,7 +17752,7 @@ Comprehensive Vue.js development skill covering Composition API, reactivity syst
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-frontend-essentials/skills/vuejs-development
-- **Tags**: `web`, `documentation`, `vue`, `vuejs`, `composition-api`, `reactivity`, `components`, `directives`, `sfc`
+- **Tags**: `documentation`, `vue`, `web`
 
 ---
 
@@ -17773,7 +17773,7 @@ Identify EMERGING trends by connecting dots across unrelated sources. Monitor ni
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/weak-signal-synthesizer
-- **Tags**: `science`
+- **Tags**: `scientific`
 
 ---
 
@@ -17784,7 +17784,7 @@ Identify EMERGING trends by connecting dots across unrelated sources. Monitor ni
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/weak-signal-synthesizer
-- **Tags**: `ai-automation`, `science`
+- **Tags**: `ai`, `scientific`
 
 ---
 
@@ -17795,7 +17795,7 @@ Generate web assets including favicons, app icons (PWA), and social media meta i
 - **Author**: [Alon Wolenitz](https://github.com/alonw0) ([`@alonw0`](https://github.com/alonw0))
 - **License**: [MIT](https://raw.githubusercontent.com/alonw0/web-asset-generator/main/LICENSE)
 - **Skill**: https://github.com/alonw0/web-asset-generator/tree/main/skills/web-asset-generator
-- **Tags**: `science`, `design`
+- **Tags**: `design`, `scientific`
 
 ---
 
@@ -17805,7 +17805,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-web-portal
-- **Tags**: `ai-automation`, `web`
+- **Tags**: `ai`, `web`
 
 ---
 
@@ -17938,7 +17938,7 @@ Toolkit for interacting with and testing local web applications using Playwright
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/webapp-testing
-- **Tags**: `ai-automation`, `testing`, `web`
+- **Tags**: `ai`, `testing`, `web`
 
 ---
 
@@ -17959,7 +17959,7 @@ Toolkit for interacting with and testing local web applications using Playwright
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Apache-2.0](https://raw.githubusercontent.com/anthropics/skills/main/webapp-testing/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/webapp-testing
-- **Tags**: `testing`, `web`, `automation`, `playwright`, `qa`
+- **Tags**: `automation`, `playwright`, `testing`, `web`
 
 ---
 
@@ -17969,7 +17969,7 @@ Simplified Claude Flow for beginners - AI agent orchestration        made easy
 
 - **Author**: [masharratt](https://github.com/masharratt) ([`@masharratt`](https://github.com/masharratt))
 - **Skill**: https://github.com/masharratt/claude-flow-novice/tree/main/.claude/skills/cfn-webapp-testing
-- **Tags**: `ai-automation`, `testing`, `web`
+- **Tags**: `ai`, `testing`, `web`
 
 ---
 
@@ -17990,7 +17990,7 @@ Transform webinar recordings into multiple content assets including blog post se
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/webinar-content-repurposer
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -18001,7 +18001,7 @@ Transform webinar recordings into multiple content assets including blog post se
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/webinar-content-repurposer
-- **Tags**: `writing`
+- **Tags**: `content`
 
 ---
 
@@ -18011,7 +18011,7 @@ Convert webinar recordings into blog posts, social snippets, email series. Extra
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/webinar-to-content-multiplier
-- **Tags**: `ai-automation`, `data-analytics`, `web`
+- **Tags**: `ai`, `data`, `web`
 
 ---
 
@@ -18022,7 +18022,7 @@ Convert webinar recordings into blog posts, social snippets, email series. Extra
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/webinar-to-content-multiplier
-- **Tags**: `ai-automation`, `data-analytics`, `web`
+- **Tags**: `ai`, `data`, `web`
 
 ---
 
@@ -18064,7 +18064,7 @@ Systematic approaches to break through mental blocks and overcome obstacles when
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers-skills/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers-skills/tree/main/skills/problem-solving/when-stuck
-- **Tags**: `problem-solving`, `debugging`, `thinking`, `strategy`
+- **Tags**: `business`, `debugging`
 
 ---
 
@@ -18084,7 +18084,7 @@ Low/high fidelity wireframes, user flows, information architecture, prototyping 
 
 - **Author**: [manutej](https://github.com/manutej) ([`@manutej`](https://github.com/manutej))
 - **Skill**: https://github.com/manutej/luxor-claude-marketplace/tree/main/plugins/luxor-design-toolkit/skills/wireframing
-- **Tags**: `development`, `wireframing`, `ux`, `prototyping`, `user-flows`, `information-architecture`, `sketching`
+- **Tags**: `design`, `development`
 
 ---
 
@@ -18167,7 +18167,7 @@ Use when design is complete and you need detailed implementation tasks for engin
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/writing-plans
-- **Tags**: `planning`, `documentation`, `collaboration`, `workflow`
+- **Tags**: `collaboration`, `documentation`, `multi-agent`, `orchestration`
 
 ---
 
@@ -18178,7 +18178,7 @@ Use when creating new skills, editing existing skills, or verifying skills work 
 - **Author**: [Jesse Vincent](https://github.com/obra) ([`@obra`](https://github.com/obra))
 - **License**: [MIT](https://raw.githubusercontent.com/obra/superpowers/main/LICENSE)
 - **Skill**: https://github.com/obra/superpowers/tree/main/skills/writing-skills
-- **Tags**: `meta`, `documentation`, `creation`, `quality`
+- **Tags**: `documentation`, `testing`
 
 ---
 
@@ -18188,7 +18188,7 @@ Use when creating feature specifications after brainstorming - generates lean sp
 
 - **Author**: [Drew Ritter](https://github.com/arittr) ([`@arittr`](https://github.com/arittr))
 - **Skill**: https://github.com/arittr/spectacular/tree/main/skills/writing-specs
-- **Tags**: `science`, `ai-automation`, `education`
+- **Tags**: `ai`, `education`, `scientific`
 
 ---
 
@@ -18219,7 +18219,7 @@ Comprehensive spreadsheet creation, editing, and analysis with support for formu
 
 - **Author**: [gked2121](https://github.com/gked2121) ([`@gked2121`](https://github.com/gked2121))
 - **Skill**: https://github.com/gked2121/claude-skills/tree/main/official-anthropic-skills/document-skills/xlsx
-- **Tags**: `data-analytics`, `documentation`
+- **Tags**: `data`, `documentation`
 
 ---
 
@@ -18229,7 +18229,7 @@ Comprehensive spreadsheet creation, editing, and analysis with support for formu
 
 - **Author**: [Interstellar-code](https://github.com/Interstellar-code) ([`@Interstellar-code`](https://github.com/Interstellar-code))
 - **Skill**: https://github.com/Interstellar-code/claud-skills/tree/main/.claude/skills/document-skills/xlsx
-- **Tags**: `data-analytics`, `documentation`
+- **Tags**: `data`, `documentation`
 
 ---
 
@@ -18259,7 +18259,7 @@ Comprehensive spreadsheet creation, editing, and analysis with support for formu
 
 - **Author**: [Goon](https://github.com/mrgoonie) ([`@mrgoonie`](https://github.com/mrgoonie))
 - **Skill**: https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/document-skills/xlsx
-- **Tags**: `data-analytics`, `documentation`
+- **Tags**: `data`, `documentation`
 
 ---
 
@@ -18270,7 +18270,7 @@ Comprehensive spreadsheet creation, editing, and analysis with support for formu
 - **Author**: [OneWave-AI](https://github.com/OneWave-AI) ([`@OneWave-AI`](https://github.com/OneWave-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/LICENSE)
 - **Skill**: https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/document-skills/xlsx
-- **Tags**: `ai-automation`, `data-analytics`, `documentation`
+- **Tags**: `ai`, `data`, `documentation`
 
 ---
 
@@ -18280,7 +18280,7 @@ Comprehensive spreadsheet creation, editing, and analysis with support for formu
 
 - **Author**: [Prathit](https://github.com/Prat011) ([`@Prat011`](https://github.com/Prat011))
 - **Skill**: https://github.com/Prat011/awesome-llm-skills/tree/main/document-skills/xlsx
-- **Tags**: `data-analytics`, `documentation`
+- **Tags**: `data`, `documentation`
 
 ---
 
@@ -18302,7 +18302,7 @@ Access and utilize the Xlsx methodologies for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-thinking/document-skills/xlsx
-- **Tags**: `scientific`, `methodology`, `workflow`, `analysis`
+- **Tags**: `data`, `orchestration`, `scientific`
 
 ---
 
@@ -18313,7 +18313,7 @@ Comprehensive spreadsheet creation, editing, and analysis with support for formu
 - **Author**: [Anthropic](https://www.anthropic.com) ([`@anthropics`](https://github.com/anthropics))
 - **License**: [Proprietary](https://raw.githubusercontent.com/anthropics/skills/main/document-skills/xlsx/LICENSE.txt)
 - **Skill**: https://github.com/anthropics/skills/tree/main/document-skills/xlsx
-- **Tags**: `spreadsheet`, `excel`, `xlsx`, `data`, `analysis`
+- **Tags**: `data`, `excel`
 
 ---
 
@@ -18324,7 +18324,7 @@ Apply XP practices including pair programming, ensemble programming, continuous 
 - **Author**: [Dragan Spiridonov](https://github.com/proffesor-for-testing) ([`@proffesor-for-testing`](https://github.com/proffesor-for-testing))
 - **License**: [MIT](https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/LICENSE)
 - **Skill**: https://github.com/proffesor-for-testing/agentic-qe/tree/main/.claude/skills/xp-practices
-- **Tags**: `data-analytics`, `project-management`, `development`, `xp`, `pair-programming`, `ensemble-programming`, `continuous-integration`, `sustainable-pace`, `agile`, `teamwork`
+- **Tags**: `agile`, `ci-cd`, `collaboration`, `data`, `development`, `project-management`
 
 ---
 
@@ -18345,7 +18345,7 @@ Download and clean YouTube video transcripts with automatic deduplication and re
 - **Author**: [Michal Parkola](https://github.com/michalparkola) ([`@michalparkola`](https://github.com/michalparkola))
 - **License**: [MIT](https://raw.githubusercontent.com/michalparkola/tapestry-skills-for-claude-code/main/LICENSE)
 - **Skill**: https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript
-- **Tags**: `youtube`, `transcript`, `video`, `content`, `extraction`
+- **Tags**: `content`, `video`
 
 ---
 
@@ -18366,7 +18366,7 @@ Access and utilize the Zarr Python Python package for scientific computing.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-packages/zarr-python
-- **Tags**: `scientific`, `python`, `library`, `analysis`
+- **Tags**: `data`, `library`, `python`, `scientific`
 
 ---
 
@@ -18377,7 +18377,7 @@ Access and utilize the Zarr Python Python package for scientific computing.
 - **Author**: [William Zujkowski](https://github.com/williamzujkowski) ([`@williamzujkowski`](https://github.com/williamzujkowski))
 - **License**: [MIT](https://raw.githubusercontent.com/williamzujkowski/standards/master/LICENSE)
 - **Skill**: https://github.com/williamzujkowski/standards/tree/main/skills/security/zero-trust
-- **Tags**: `testing`, `security`, `ai-automation`
+- **Tags**: `ai`, `security`, `testing`
 
 ---
 
@@ -18388,7 +18388,7 @@ Access and utilize the Zinc Database database for scientific research.
 - **Author**: [K-Dense AI](https://k-dense.ai) ([`@K-Dense-AI`](https://github.com/K-Dense-AI))
 - **License**: [MIT](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/LICENSE)
 - **Skill**: https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-databases/zinc-database
-- **Tags**: `scientific`, `database`, `data`, `research`
+- **Tags**: `data`, `database`, `scientific`
 
 ---
 
@@ -18409,7 +18409,7 @@ Search and retrieve documents from the user's local Zotero library using the Pyz
 
 - **Author**: [Jeremy Dawes](https://github.com/jezweb) ([`@jezweb`](https://github.com/jezweb))
 - **Skill**: https://github.com/jezweb/claude-skills/tree/main/skills/zustand-state-management
-- **Tags**: `ai-automation`, `documentation`, `testing`, `web`
+- **Tags**: `ai`, `documentation`, `testing`, `web`
 
 ---
 
@@ -18419,7 +18419,7 @@ Search and retrieve documents from the user's local Zotero library using the Pyz
 
 - **Author**: [suji-father](https://github.com/bear2u) ([`@bear2u`](https://github.com/bear2u))
 - **Skill**: https://github.com/bear2u/my-skills/tree/main/skills/meta-prompt-generator
-- **Tags**: `ai-automation`
+- **Tags**: `ai`
 
 ---
 
