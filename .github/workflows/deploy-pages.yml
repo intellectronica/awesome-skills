@@ -8,6 +8,11 @@ on:
       - "skills.json"
       - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Update skills data from skills.yaml"]
+    types:
+      - completed
+    branches: ["main"]
 
 permissions:
   contents: read
