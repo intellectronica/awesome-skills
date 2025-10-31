@@ -12,7 +12,7 @@ If you have a skill to share, please submit a pull request adding it to [`skills
 
 ## Credit & License
 
-This repository is maintained with love by **[Eleanor Berger](https://intellectronica.net/) ([`@intellectronica`](https://github.com/intellectronica))** and is avaialble in the **public domain** under the [CC0-1.0 Universal License](LICENSE).
+This repository is maintained with love by **[Eleanor Berger](https://intellectronica.net/) ([`@intellectronica`](https://github.com/intellectronica))** and is available in the **public domain** under the [CC0-1.0 Universal License](LICENSE).
 
 The linked skills each have their own license.
 
