@@ -1,11 +1,10 @@
-name: Update README from skills.yaml
+name: Update skills data from skills.yaml
 
 on:
   push:
     branches: ["main"]
     paths:
       - "skills.yaml"
-      - "generate_readme.py"
       - "generate_skills_json.py"
   workflow_dispatch:
 
@@ -13,7 +12,7 @@ permissions:
   contents: write
 
 jobs:
-  update-readme:
+  update-skills-data:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -24,20 +23,17 @@ jobs:
       - name: Setup uv
         uses: astral-sh/setup-uv@v4
 
-      - name: Generate README
-        run: uv run generate_readme.py
-
-      - name: Generate skills.json
+      - name: Generate skills.json and skills.html
         run: uv run generate_skills_json.py
 
       - name: Commit changes (if any)
         run: |
-          git add README.md skills.json skills.html
+          git add skills.json skills.html
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
           git config user.name "Awesome Skills"
           git config user.email "eleanor+awesome-skills@intellectronica.net"
-          git commit -m "Update README, skills.json, and skills.html from skills.yaml"
+          git commit -m "Update skills.json and skills.html from skills.yaml"
           git push
