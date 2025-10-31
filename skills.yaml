@@ -14276,6 +14276,17 @@ skills:
   tags:
   - testing
   - web
+- id: promptify
+  title: Promptify
+  description: Transforms casual requests into detailed, precise prompts optimised for AI models.
+  author: Eleanor Berger
+  author_url: https://intellectronica.net/
+  author_github: intellectronica
+  skill_url: https://gist.github.com/intellectronica/aefcc01982a2e30040b2fa1a09ad390e
+  skill_download_url: https://gist.github.com/intellectronica/aefcc01982a2e30040b2fa1a09ad390e/raw/9abd778c688dfc1ecc22347f61719515a79906bf/promptify.skill
+  tags:
+  - ai
+  - productivity
 - id: preserving-productive-tensions
   title: Preserving Productive Tensions
   description: Manage architectural decisions by preserving competing viewpoints to balance innovation and stability in software design.
