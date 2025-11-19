@@ -14,6 +14,20 @@
       ]
     },
     {
+      "id": "markdown-converter",
+      "title": "Markdown converter",
+      "description": "Convert files to Markdown using uvx markitdown — no installation required.",
+      "author": "Eleanor Berger",
+      "author_url": "https://intellectronica.net/",
+      "author_github": "intellectronica",
+      "skill_url": "https://gist.github.com/intellectronica/7c76818d79851fa8c33a6f7b0420bccb",
+      "skill_download_url": "https://gist.github.com/intellectronica/7c76818d79851fa8c33a6f7b0420bccb/raw/a2e0f164f0e1b47f6233f94685015d937fc7046c/markdown-converter.skill",
+      "tags": [
+        "markdown",
+        "documentation"
+      ]
+    },
+    {
       "id": "23blocks-os-ai-maestro-skills-agent-messaging-skill-md",
       "title": "AI Maestro Agent Messaging",
       "description": "Send and receive messages between AI agent sessions using AI Maestro's messaging system. Use this skill when the user asks to \"send a message\", \"check inbox\", \"read messages\", \"notify [session]\", \"tell [agent]\", or any inter-agent communication.",
