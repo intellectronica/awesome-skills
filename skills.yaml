@@ -20997,3 +20997,19 @@ skills:
   tags:
   - content
   - video
+- id: skillboss-ai-gateway
+  title: SkillBoss AI Gateway
+  description: Access 100+ AI services through a unified OpenAI-compatible API. Includes LLMs (Claude, GPT, Gemini, DeepSeek), image generation (DALL-E, Midjourney, Flux), video (Runway, Kling), audio (ElevenLabs), and more. Single API key for all services.
+  author: SkillBoss
+  author_url: https://skillboss.co
+  author_github: heeyo-life
+  license: MIT
+  license_url: https://github.com/heeyo-life/skillboss-skills/blob/main/LICENSE
+  skill_url: https://github.com/heeyo-life/skillboss-skills
+  skill_download_url: https://github.com/heeyo-life/skillboss-skills/tree/main/skillboss-ai-gateway
+  tags:
+  - ai-services
+  - api
+  - llm
+  - image-generation
+  - video-generation
