@@ -20997,3 +20997,14 @@ skills:
   tags:
   - content
   - video
+- id: seandinwiddie-legal-skill
+  title: Legal
+  description: Draft and review startup legal documents with jurisdiction-aware checklists, contract redlines, founder paperwork guidance, filing references, and deadline tracking. Use when working on NDAs, consulting agreements, SAFEs, stock issuances and 83(b) elections, founder departures, provisional patent drafts, trademark filing prep, and startup-side contract review.
+  author: Sean Dinwiddie
+  author_url: https://github.com/seandinwiddie
+  author_github: seandinwiddie
+  skill_url: https://github.com/seandinwiddie/legal-skill
+  skill_download_url: https://github.com/seandinwiddie/legal-skill
+  tags:
+  - business
+  - documentation
