@@ -20,6 +20,22 @@ skills:
   tags:
   - markdown
   - documentation
+- id: reguorier-ai-judge
+  title: AI Judge
+  description: Local-first multi-model deliberation skill. Query multiple AI seats independently, cross-validate their claims, and produce auditable verdicts while keeping final authority with the human.
+  author: AI Judge Contributors
+  author_url: https://github.com/reguorier/ai-judge
+  author_github: reguorier
+  license: BSL-1.1
+  license_url: https://raw.githubusercontent.com/reguorier/ai-judge/main/LICENSE
+  skill_url: https://github.com/reguorier/ai-judge
+  skill_download_url: https://raw.githubusercontent.com/reguorier/ai-judge/main/SKILL.md
+  tags:
+  - ai
+  - codex
+  - multi-agent
+  - llm-evaluation
+  - local-first
 - id: 23blocks-os-ai-maestro-skills-agent-messaging-skill-md
   title: AI Maestro Agent Messaging
   description: Send and receive messages between AI agent sessions using AI Maestro's messaging system. Use this skill when the user asks to "send a message", "check inbox", "read messages", "notify [session]", "tell [agent]", or any inter-agent communication.
