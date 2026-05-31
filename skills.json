@@ -1,6 +1,23 @@
 {
   "skills": [
     {
+      "id": "before-you-build",
+      "title": "Before You Build",
+      "description": "Pressure-test a product idea, landing page, MVP, or major feature before implementation. Use when a founder, product manager, or builder is about to ask an AI coding agent to build and needs to identify demand, positioning, monetization, retention, trust, distribution, or feature-adoption risk first.",
+      "author": "bin1874",
+      "author_url": "https://github.com/bin1874",
+      "author_github": "bin1874",
+      "license": "MIT",
+      "license_url": "https://raw.githubusercontent.com/bin1874/before-you-build-skill/main/LICENSE",
+      "skill_url": "https://github.com/bin1874/before-you-build-skill",
+      "skill_download_url": "https://raw.githubusercontent.com/bin1874/before-you-build-skill/main/SKILL.md",
+      "tags": [
+        "product-management",
+        "validation",
+        "planning"
+      ]
+    },
+    {
       "id": "cardcraft-flashcards-generator",
       "title": "Flashcards Deck Generator",
       "description": "This skill converts any text document into high-quality flashcards optimised for memorisation and spaced repetition learning.",
