@@ -26282,6 +26282,23 @@
         "content",
         "video"
       ]
+    },
+    {
+      "id": "ericyoung-183-alpha-insights-skill-md",
+      "title": "Alpha Insights",
+      "description": "Professional business research skill for Claude Code and Codex Desktop. Encodes consulting-style analysis workflows with evidence grading, framework selection, quality gates, and HTML report generation for industry research, competitive analysis, market entry, due diligence, and strategic planning.",
+      "author": "Eric Young",
+      "author_url": "https://github.com/Ericyoung-183",
+      "author_github": "Ericyoung-183",
+      "license": "MIT",
+      "license_url": "https://raw.githubusercontent.com/Ericyoung-183/alpha-insights/main/LICENSE",
+      "skill_url": "https://github.com/Ericyoung-183/alpha-insights",
+      "skill_download_url": "https://raw.githubusercontent.com/Ericyoung-183/alpha-insights/main/SKILL.md",
+      "tags": [
+        "business",
+        "research",
+        "data"
+      ]
     }
   ]
 }
