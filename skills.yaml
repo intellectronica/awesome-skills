@@ -20997,3 +20997,17 @@ skills:
   tags:
   - content
   - video
+- id: zenlee123-routerbase-agent-skills-routerbase-model-routing-skill-md
+  title: RouterBase Model Routing
+  description: Choose RouterBase model IDs and routing strategies for chat, image, video, audio, and embeddings workloads through an OpenAI-compatible gateway.
+  author: RouterBase
+  author_url: https://routerbase.com/
+  author_github: zenlee123
+  license: MIT-0
+  license_url: https://raw.githubusercontent.com/zenlee123/routerbase-agent-skills/main/LICENSE
+  skill_url: https://github.com/zenlee123/routerbase-agent-skills/tree/main/skills/routerbase-model-routing
+  skill_download_url: https://github.com/zenlee123/routerbase-agent-skills/tree/main/skills/routerbase-model-routing
+  tags:
+  - ai
+  - development
+  - routing
