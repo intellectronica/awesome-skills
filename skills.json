@@ -19684,6 +19684,25 @@
       ]
     },
     {
+      "id": "runapi-ai-cli-skill",
+      "title": "RunAPI CLI Skill",
+      "description": "Run AI image, video, music, audio, and LLM model API jobs from Claude Code, Codex, Gemini CLI, Cursor, and other agents.",
+      "author": "RunAPI",
+      "author_url": "https://github.com/runapi-ai",
+      "author_github": "runapi-ai",
+      "license": "Apache-2.0",
+      "license_url": "https://raw.githubusercontent.com/runapi-ai/cli-skill/main/LICENSE",
+      "skill_url": "https://github.com/runapi-ai/cli-skill",
+      "skill_download_url": "https://github.com/runapi-ai/cli-skill",
+      "tags": [
+        "ai",
+        "audio",
+        "automation",
+        "image",
+        "video"
+      ]
+    },
+    {
       "id": "ruvnet-agentic-flow-claude-skills-agentdb-advanced-skill-md",
       "title": "AgentDB Advanced Features",
       "description": "Master advanced AgentDB features including QUIC synchronization, multi-database management, custom distance metrics, hybrid search, and distributed systems integration. Use when building distributed AI systems, multi-agent coordination, or advanced vector search applications.",
