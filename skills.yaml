@@ -21013,3 +21013,19 @@ skills:
   tags:
   - content
   - video
+- id: deanpeters-product-manager-skills
+  title: Product Manager Skills
+  description: 40+ PM-focused skills collection covering problem framing, discovery, opportunity selection, roadmaps, PRDs, prototypes, story splitting, and SaaS metrics.
+  author: Dean Peters
+  author_url: https://github.com/deanpeters
+  author_github: deanpeters
+  license: CC BY-NC-SA 4.0
+  license_url: https://raw.githubusercontent.com/deanpeters/Product-Manager-Skills/main/LICENSE
+  skill_url: https://github.com/deanpeters/Product-Manager-Skills
+  skill_download_url: https://github.com/deanpeters/Product-Manager-Skills
+  tags:
+  - product-management
+  - project-management
+  - strategy
+  - discovery
+  - saas
