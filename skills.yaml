@@ -21013,3 +21013,18 @@ skills:
   tags:
   - content
   - video
+- id: maxbaluev-accreted-intelligence-plugins-claude-skills-solve-skill-md
+  title: AccInt Solve
+  description: Route Claude Code goals through AccInt's scored-memory loop, using retrieved prior work, continuation frames, and outcome feedback from a local-first MCP memory server.
+  author: Max Baluev
+  author_url: https://github.com/maxbaluev
+  author_github: maxbaluev
+  license: Apache-2.0
+  license_url: https://raw.githubusercontent.com/maxbaluev/accreted-intelligence/main/LICENSE-APACHE-2.0.txt
+  skill_url: https://github.com/maxbaluev/accreted-intelligence/tree/main/plugins/claude/skills/solve
+  skill_download_url: https://raw.githubusercontent.com/maxbaluev/accreted-intelligence/main/plugins/claude/skills/solve/SKILL.md
+  tags:
+  - ai
+  - development
+  - memory
+  - mcp
