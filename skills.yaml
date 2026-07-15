@@ -21013,29 +21013,16 @@ skills:
   tags:
   - content
   - video
-- id: aislon-uizze-mcp-uizze-ui-research
-  title: UIZZE UI Research
-  description: Give Codex, Claude Code, and Cursor real web and iOS UI references, explicit design constraints, and implementation validation before shipping an interface.
+- id: uizze-com-anti-ai-ui-slop
+  title: 'UIZZE: Stop AI UI Slop'
+  description: Stop Codex, Claude Code, and Cursor from shipping generic AI UI with real product patterns, a design contract, and a finish-gate review. Paid UIZZE access is required; there is no free plan or trial.
   author: UIZZE
   author_url: https://uizze.com
   author_github: aislon
   license: MIT
   license_url: https://raw.githubusercontent.com/aislon/uizze-mcp/main/LICENSE
-  skill_url: https://github.com/aislon/uizze-mcp/tree/main/skills/uizze-ui-research
-  skill_download_url: https://raw.githubusercontent.com/aislon/uizze-mcp/main/skills/uizze-ui-research/SKILL.md
-  tags:
-  - design
-  - development
-- id: aislon-uizze-mcp-ai-ui-slop-review
-  title: AI UI Slop Review
-  description: Review implemented web or iOS interfaces for generic AI patterns, weak product specificity, missing states, and observable responsive or accessibility gaps.
-  author: UIZZE
-  author_url: https://uizze.com
-  author_github: aislon
-  license: MIT
-  license_url: https://raw.githubusercontent.com/aislon/uizze-mcp/main/LICENSE
-  skill_url: https://github.com/aislon/uizze-mcp/tree/main/skills/ai-ui-slop-review
-  skill_download_url: https://raw.githubusercontent.com/aislon/uizze-mcp/main/skills/ai-ui-slop-review/SKILL.md
+  skill_url: https://uizze.com
+  skill_download_url: https://uizze.com/.well-known/agent-skills/anti-ai-ui-slop/SKILL.md
   tags:
   - design
   - development
