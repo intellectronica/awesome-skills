@@ -20665,6 +20665,21 @@ skills:
   tags:
   - data
   - excel
+- id: xquik-dev-x-twitter-scraper-skills-x-twitter-scraper-skill-md
+  title: X Twitter Scraper
+  description: Use Xquik with AI agents for public X data workflows, including tweet search, user lookup, timelines, media downloads, monitors, webhooks, hosted MCP, and SDKs.
+  author: Xquik
+  author_url: https://github.com/Xquik-dev
+  author_github: Xquik-dev
+  license: MIT
+  license_url: https://raw.githubusercontent.com/Xquik-dev/x-twitter-scraper/master/LICENSE
+  skill_url: https://github.com/Xquik-dev/x-twitter-scraper/tree/master/skills/x-twitter-scraper
+  skill_download_url: https://raw.githubusercontent.com/Xquik-dev/x-twitter-scraper/master/skills/x-twitter-scraper/SKILL.md
+  tags:
+  - api
+  - automation
+  - data
+  - social-media
 - id: yai333-skillagentexample-skills-docx-skill-md
   title: Docx
   description: 'Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks'
