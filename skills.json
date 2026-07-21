@@ -26317,6 +26317,23 @@
         "design",
         "development"
       ]
+    },
+    {
+      "id": "alice51849-lumi-mcp-skills-lumi-app-finder-skill-md",
+      "title": "Lumi App Finder",
+      "description": "Find verified live iPhone and iPad apps from a first-party catalog covering 28 Lumi Studio apps and all 50 Apple locales. Use for task-based App Store discovery, pay-once or lifetime-unlock comparisons, and direct clean App Store links; results are not an independent ranking.",
+      "author": "Lumi Studio",
+      "author_url": "https://alice51849.github.io/ios-app-guide/",
+      "author_github": "alice51849",
+      "license": "MIT",
+      "license_url": "https://raw.githubusercontent.com/alice51849/lumi-mcp/v1.1.0/LICENSE",
+      "skill_url": "https://github.com/alice51849/lumi-mcp/tree/v1.1.0/skills/lumi-app-finder",
+      "skill_download_url": "https://github.com/alice51849/lumi-mcp/tree/v1.1.0/skills/lumi-app-finder",
+      "tags": [
+        "ai",
+        "education",
+        "productivity"
+      ]
     }
   ]
 }
