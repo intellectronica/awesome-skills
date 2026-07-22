@@ -21014,15 +21014,15 @@ skills:
   - content
   - video
 - id: uizze-com-anti-ai-ui-slop
-  title: 'UIZZE: Stop AI UI Slop'
-  description: Stop Codex, Claude Code, and Cursor from shipping generic AI UI with real product patterns, a design contract, and a finish-gate review. Paid UIZZE access is required; there is no free plan or trial.
+  title: 'UIZZE: STOP UI SLOP'
+  description: 'Stop UI slop with a public catalogue of 800,000+ real web and iOS screens plus a full free skill workflow for evidence-backed design contracts and hard finish gates. Optional full UIZZE MCP automation: https://uizze.com.'
   author: UIZZE
   author_url: https://uizze.com
   author_github: aislon
   license: MIT
   license_url: https://raw.githubusercontent.com/aislon/uizze-mcp/main/LICENSE
   skill_url: https://uizze.com
-  skill_download_url: https://uizze.com/.well-known/agent-skills/anti-ai-ui-slop/SKILL.md
+  skill_download_url: https://uizze.com/.well-known/agent-skills/anti-ui-slop/SKILL.md
   tags:
   - design
   - development
