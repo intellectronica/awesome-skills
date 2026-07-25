@@ -13855,6 +13855,21 @@
       ]
     },
     {
+      "id": "mohamedkuch-utilia-solana-agent-skills-utilia-pdf-to-markdown-skill-md",
+      "title": "Utilia PDF to Markdown",
+      "description": "Convert a public HTTPS PDF into page-delimited Markdown, page count, metadata, and a source SHA-256 digest through a wallet-funded x402 client. Use when an agent needs deterministic PDF text for RAG, LLM context, or document analysis and can pay $0.0025 USDC per conversion without an API key.",
+      "author": "Mohamed Kechaou",
+      "author_url": "https://utilia.ink/",
+      "author_github": "mohamedkuch",
+      "skill_url": "https://github.com/mohamedkuch/utilia-solana-agent/tree/main/skills/utilia-pdf-to-markdown",
+      "skill_download_url": "https://github.com/mohamedkuch/utilia-solana-agent/tree/main/skills/utilia-pdf-to-markdown",
+      "tags": [
+        "ai",
+        "documentation",
+        "markdown"
+      ]
+    },
+    {
       "id": "modu-ai-moai-adk-claude-skills-moai-alfred-ears-authoring-skill-md",
       "title": "Moai Alfred Ears Authoring",
       "description": "EARS (Easy Approach to Requirements Syntax) authoring with 5 statement patterns for clear requirements.",
