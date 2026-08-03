@@ -26366,6 +26366,23 @@
         "monitoring",
         "web"
       ]
+    },
+    {
+      "id": "alfredtech2026-shopify-app-review-brief-docs-skills-shopify-review-triage-skill-md",
+      "title": "Shopify Review Triage",
+      "description": "Turn rows of public Shopify App Store review text into a prioritized P0-P3 brief covering incident risk, repeated friction, pricing confusion, feature requests, and an explicit needs-human-read bucket. Every item keeps its public source link and is labeled first pass or human-checked, reviews are treated as customer reports rather than verified defects, and no message is ever sent on the team's behalf. Needs no network access, scripts, or system packages. Independent and not affiliated with Shopify Inc.",
+      "author": "alfredtech2026",
+      "author_url": "https://github.com/alfredtech2026",
+      "author_github": "alfredtech2026",
+      "license": "MIT",
+      "license_url": "https://raw.githubusercontent.com/alfredtech2026/shopify-app-review-brief/main/LICENSE",
+      "skill_url": "https://github.com/alfredtech2026/shopify-app-review-brief/tree/main/docs/skills/shopify-review-triage",
+      "skill_download_url": "https://github.com/alfredtech2026/shopify-app-review-brief/tree/main/docs/skills/shopify-review-triage",
+      "tags": [
+        "business",
+        "analytics",
+        "productivity"
+      ]
     }
   ]
 }
