@@ -26349,6 +26349,23 @@
         "education",
         "productivity"
       ]
+    },
+    {
+      "id": "nowork-studio-notfair-seo-seo-drift-skill-md",
+      "title": "NotFair SEO Drift",
+      "description": "Snapshot a site's rankings, indexation, metadata, canonicals, robots directives, schema, and key on-page elements, then compare later snapshots to surface SEO regressions. This is an official MIT NotFair skill; Google Search Console data is optional and requires a hosted NotFair MCP connection.",
+      "author": "NotFair",
+      "author_url": "https://github.com/nowork-studio/NotFair",
+      "author_github": "nowork-studio",
+      "license": "MIT",
+      "license_url": "https://raw.githubusercontent.com/nowork-studio/NotFair/main/LICENSE",
+      "skill_url": "https://github.com/nowork-studio/NotFair/tree/main/seo/seo-drift",
+      "skill_download_url": "https://github.com/nowork-studio/NotFair/tree/main/seo/seo-drift",
+      "tags": [
+        "analytics",
+        "monitoring",
+        "web"
+      ]
     }
   ]
 }
