@@ -13,13 +13,18 @@ Also injects the JSON data into skills.html.
 from pathlib import Path
 import json
 import sys
-import re
 import yaml
 
 ROOT = Path(__file__).parent.resolve()
 YAML_PATH = ROOT / "skills.yaml"
 JSON_PATH = ROOT / "skills.json"
 HTML_PATH = ROOT / "skills.html"
+
+
+def json_for_html(data):
+    """Serialize data without allowing a value to close the script element."""
+    return json.dumps(data, ensure_ascii=False, separators=(',', ':'), default=str).replace('<', '\\u003c')
+
 
 def main():
     try:
@@ -61,7 +66,7 @@ def main():
             html_content = f.read()
         
         # Create the compact JSON string (single line, no extra whitespace)
-        json_str = json.dumps(data, ensure_ascii=False, separators=(',', ':'), default=str)
+        json_str = json_for_html(data)
         
         # Find and replace the content between the script tags
         updated_html = html_content
