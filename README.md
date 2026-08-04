@@ -6,6 +6,10 @@ Skills extend the capabilities of AI agents with packaged routines, workflows, a
 
 You can run these skills in [Claude](https://www.anthropic.com/news/skills) or with any AI agent using the [Skillz MCP server](https://github.com/intellectronica/skillz).
 
+## Related Awesome Lists
+
+- [ai-skill](https://github.com/anomalyco/ai-skill) - AI skill discovery and management system
+
 ## Contributing
 
 If you have a skill to share, please submit a pull request adding it to [`skills.yaml`](https://github.com/intellectronica/awesome-skills/blob/main/skills.yaml) or [open an issue](https://github.com/intellectronica/awesome-skills/issues).
