@@ -1531,6 +1531,25 @@ skills:
   - design
   - documentation
   - scientific
+- id: staurus-global-design-skill-skill-md
+  title: Global Design Skill
+  description: Portable design operating system for AI-assisted frontend work. Use for landing pages, SaaS apps, admin panels, dashboards, forms, design systems, and frontend handoff specs. Covers UX architecture, UI patterns, design tokens, review agents, accessibility, performance, responsive behavior, and implementation-ready specs for developers.
+  author: Stanislav Kirichenko
+  author_url: https://github.com/staurus86
+  author_github: staurus86
+  license: MIT
+  skill_url: https://github.com/staurus86/global-design-skill/tree/master/skills/global-design
+  skill_download_url: https://raw.githubusercontent.com/staurus86/global-design-skill/master/skills/global-design/SKILL.md
+  tags:
+  - design
+  - frontend
+  - accessibility
+  - ui
+  - react
+  - nextjs
+  - tailwind
+  - claude-code
+  - handoff
 - id: alirezarezvani-claude-skills-product-team-ux-researcher-designer-skill-md
   title: Ux Researcher Designer
   description: UX research and design toolkit for Senior UX Designer/Researcher including data-driven persona generation, journey mapping, usability testing frameworks, and research synthesis. Use for user research, persona creation, journey mapping, and design validation.
