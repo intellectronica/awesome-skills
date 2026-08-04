@@ -327,6 +327,7 @@
     function init() {
       renderAuthorOptions();
       renderTagChips();
+      applyFiltersFromUrl();
       updateFilters();
       wireEvents();
     }
@@ -577,6 +578,47 @@
         inlineBadgesContainer.innerHTML = '';
       }
     }
+
+    function syncFiltersToUrl() {
+      const params = new URLSearchParams();
+      if (searchQuery) params.set('search-input', searchQuery);
+      if (selectedAuthor && selectedAuthor !== 'all') params.set('author-select', selectedAuthor);
+      if (selectedTags.size > 0) {
+        selectedTags.forEach(tag => {
+          if (tag) params.append('tag', tag);
+        });
+      }
+
+      const queryString = params.toString();
+      const nextHash = queryString ? `#?${queryString}` : '';
+      if (window.location.hash !== nextHash) {
+        history.replaceState(null, '', window.location.pathname + window.location.search + nextHash);
+      }
+    }
+
+    function applyFiltersFromUrl() {
+      const hash = window.location.hash || '';
+      const params = hash.startsWith('#?') ? new URLSearchParams(hash.slice(2)) : new URLSearchParams();
+      const searchInput = document.getElementById('search-input');
+      const authorSelect = document.getElementById('author-select');
+
+      searchInput.value = searchQuery = params.get('search-input') || '';
+
+      const urlAuthor = params.get('author-select');
+      const hasAuthorOption = Array.from(authorSelect.options).some(option => option.value === urlAuthor);
+      authorSelect.value = selectedAuthor = urlAuthor && hasAuthorOption ? urlAuthor : 'all';
+
+      selectedTags.clear();
+      const urlTags = params.getAll('tag').filter(Boolean);
+      document.querySelectorAll('.tag-chip').forEach(chip => {
+        if (urlTags.includes(chip.dataset.tag)) {
+          selectedTags.add(chip.dataset.tag);
+          chip.setAttribute('aria-pressed', 'true');
+        } else {
+          chip.setAttribute('aria-pressed', 'false');
+        }
+      });
+    }
     
     // Update filter UI (badge, clear button)
     function updateFilters() {
@@ -599,6 +641,7 @@
         clearBtn.classList.add('hidden');
       }
       
+      syncFiltersToUrl();
       updateInlineTagBadges();
       renderSkills();
     }
